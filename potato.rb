@@ -28,17 +28,22 @@ end
 
 post '/sugar' do
   save("style.sass")
+  redirect '/sugar'
 end
 post '/ham' do
   save("template.haml")
+  redirect '/ham'
 end
 post '/head' do
   save("text.markdown")
+  redirect '/head'
 end
 
 helpers do
   def navigation
     RDiscount.new( <<-MARKDOWN ).to_html
+[VIEW](/)
+EDIT:
 [content](/head)
 [style](/sugar)
 [layout](/ham)
@@ -61,4 +66,9 @@ helpers do
     HAML
   end
 
+  def save(filename)
+    File.open(filename, "w"){|f| f.print(params[:content])}
+    `git add #{filename.inspect}`
+    `git commit -m potato`
+  end
 end
