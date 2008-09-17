@@ -4,7 +4,19 @@ BlueCloth = RDiscount
 require "haml"
 require "sass"
 require "sinatra"
+require "md5"
 
+$secret  = 'a69020db0ccbd083e3df17a9227c8813'
+$secret2 = '08706a8151c34df243ee0a2b26d7a6ea'
+
+enable :sessions
+
+#TODO: security
+#TODO: deploy
+#TODO: RSS
+#TODO: history list
+#TODO: rollback
+#TODO: history diffs
 
 get '/' do
   $text = RDiscount.new( File.read("text.markdown") ).to_html
@@ -12,6 +24,34 @@ get '/' do
   $html = Haml::Engine.new( File.read("template.haml") ).to_html
   File.open("index.html","w"){|f| f.puts($html)}
   next $html
+end
+
+get '/pancake' do
+  haml <<-HAML
+%html
+  %body
+    %form{:method=>'POST'}
+      %label{:for=>'name'} name
+      %input#name{:name=>'name'}
+      %label{:for=>'password'} Password
+      %input#password{:type=>'password',:name=>'password'}
+      %input{:type=>'submit', :value=>'go', :default=>'1'}
+    %a{:href=>'/'} back
+  HAML
+end
+
+post '/pancake' do
+  password = params['password']
+  if MD5.hexdigest(password) == $secret
+    set_cookie('name', params['name'])
+    set_cookie('password',  MD5.hexdigest($secret + password))
+  end
+  redirect '/head'
+end
+
+get '/onion' do
+  set_cookie('name', nil)
+  redirect '/pancake'
 end
 
 get '/head' do
@@ -47,10 +87,14 @@ EDIT:
 [content](/head)
 [style](/sugar)
 [layout](/ham)
+[LOGOUT](/onion)
     MARKDOWN
   end
 
   def editor(file, text = nil)
+    if(MD5.hexdigest(request.cookies['password'].to_s) != $secret2)
+      return redirect '/pancake'
+    end
     haml <<-HAML
 %html
   %body
@@ -70,5 +114,8 @@ EDIT:
     File.open(filename, "w"){|f| f.print(params[:content])}
     `git add #{filename.inspect}`
     `git commit -m potato`
+  end
+
+  def authorize()
   end
 end
