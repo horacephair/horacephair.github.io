@@ -1,6 +1,6 @@
 require "rubygems"
 require "rdiscount"
-BlueCloth ||= RDiscount
+BlueCloth rescue BlueCloth = RDiscount
 require "haml"
 require "sass"
 require "sinatra"
