@@ -48,4 +48,20 @@
 
 <div style="font:92pt Times New Roman; position:absolute; bottom:0px; font-weight: bold; right:0px; z-index: -2; color: #E0E0E0 ; text-align:right; overflow:hidden">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</div>
 
+# <a name="will_happen"></a><span title="moved from the mountain">Phairs of the past.</span>
+
+## -39
+> The [Columbus Day Storm of 1962](http://en.wikipedia.org/wiki/Columbus_Day_Storm_of_1962) 
+> (otherwise known as the Big Blow) was an extratropical wave cyclone that ranked among the most 
+> intense to strike the United States Pacific Northwest since at least 1948, likely since the 
+> January 9, 1880, "Great Gale" and snowstorm. On a larger scale, the Columbus Day Storm of 1962 is 
+> a contender for the title of most powerful extratropical cyclone recorded in the U.S. in the 20th 
+> century; with respect to wind velocity, it is unmatched by the March 1993 "Storm of the Century" 
+> and the "1991 Halloween Nor’easter" (aka "The Perfect Storm"). In the eastern United States, only 
+> hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
+> Washington on Columbus Day, October 12, 1962.
+
+<big><big>Horace Greeley is DEAD and will not be attending the
+party</big></big>
+
 [edit](/head)
