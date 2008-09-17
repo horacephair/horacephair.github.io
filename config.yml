@@ -2,8 +2,8 @@
     environment: production
     chdir: /var/www/horacephair/potato
     address: 127.0.0.1
-    user: root
-    group: root
+    user: potato
+    group: potato
     port: 4567
     pid: /tmp/potato.thin.pid
     rackup: /var/www/horacephair/potato/config.ru
