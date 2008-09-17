@@ -1,13 +1,13 @@
 require "rubygems"
 require "rdiscount"
-BlueCloth = RDiscount
+BlueCloth ||= RDiscount
 require "haml"
 require "sass"
 require "sinatra"
 require "md5"
 
-$secret  = 'a69020db0ccbd083e3df17a9227c8813'
-$secret2 = '08706a8151c34df243ee0a2b26d7a6ea'
+$secret  = '47dcbc6ee81ad88ed5e0bf3caa18ae07'
+$secret2 = '51a00c3fa95770ad305f2e869d02636b'
 
 enable :sessions
 
@@ -32,7 +32,7 @@ get '/pancake' do
   %body
     %form{:method=>'POST'}
       %label{:for=>'name'} name
-      %input#name{:name=>'name'}
+      %input#name{:name=>'name', :value=>request.cookies['name']}
       %label{:for=>'password'} Password
       %input#password{:type=>'password',:name=>'password'}
       %input{:type=>'submit', :value=>'go', :default=>'1'}
@@ -50,7 +50,7 @@ post '/pancake' do
 end
 
 get '/onion' do
-  set_cookie('name', nil)
+  set_cookie('password', nil)
   redirect '/pancake'
 end
 
@@ -92,9 +92,8 @@ EDIT:
   end
 
   def editor(file, text = nil)
-    if(MD5.hexdigest(request.cookies['password'].to_s) != $secret2)
-      return redirect '/pancake'
-    end
+    authorize
+
     haml <<-HAML
 %html
   %body
@@ -111,11 +110,15 @@ EDIT:
   end
 
   def save(filename)
+    authorize
     File.open(filename, "w"){|f| f.print(params[:content])}
     `git add #{filename.inspect}`
     `git commit -m potato`
   end
 
   def authorize()
+    if(MD5.hexdigest(request.cookies['password'].to_s) != $secret2)
+      redirect '/pancake'
+    end
   end
 end
