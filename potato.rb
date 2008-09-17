@@ -16,7 +16,7 @@ enable :sessions
 #done: RSS
 #done: save edit names
 #done: history list
-#TODO: rollback
+#done: rollback
 #TODO: history diffs
 #TODO: error catching
 
@@ -141,6 +141,23 @@ EDIT:
       HAML
     end
 
+    blob = nil 
+    if params[:commit]
+      ls = `git-ls-tree #{params[:commit].inspect}`
+      ls.split("\n").each do | line |
+        if(line.index file)
+          line =~ /[0-9]+ blob (\S*)/
+          blob = $1
+        end
+      end
+    end
+    content = nil
+    if( blob )
+      content = `git-show #{blob.inspect}`
+    else
+      content = File.read(file)
+    end
+
     haml <<-HAML
 %html
   %body
@@ -151,7 +168,7 @@ EDIT:
     %form{:method=>'POST'}
       %textarea{:cols=>100, :rows=>40, :name=>'content'}
         :preserve
-          \#{html_escape File.read(#{file.inspect})}
+          \#{html_escape #{content.inspect}}
       %input{:type=>'submit', :value=>'sumbit'}
       %br
 #{history}
