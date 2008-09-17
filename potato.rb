@@ -11,9 +11,9 @@ $secret2 = '51a00c3fa95770ad305f2e869d02636b'
 
 enable :sessions
 
-#TODO: security
+#done: security
 #TODO: deploy
-#TODO: RSS
+#done: RSS
 #TODO: history list
 #TODO: rollback
 #TODO: history diffs
@@ -25,6 +25,23 @@ get '/' do
   File.open("index.html","w"){|f| f.puts($html)}
   next $html
 end
+
+get '/rss' do
+  $uid = `git-rev-list HEAD ^HEAD~1`
+  $text = RDiscount.new( File.read("text.markdown") ).to_html
+  header 'Content-Type' => 'application/atom+xml'
+  haml <<-HAML
+!!! XML
+%feed{:xmlns=>"http://www.w3.org/2005/Atom"}
+  %title FEED
+  %entry
+    %title update
+    %link{:rel=>"alternate", :type=>"text/html", :href=>"/"}
+    %id= $uid
+    %content{:type=>'html'}= html_escape $text
+  HAML
+end
+
 
 get '/pancake' do
   haml <<-HAML
