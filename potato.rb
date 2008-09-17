@@ -14,7 +14,8 @@ enable :sessions
 #done: security
 #TODO: deploy
 #done: RSS
-#TODO: history list
+#done: save edit names
+#done: history list
 #TODO: rollback
 #TODO: history diffs
 #TODO: error catching
@@ -112,6 +113,34 @@ EDIT:
   def editor(file, text = nil)
     authorize
 
+    log = `git log #{file}`
+    data = []
+    log.split("\n").each do |line|
+      if( line =~ /^commit\s*(.*)/ )
+        data.push({:commit => $1})
+        next
+      end
+      if( line =~ /^Date:\s*(.*)/ )
+        data.last.update({:date=> $1})
+        next
+      end
+      if( line =~ /^Author:\s*(.*)/ )
+        data.last.update({:author=> $1})
+        next
+      end
+      data.last[:text] ||= ''
+      data.last[:text] += line.strip + "\n" unless line.strip.empty?
+    end
+
+    history = ""
+    data.each do | dat |
+      description = "#{dat[:date]} #{dat[:text]}"
+      history += <<-HAML
+      %a{:href=>"?commit=#{dat[:commit]}"}= #{ description.inspect }
+      %br/
+      HAML
+    end
+
     haml <<-HAML
 %html
   %body
@@ -124,6 +153,8 @@ EDIT:
         :preserve
           \#{html_escape File.read(#{file.inspect})}
       %input{:type=>'submit', :value=>'sumbit'}
+      %br
+#{history}
     HAML
   end
 
@@ -131,7 +162,8 @@ EDIT:
     authorize
     File.open(filename, "w"){|f| f.print(params[:content])}
     `git add #{filename.inspect}`
-    `git commit -m potato`
+    message = "potato edit by " + request.cookies['name']
+    `git commit -m #{message.inspect}`
   end
 
   def authorize()
