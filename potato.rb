@@ -17,6 +17,7 @@ enable :sessions
 #TODO: history list
 #TODO: rollback
 #TODO: history diffs
+#TODO: error catching
 
 get '/' do
   $text = RDiscount.new( File.read("text.markdown") ).to_html
