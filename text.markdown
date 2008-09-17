@@ -47,3 +47,5 @@
 > we hear that's the hottest new thing.
 
 <div style="font:92pt Times New Roman; position:absolute; bottom:0px; font-weight: bold; right:0px; z-index: -2; color: #E0E0E0 ; text-align:right; overflow:hidden">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</div>
+
+[edit](/head)
