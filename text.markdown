@@ -80,7 +80,7 @@ the Manifestos
 we failed to have a reading
 
 ## VI
-the wedding of Horace (deceased) and Liz (unaware)
-ovenmitts!
+* the wedding of Horace (deceased) and Liz (unaware)
+* ovenmitts!
 
 [edit](/head)
