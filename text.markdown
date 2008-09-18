@@ -64,11 +64,11 @@ party</em>
 > hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
 > Washington on Columbus Day, October 12, 1962.
 
-## I
+
+## I &nbsp;
 Head west!
 
 ## II
-
 
 ## III
 The NewHaus, which have become Salut.
@@ -76,7 +76,7 @@ The NewHaus, which have become Salut.
 ## IV
 the Manifestos
 
-## V
+## V &nbsp;
 we failed to have a reading
 
 ## VI
