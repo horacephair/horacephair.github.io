@@ -66,18 +66,18 @@ party</em>
 
 
 ## I &nbsp;
-Head west!
+* Head west!
 
 ## II
 
 ## III
-The NewHaus, which have become Salut.
+* The NewHaus, which have become Salut.
 
 ## IV
-the Manifestos
+* the Manifestos
 
 ## V &nbsp;
-we failed to have a reading
+* we failed to have a reading
 
 ## VI
 * the wedding of Horace (deceased) and Liz (unaware)
