@@ -46,7 +46,7 @@
 > We may even find a way to make some information available online, as
 > we hear that's the hottest new thing.
 <div style="height:0px;position:absolute">
-<span style="font:92pt Times New Roman; position:absolute; font-weight: bold; bottom: 0px; right:0px; z-index: -2; color: #E0E0E0 ; text-align:right; overflow:hidden">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</span>
+<span style="font:92pt Times New Roman; position:absolute; font-weight: bold; bottom: 0px; right:0px; z-index: 2; color: #E0E0E0 ; text-align:right; overflow:hidden">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</span>
 </div>
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
