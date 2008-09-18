@@ -49,6 +49,10 @@
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
 
+## -172
+<em>Horace Greeley is DEAD and will not be attending the
+party</em>
+
 ## -39
 > The [Columbus Day Storm of 1962](http://en.wikipedia.org/wiki/Columbus_Day_Storm_of_1962) 
 > (otherwise known as the Big Blow) was an extratropical wave cyclone that ranked among the most 
@@ -60,7 +64,23 @@
 > hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
 > Washington on Columbus Day, October 12, 1962.
 
-<em>Horace Greeley is DEAD and will not be attending the
-party</em>
+## I
+Head west!
+
+## II
+
+
+## III
+The NewHaus, which have become Salut.
+
+## IV
+the Manifestos
+
+## V
+we failed to have a reading
+
+## VI
+the wedding of Horace (deceased) and Liz (unaware)
+ovenmitts!
 
 [edit](/head)
