@@ -60,7 +60,7 @@
 > hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
 > Washington on Columbus Day, October 12, 1962.
 
-<div class="backgroundtext"><span class="backgroundtext">Horace Greeley is DEAD and will not be attending the
+<div class="backgroundtext"><span class="backgroundtext" style="font:60pt">Horace Greeley is DEAD and will not be attending the
 party</span></div>
 
 [edit](/head)
