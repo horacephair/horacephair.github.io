@@ -48,7 +48,7 @@
 
 <div style="font:92pt Times New Roman; position:absolute; bottom:0px; font-weight: bold; right:0px; z-index: -2; color: #E0E0E0 ; text-align:right; overflow:hidden">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</div>
 
-# <a name="will_happen"></a><span title="moved from the mountain">Phairs of the past.</span>
+# <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
 
 ## -39
 > The [Columbus Day Storm of 1962](http://en.wikipedia.org/wiki/Columbus_Day_Storm_of_1962) 
@@ -61,7 +61,7 @@
 > hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
 > Washington on Columbus Day, October 12, 1962.
 
-<big>Horace Greeley is DEAD and will not be attending the
-party</big>
+<em>Horace Greeley is DEAD and will not be attending the
+party</em>
 
 [edit](/head)
