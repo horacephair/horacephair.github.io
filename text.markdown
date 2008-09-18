@@ -45,9 +45,7 @@
 > **We will be sending more details and updates to those who respond.**
 > We may even find a way to make some information available online, as
 > we hear that's the hottest new thing.
-<div class="backgroundtext">
-<span class="backgroundtext">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</span>
-</div>
+<div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
 
