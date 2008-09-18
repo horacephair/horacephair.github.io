@@ -39,14 +39,12 @@
 > saralinn, Panurge, Quentin Xavier Zamfir, discofever, Siobhan, Aaditya
 > Rangan, the real jeff bridges, Tina Weymouth, Tina Fey, Tina Brown,
 > Henry Kissinger.
-> 
+>  <div style="font:92pt Times New Roman; position:absolute; font-weight: bold; right:0px; z-index: -2; color: #E0E0E0 ; text-align:right; overflow:hidden">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</div>
 > Some we don't know how to contact - help if you can.
 > 
 > **We will be sending more details and updates to those who respond.**
 > We may even find a way to make some information available online, as
 > we hear that's the hottest new thing.
-
-<div style="font:92pt Times New Roman; position:absolute; bottom:0px; font-weight: bold; right:0px; z-index: -2; color: #E0E0E0 ; text-align:right; overflow:hidden">i&nbsp;say&nbsp;yes&nbsp;because&nbsp;i&nbsp;believe&nbsp;in&nbsp;sailboats</div>
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
 
