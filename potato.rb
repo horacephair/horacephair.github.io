@@ -28,6 +28,10 @@ get '/' do
   next $html
 end
 
+get '/head' do
+  redirect '/potato'
+end
+
 get '/rss' do
   $uid = `git-rev-list HEAD ^HEAD~1`
   $text = RDiscount.new( File.read("text.markdown") ).to_html
@@ -65,7 +69,7 @@ post '/pancake' do
     set_cookie('name', params['name'])
     set_cookie('password',  MD5.hexdigest($secret + password))
   end
-  redirect '/head'
+  redirect '/potato'
 end
 
 get '/onion' do
@@ -73,7 +77,7 @@ get '/onion' do
   redirect '/pancake'
 end
 
-get '/head' do
+get '/potato' do
   editor("text.markdown", "[markdown](http://daringfireball.net/projects/markdown/syntax)")
 end
 
@@ -93,9 +97,9 @@ post '/ham' do
   save("template.haml")
   redirect '/ham'
 end
-post '/head' do
+post '/potato' do
   save("text.markdown")
-  redirect '/head'
+  redirect '/potato'
 end
 
 helpers do
@@ -103,7 +107,7 @@ helpers do
     RDiscount.new( <<-MARKDOWN ).to_html
 [VIEW](/)
 EDIT:
-[content](/head)
+[content](/potato)
 [style](/sugar)
 [layout](/ham)
 [LOGOUT](/onion)
