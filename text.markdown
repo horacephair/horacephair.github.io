@@ -83,4 +83,4 @@ party</em>
 * the wedding of Horace (deceased) and Liz (unaware)
 * ovenmitts!
 
-[edit](/head)
+[edit](/potato)
