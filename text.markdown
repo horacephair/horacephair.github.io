@@ -15,6 +15,17 @@
 > And perhaps give thanks. Give thanks for Canada! Ok, we'll do that.
 > 
 > My question for you is: when are you arriving?
+
+
+# Maybe
+
+* birch
+* nathan vasil
+* Zach D Smith, music critic
+* haze
+* Matt Wittenstein
+
+
 > 
 > We want to mention: there are a number of people whom we'd hope to see
 > at Horace Phair Seven. In no particular  order, these include: ailie,
