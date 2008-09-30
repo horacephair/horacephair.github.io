@@ -25,6 +25,37 @@
 * haze
 * Matt Wittenstein
 
+# YES 
+
+* kate
+* Peter boothe
+* revphil
+* shawn
+* Tracy van Cort
+* Aphexious
+* Ariel Marsh
+* Ashley
+* Bengt
+* BJuarez
+* Chevelle Wiseman
+* Christopher Lewis Cotrell
+* ClockworkGrue (Ben)
+* creaking planks
+* Dave / panamaus
+* Doruk
+* J
+* Jack Chatterton
+* Jeanne Tieman-Reed
+* JeffreyPicanso
+* joyquality
+* karma_debt/ccunning Jen/Chad
+* Keith Putnam
+* Marissa
+* Matthew Harris
+* Mike Kelley
+* Rowan Lipkovits
+* ryan
+
 
 > 
 > We want to mention: there are a number of people whom we'd hope to see
