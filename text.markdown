@@ -75,15 +75,13 @@ party</em>
 
 ## IV
 * the Manifestos
-* CD released
+* first CD released
 
 ## V &nbsp;
 * we failed to have a reading
-* CD released
 
 ## VI
 * the wedding of Horace (deceased) and Liz (unaware)
 * ovenmitts!
-* CD released
 
 [edit](/potato)
