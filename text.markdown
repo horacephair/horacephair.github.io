@@ -24,6 +24,7 @@
 * Zach D Smith, music critic
 * haze
 * Matt Wittenstein
+* Dresden Codak
 
 # YES 
 
