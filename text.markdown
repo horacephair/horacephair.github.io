@@ -6,6 +6,11 @@
  - backyard fire,
  - beer,
  - order pizza as people arrive</td></tr>
+<tr><th>Saturday morning</th><td>- noontide brunch in Col.Summers Park,
+ - juggling, frisbee,
+ - general laying about in the sun if we're so lucky
+- readings?</td></tr>
+
 </table>
 
 
