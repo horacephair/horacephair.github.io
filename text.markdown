@@ -2,6 +2,10 @@
 
 # <a name="days"></a>The days of the week go round and round
 <table><tr><th>Span</th><th>Things</th></tr>
+<tr><th>Friday night</th><td>ARRIVALS
+ - backyard fire,
+ - beer,
+ - order pizza as people arrive</td></tr>
 </table>
 
 
