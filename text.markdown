@@ -67,6 +67,7 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 # YES 
 * Aphexious
 * Akatchoom
+* anonamyst
 * Ashley
 * Bengt
 * BJuarez
@@ -80,8 +81,10 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 * Jack Chatterton
 * Jeanne Tieman-Reed
 * JeffreyPicanso
+* jes5199
 * joyquality
 * karma_debt
+* keystricken
 * mordel
 * Keith Putnam
 * Marissa
