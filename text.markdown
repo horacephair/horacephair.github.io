@@ -1,26 +1,6 @@
 <div><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;output=embed&amp;s=AARTsJqCtoKrDaBY0E0N2v5hffpCu9WkLg"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small></div>
 
 # <a name="days"></a>The days of the week go round and round
-<table><tr><td>Span</td><td>Things</td></tr>
-<tr><td>Friday night</td><td>ARRIVALS
- - backyard fire,
- - beer,
- - order pizza as people arrive</td></tr>
-<tr><td>Saturday morning</td><td>- noontide brunch in Col.Summers Park,
- - juggling, frisbee,
- - general laying about in the sun if we're so lucky
-- readings?</td></tr>
-<tr><td>Saturday afternoon</td><td>- transit to Saluthaus, party prep</td></tr>
-<tr><td>Saturday evening</td><td>SAUCE PARTY
- - readings</td></tr>
-<tr><td>Saturday night</td><td>BANDS:
-Creaking Planks
-Oven Mitts
-Nite Brite
-The Pathogens</td></tr>
-<tr><td>Sunday noon-ish and afternoon</td><td>
- - pubs?</td></tr>
-<tr><td>Monday morning</td><td>MMS - bloodies mary chez Salut</td></tr></table>
 
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII will happen.</span>
 
