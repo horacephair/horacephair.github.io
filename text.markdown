@@ -5,33 +5,37 @@
 <tr><th>Friday night</th><td>Arrivals<br />
 Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
-<tr><th>Saturday morning</th><td>- noontide brunch in the Park,
- - juggling, frisbee,
- - general laying about in the sun if we're so lucky
+<tr><th>Saturday morning</th><td>Noon brunch in the Park<br/>
+ - juggling, frisbee,<br />
+ - general laying about in the sun if we're so lucky<br />
 - <a href="#reading">readings</a></td><td>Colonel Summers Park</td></tr>
 <tr><th>Saturday afternoon</th><td>- transit to Saluthaus, party prep</td><td>Salut</td></tr>
-<tr><th>Saturday evening</th><td><a href="#saucing">SAUCE PARTY</a>
+<tr><th>Saturday evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
  - <a href="#reading">readings</a></td><td>Salut</td></tr>
-<tr><th>Saturday night</th><td>BANDS:
-Creaking Planks
-Oven Mitts
-Nite Brite
-The Pathogens</td><td>Salut</td></tr>
+<tr><th>Saturday night</th><td>BANDS:<br />
+<a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
+<a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
+<a href="http://www.myspace.com/starlightburnsmyeyes">Nite Brite</a><br />
+<a href="http://www.myspace.com/thepathogenspdx">The Pathogens</a></td><td>Salut</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>
  - pubs?</td><td>??</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Salut</td></tr>
 
 </table>
 
-<a name="singing"></a>Singing
+#<a name="singing"></a>Singing
+Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
 
-<a name="reading"></a>Reading
+#<a name="reading"></a>Reading
+THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
 
-<a name="saucing"></a>Saucing
+#<a name="saucing"></a>Saucing
+No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
+Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.
 
-<a name="sleeping"></a>Sleeping
+#<a name="sleeping"></a>Sleeping
 
-<a name="moving"></a>Moving
+#<a name="moving"></a>Moving
 
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII will happen.</span>
 
