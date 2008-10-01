@@ -10,6 +10,9 @@
  - juggling, frisbee,
  - general laying about in the sun if we're so lucky
 - readings?</td></tr>
+<tr><th>Saturday afternoon</th><td>- transit to Saluthaus, party prep</td></tr>
+<tr><th>Saturday evening</th><td>SAUCE PARTY
+ - readings</td></tr>
 
 </table>
 
