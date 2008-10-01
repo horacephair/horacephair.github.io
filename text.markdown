@@ -81,6 +81,7 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 * Jack Chatterton
 * Jeanne Tieman-Reed
 * JeffreyPicanso
+* Jeremy Logan whois also called J or Fixedd
 * jes5199
 * joyquality
 * karma_debt
