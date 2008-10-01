@@ -1,29 +1,37 @@
 <div><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;output=embed&amp;s=AARTsJqCtoKrDaBY0E0N2v5hffpCu9WkLg"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small></div>
 
 # <a name="days"></a>The days of the week go round and round
-<table><tr><th>Span</th><th>Things</th></tr>
-<tr><th>Friday night</th><td>ARRIVALS
- - backyard fire,
- - beer,
- - order pizza as people arrive</td></tr>
-<tr><th>Saturday morning</th><td>- noontide brunch in Col.Summers Park,
+<table><tr><th>Span</th><th>Things</th><th>Place</th></tr>
+<tr><th>Friday night</th><td>Arrivals<br />
+Backyard fire (that means <a href="#singing">singing</a>)<br />
+Beer and pizza</td><td>Salut</td></tr>
+<tr><th>Saturday morning</th><td>- noontide brunch in the Park,
  - juggling, frisbee,
  - general laying about in the sun if we're so lucky
-- readings?</td></tr>
-<tr><th>Saturday afternoon</th><td>- transit to Saluthaus, party prep</td></tr>
-<tr><th>Saturday evening</th><td>SAUCE PARTY
- - readings</td></tr>
+- <a href="#reading">readings</a></td><td>Colonel Summers Park</td></tr>
+<tr><th>Saturday afternoon</th><td>- transit to Saluthaus, party prep</td><td>Salut</td></tr>
+<tr><th>Saturday evening</th><td><a href="#saucing">SAUCE PARTY</a>
+ - <a href="#reading">readings</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:
 Creaking Planks
 Oven Mitts
 Nite Brite
-The Pathogens</td></tr>
+The Pathogens</td><td>Salut</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>
- - pubs?</td></tr>
-<tr><th>Monday morning</th><td>MMS - bloodies mary chez Salut</td></tr>
+ - pubs?</td><td>??</td></tr>
+<tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Salut</td></tr>
 
 </table>
 
+<a name="singing"></a>Singing
+
+<a name="reading"></a>Reading
+
+<a name="saucing"></a>Saucing
+
+<a name="sleeping"></a>Sleeping
+
+<a name="moving"></a>Moving
 
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII will happen.</span>
 
