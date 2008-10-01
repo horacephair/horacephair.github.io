@@ -18,6 +18,9 @@ Creaking Planks
 Oven Mitts
 Nite Brite
 The Pathogens</td></tr>
+<tr><th>Sunday noon-ish and afternoon</th><td>
+ - pubs?</td></tr>
+
 
 </table>
 
