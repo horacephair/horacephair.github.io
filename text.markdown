@@ -13,6 +13,11 @@
 <tr><th>Saturday afternoon</th><td>- transit to Saluthaus, party prep</td></tr>
 <tr><th>Saturday evening</th><td>SAUCE PARTY
  - readings</td></tr>
+<tr><th>Saturday night</th><td>BANDS:
+Creaking Planks
+Oven Mitts
+Nite Brite
+The Pathogens</td></tr>
 
 </table>
 
