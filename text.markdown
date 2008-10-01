@@ -20,7 +20,7 @@ Nite Brite
 The Pathogens</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>
  - pubs?</td></tr>
-
+<tr><th>Monday morning</th><td>MMS - bloodies mary chez Salut</td></tr>
 
 </table>
 
