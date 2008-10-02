@@ -94,7 +94,6 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 * Kenny (local)
 * keystricken (localish)
 * <B>mordel</B>
-* Keith Putnam (Chez Rude)
 * Marissa (local)
 * Matthew Harris (local)
 * <B>Mike Kelley</B>
