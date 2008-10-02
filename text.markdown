@@ -100,7 +100,7 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 * <B>Mike Kelley</B>
 * Rowan Lipkovits (Salut?)
 * ryan (with Kelly's Ma?)
-* <B> Sean Thayer</B>
+* <B> Sean Thayer</B> (traveling with Jack)
 * Steve Grant (staying at Planet Motherfucker)
 * <B>Void_ptr</B>
 
