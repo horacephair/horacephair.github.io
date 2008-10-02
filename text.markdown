@@ -23,7 +23,7 @@
 <tr><th>Friday night</th><td>Arrivals<br />
 Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
-<tr><th>Saturday morning</th><td>Noon brunch in the Park<br/>
+<tr><th>Saturday morning</th><td>Noon brunch at Jace Gace on SE Belmont<br/>
  - juggling, frisbee,<br />
  - general laying about in the sun if we're so lucky<br />
 - <a href="#reading">readings</a></td><td>Colonel Summers Park</td></tr>
@@ -37,7 +37,7 @@ Beer and pizza</td><td>Salut</td></tr>
 <a href="http://www.myspace.com/thepathogenspdx">The Pathogens</a></td><td>Salut</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>
  - pubs?</td><td>??</td></tr>
-<tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Salut</td></tr>
+<tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 
 </table>
 
@@ -60,40 +60,49 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 * birch
 * nathan vasil
 * Zach D Smith, music critic
-* haze
 * Matt Wittenstein
 * Dresden Codak
+* Clout
+* Bex
 
 # YES 
-* Aphexious
-* Akatchoom
-* anonamyst
-* Ashley
-* Bengt
-* BJuarez
+* Aphexious (local)
+* Akatchoom (localish)
+* anonamyst (local)
+* <B>Ashley B.</B>
+* Ashley F. (Cathco)
+* Bengt (local)
+* <B>BJuarez</B>
+* Bobby Noah (local)
 * Chevelle Wiseman
-* Christopher Lewis Cotrell
-* ClockworkGrue (Ben)
-* creaking planks
+* Christopher Lewis Cotrell (Cathco)
+* ClockworkGrue (Ben) (staying at Planet Motherfucker)
+* creaking planks (Salut)
 * Dave / panamaus
 * Doruk
+* Ed Hawkins (staying at Planet Motherfucker)
+* Hazen (renting car and hotel room?)
 * J
-* Jack Chatterton
-* Jeanne Tieman-Reed
-* JeffreyPicanso
+* <B>Jack Chatterton</B>
+* Jeanne Tieman-Reed (local)
+* JeffreyPicanso (Chez Rude)
 * Jeremy Logan whois also called J or Fixedd
-* jes5199
-* joyquality
-* karma_debt
-* keystricken
-* mordel
-* Keith Putnam
-* Marissa
-* Matthew Harris
-* Mike Kelley
-* Rowan Lipkovits
-* ryan
-* Kenny
+* jes5199 (local)
+* joyquality (with Ma?)
+* <B>karma_debt</B>
+* Keith Putnam (Chez Rude)
+* Kenny (local)
+* keystricken (localish)
+* <B>mordel</B>
+* Keith Putnam (Chez Rude)
+* Marissa (local)
+* Matthew Harris (local)
+* <B>Mike Kelley</B>
+* Rowan Lipkovits (Salut?)
+* ryan (with Kelly's Ma?)
+* <B> Sean Thayer</B>
+* Steve Grant (staying at Planet Motherfucker)
+* <B>Void_ptr</B>
 
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
@@ -133,5 +142,8 @@ party</em>
 ## VI
 * the wedding of Horace (deceased) and Liz (unaware)
 * ovenmitts!
+
+## VII
+* ELECT HORACE/PHAIR '08
 
 [edit](/potato)
