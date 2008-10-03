@@ -97,6 +97,7 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 * Marissa (local)
 * Matthew Harris (local)
 * <B>Mike Kelley</B>
+* misuba + geminica (local)
 * Rowan Lipkovits (Salut?)
 * ryan (with Kelly's Ma?)
 * <B> Sean Thayer</B> (traveling with Jack)
