@@ -2,10 +2,6 @@
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII will happen.</span>
 
 > O my friends etcetera
-> Seriously? You were doubting that Columbus Day would come this year?
-> You were doubting the Saluthaus would open up for you to celebrate
-> this day of ambivalent origins and celebrated present?
-> Please. Have some faith. This will be our seventh year.
 > 
 > The U.S. holiday of Columbus Day falls on Monday, October 13. This is
 > relevant to us because some places of work and study allow that as a
@@ -16,7 +12,7 @@
 > And perhaps give thanks. Give thanks for Canada! Ok, we'll do that.
 > 
 > My question for you is: when are you arriving?</div>
-
+<br clear="all">
 
 # <a name="days"></a>The days of the week go round and round
 <table><tr><th>Span</th><th>Things</th><th>Place</th></tr>
