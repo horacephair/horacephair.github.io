@@ -43,13 +43,32 @@ Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zit
 #<a name="reading"></a>Reading
 THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
 
+Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether it's selling a missile silo, a haunted irish villa, or an interesting fixer in a colorful neighborhood... I'm sure you can find or create 
+
 #<a name="saucing"></a>Saucing
 No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
 Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.
+Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
 
 #<a name="sleeping"></a>Sleeping
+<strong>Saluthaus</strong>
+<em>conform, equinoctial, ideath</em>
+<ul><li>Creaking planks (#?)</li>
+<li>Daveamaus</li>
+<li>BJuarez</li></ul>
+
+<strong>Planet Motherfucker</strong>
+<em>icicle, ouroboros, renderer</em>
+<ul><li>Ed Hawkins</li>
+<li>Hazen</li></ul>
+
+<strong>TARDIS garden</strong>
+<em>geminica, misuba</em>
+
+<strong>Chez Rude</strong>
 
 #<a name="moving"></a>Moving
+Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
 # Maybe
 
@@ -72,12 +91,7 @@ Like last year, Friend Jack will be leading an intrepid and daring team in an in
 * Bobby Noah (local)
 * Chevelle Wiseman
 * Christopher Lewis Cotrell (Cathco)
-* ClockworkGrue (Ben) (staying at Planet Motherfucker)
-* creaking planks (Salut)
-* Dave / panamaus
 * Doruk
-* Ed Hawkins (staying at Planet Motherfucker)
-* Hazen (renting car and hotel room?)
 * J
 * <B>Jack Chatterton</B>
 * Jeanne Tieman-Reed (local)
