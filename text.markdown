@@ -40,12 +40,12 @@ Beer and pizza</td><td>Salut</td></tr>
 #<a name="singing"></a>Singing
 Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
 
-#<a name="reading"></a>Reading
+#<a name="reading"></a>100% literacy or deth
 THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
 
 Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether it's selling a missile silo, a haunted irish villa, or an interesting fixer in a colorful neighborhood... I'm sure you can find or create 
 
-#<a name="saucing"></a>Saucing
+#<a name="saucing"></a>A sauce in every pot
 No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
 Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.
 Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
@@ -60,14 +60,19 @@ Saluthaus basil garden is up for pillaging. There may well be some late-season t
 <strong>Planet Motherfucker</strong>
 <em>icicle, ouroboros, renderer</em>
 <ul><li>Ed Hawkins</li>
+<li>Steve Grant</li>
 <li>Hazen</li></ul>
 
 <strong>TARDIS garden</strong>
 <em>geminica, misuba</em>
+<ul><li>Ben/Clockworkgrue</li></ul>
 
 <strong>Chez Rude</strong>
+<ul><li>JeffreyPicanso</li>
+<li>Keith Putnam </li>
+</ul>
 
-#<a name="moving"></a>Moving
+#<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
 # Maybe
@@ -87,31 +92,24 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 * <B>Ashley B.</B>
 * Ashley F. (Cathco)
 * Bengt (local)
-* <B>BJuarez</B>
 * Bobby Noah (local)
-* Chevelle Wiseman
+* Chevelle Wiseman (local)
 * Christopher Lewis Cotrell (Cathco)
-* Doruk
-* J
+* <b>Doruk</b>
 * <B>Jack Chatterton</B>
 * Jeanne Tieman-Reed (local)
-* JeffreyPicanso (Chez Rude)
-* Jeremy Logan whois also called J or Fixedd
+* Jeremy Logan whois also called J or Fixedd (local)
 * jes5199 (local)
 * joyquality (with Ma?)
 * <B>karma_debt</B>
-* Keith Putnam (Chez Rude)
 * Kenny (local)
 * keystricken (localish)
 * <B>mordel</B>
 * Marissa (local)
 * Matthew Harris (local)
 * <B>Mike Kelley</B>
-* misuba + geminica (local)
-* Rowan Lipkovits (Salut?)
 * ryan (with Kelly's Ma?)
-* <B> Sean Thayer</B> (traveling with Jack)
-* Steve Grant (staying at Planet Motherfucker)
+* <B>Sean Thayer</B> (traveling with Jack)
 * <B>Void_ptr</B>
 
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
