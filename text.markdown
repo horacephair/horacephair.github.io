@@ -19,11 +19,10 @@
 <tr><th>Friday night</th><td>Arrivals<br />
 Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
-<tr><th>Saturday morning</th><td>Noon brunch at Jace Gace on SE Belmont<br/>
- - juggling, frisbee,<br />
- - general laying about in the sun if we're so lucky<br />
-- <a href="#reading">readings</a></td><td>Colonel Summers Park</td></tr>
-<tr><th>Saturday afternoon</th><td>- transit to Saluthaus, party prep</td><td>Salut</td></tr>
+<tr><th>Saturday morning</th><td><br/>
+Hot applesauce breakfast, lazing about, games<br />
+other stuff you wanna do in portland</td><td>Saluthaus</td></tr>
+<tr><th>Saturday afternoon</th><td><a href="#reading">readings</a></td><td>Salut</td></tr>
 <tr><th>Saturday evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
  - <a href="#reading">readings</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
@@ -32,7 +31,9 @@ Beer and pizza</td><td>Salut</td></tr>
 <a href="http://www.myspace.com/starlightburnsmyeyes">Nite Brite</a><br />
 <a href="http://www.myspace.com/thepathogenspdx">The Pathogens</a></td><td>Salut</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>
- - pubs?</td><td>??</td></tr>
+Noon brunch at Jace Gace on SE Belmont<br />
+- juggling, frisbee,<br />
+- general laying about in the sun if we're so lucky<br /></td><td>Jace Gace</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 
 </table>
