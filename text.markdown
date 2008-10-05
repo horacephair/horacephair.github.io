@@ -22,8 +22,7 @@ Beer and pizza</td><td>Salut</td></tr>
 <tr><th>Saturday morning</th><td><br/>
 Hot applesauce breakfast, lazing about, games<br />
 other stuff you wanna do in portland</td><td>Saluthaus</td></tr>
-<tr><th>Saturday afternoon</th><td><a href="#reading">readings</a></td><td>Salut</td></tr>
-<tr><th>Saturday evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
+<tr><th>Saturday afternoon/evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
  - <a href="#reading">readings</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
