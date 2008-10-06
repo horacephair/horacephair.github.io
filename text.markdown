@@ -76,19 +76,23 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 
 <strong>TARDIS garden</strong>
 <em>geminica, misuba</em>
+
 * Ben/Clockworkgrue
 
 <strong>Chez Rude</strong>
 <em>Jess Rude</em>
+
 * JeffreyPicanso
 * Keith Putnam
 
 <strong>A house in Vancouver</strong>
+
 * karma_debt/Jenn
 * Mordel/steve
 
 <strong>West side!</strong>
 <em>Mara</em>
+
 * Jack
 * Sean
 * Rose/void_ptr
@@ -113,7 +117,6 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 * ryan (with Kelly's Ma?)
 
 # Maybe
-
 * birch
 * nathan vasil
 * Zach D Smith, music critic
