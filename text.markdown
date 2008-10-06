@@ -53,8 +53,13 @@ Saluthaus basil garden is up for pillaging. There may well be some late-season t
 #<a name="sleeping"></a>Sleeping
 <strong>Saluthaus</strong>
 <em>conform, equinoctial, ideath</em>
-<ul><li>Creaking planks (#?)</li>
+<ul><li>Creaking planks (3)</li>
 <li>Daveamaus</li>
+<li>Mike Kelley</li></ul>
+
+<strong>Casa Drago</strong>
+<em>shwan, revphil</em>
+<ul><li>Doruk/atesh</li>
 <li>BJuarez</li></ul>
 
 <strong>Planet Motherfucker</strong>
@@ -68,9 +73,20 @@ Saluthaus basil garden is up for pillaging. There may well be some late-season t
 <ul><li>Ben/Clockworkgrue</li></ul>
 
 <strong>Chez Rude</strong>
+<em>Jess Rude</em>
 <ul><li>JeffreyPicanso</li>
 <li>Keith Putnam </li>
 </ul>
+
+<strong>A house in Vancouver</strong>
+<ul><li>karma_debt/Jenn</li>
+<li>Mordel/steve</li></ul>
+
+<strong>West side!</strong>
+<em>Mara</em>
+<ul><li>Jack</li>
+<li>Sean</li>
+<li>Rose/void_ptr</li></ul>
 
 #<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
@@ -89,28 +105,20 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 * Aphexious (local)
 * Akatchoom (localish)
 * anonamyst (local)
-* <B>Ashley B.</B>
 * Ashley F. (Cathco)
 * Bengt (local)
 * Bobby Noah (local)
 * Chevelle Wiseman (local)
 * Christopher Lewis Cotrell (Cathco)
-* <b>Doruk</b>
-* <B>Jack Chatterton</B>
 * Jeanne Tieman-Reed (local)
 * Jeremy Logan whois also called J or Fixedd (local)
 * jes5199 (local)
 * joyquality (with Ma?)
-* <B>karma_debt</B>
 * Kenny (local)
 * keystricken (localish)
-* <B>mordel</B>
 * Marissa (local)
 * Matthew Harris (local)
-* <B>Mike Kelley</B>
 * ryan (with Kelly's Ma?)
-* <B>Sean Thayer</B> (traveling with Jack)
-* <B>Void_ptr</B>
 
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
