@@ -23,7 +23,7 @@ Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
 <tr><th>Saturday morning</th><td><br/>
 NE Hot applesauce breakfast before the games begin, SE waffle breakfast before heading North (choose your poison) <br />
-other stuff you wanna do in portland</td><td>Saluthaus</td></tr>
+other stuff you wanna do in portland</td><td>Saluthaus / Jace Gace</td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
  - <a href="#reading">readings</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
