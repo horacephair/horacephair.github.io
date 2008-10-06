@@ -47,61 +47,50 @@ Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether 
 
 #<a name="saucing"></a>A sauce in every pot
 No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
-Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.
+Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.<br />
 Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
-
-#<a name="sleeping"></a>Sleeping
-<strong>Saluthaus</strong>
-<em>conform, equinoctial, ideath</em>
-<ul><li>Creaking planks (3)</li>
-<li>Daveamaus</li>
-<li>Mike Kelley</li></ul>
-
-<strong>Casa Drago</strong>
-<em>shwan, revphil</em>
-<ul><li>Doruk/atesh</li>
-<li>BJuarez</li></ul>
-
-<strong>Planet Motherfucker</strong>
-<em>icicle, ouroboros, renderer</em>
-<ul><li>Ed Hawkins</li>
-<li>Steve Grant</li>
-<li>Hazen</li></ul>
-
-<strong>TARDIS garden</strong>
-<em>geminica, misuba</em>
-<ul><li>Ben/Clockworkgrue</li></ul>
-
-<strong>Chez Rude</strong>
-<em>Jess Rude</em>
-<ul><li>JeffreyPicanso</li>
-<li>Keith Putnam </li>
-</ul>
-
-<strong>A house in Vancouver</strong>
-<ul><li>karma_debt/Jenn</li>
-<li>Mordel/steve</li></ul>
-
-<strong>West side!</strong>
-<em>Mara</em>
-<ul><li>Jack</li>
-<li>Sean</li>
-<li>Rose/void_ptr</li></ul>
 
 #<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
-# Maybe
+#<a name="sleeping"></a>Sleeping
+<strong>Saluthaus</strong>
+<em>conform, equinoctial, ideath</em>
+* Creaking planks (3)
+* Daveamaus
+* Mike Kelley
 
-* birch
-* nathan vasil
-* Zach D Smith, music critic
-* Matt Wittenstein
-* Dresden Codak
-* Clout
-* Bex
+<strong>Casa Drago</strong>
+<em>shwan, <strike>revphil</strike></em>
+* Doruk/atesh
+* BJuarez
 
-# YES 
+<strong>Planet Motherfucker</strong>
+<em>icicle, ouroboros, renderer</em>
+* Ed Hawkins
+* Steve Grant
+* Hazen
+
+<strong>TARDIS garden</strong>
+<em>geminica, misuba</em>
+* Ben/Clockworkgrue
+
+<strong>Chez Rude</strong>
+<em>Jess Rude</em>
+* JeffreyPicanso
+* Keith Putnam
+
+<strong>A house in Vancouver</strong>
+* karma_debt/Jenn
+* Mordel/steve
+
+<strong>West side!</strong>
+<em>Mara</em>
+* Jack
+* Sean
+* Rose/void_ptr
+
+# OTHERS 
 * Aphexious (local)
 * Akatchoom (localish)
 * anonamyst (local)
@@ -119,6 +108,18 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 * Marissa (local)
 * Matthew Harris (local)
 * ryan (with Kelly's Ma?)
+
+# Maybe
+
+* birch
+* nathan vasil
+* Zach D Smith, music critic
+* Matt Wittenstein
+* Dresden Codak
+* Clout
+* Bex
+
+
 
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
