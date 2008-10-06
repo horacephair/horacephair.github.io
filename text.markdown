@@ -56,17 +56,20 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 #<a name="sleeping"></a>Sleeping
 <strong>Saluthaus</strong>
 <em>conform, equinoctial, ideath</em>
+
 * Creaking planks (3)
 * Daveamaus
 * Mike Kelley
 
 <strong>Casa Drago</strong>
 <em>shwan, <strike>revphil</strike></em>
+
 * Doruk/atesh
 * BJuarez
 
 <strong>Planet Motherfucker</strong>
 <em>icicle, ouroboros, renderer</em>
+
 * Ed Hawkins
 * Steve Grant
 * Hazen
