@@ -22,7 +22,7 @@ It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into t
 Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
 <tr><th>Saturday morning</th><td><br/>
-Hot applesauce breakfast, lazing about, games<br />
+Hot applesauce breakfast, lazing about, games <br />
 other stuff you wanna do in portland</td><td>Saluthaus</td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
  - <a href="#reading">readings</a></td><td>Salut</td></tr>
@@ -32,9 +32,7 @@ other stuff you wanna do in portland</td><td>Saluthaus</td></tr>
 <a href="http://www.myspace.com/starlightburnsmyeyes">Nite Brite</a><br />
 <a href="http://www.myspace.com/thepathogenspdx">The Pathogens</a></td><td>Salut</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>
-Noon brunch at Jace Gace on SE Belmont<br />
-- juggling, frisbee,<br />
-- general laying about in the sun if we're so lucky<br /></td><td>Jace Gace</td></tr>
+</td><td>Jace Gace if the loo-large-for-that-establishment crowd of revelers motivates to Southeast on a Sunday morning. They won't. How about "everyone's on their own for Sunday brunch, like usual"?</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 
 </table>
