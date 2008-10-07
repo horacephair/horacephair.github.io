@@ -31,67 +31,43 @@ Other stuff you wanna do in Portland
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
-#<a name="singing"></a>Singing
-Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
-
-#<a name="reading"></a>100% literacy or deth
-THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
-
-Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether it's selling a missile silo, a haunted irish villa, or an "interesting" fixer with lots of "charm and potential" in a "colorful" neighborhood... we're sure you can find or create something worth reading.
-
-#<a name="saucing"></a>A sauce in every pot
-No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
-Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.<br />
-Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
-
-#<a name="moving"></a>The wheels on the bus
-Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
-
-#<a name="sleeping"></a>Sleeping
-<strong>Saluthaus</strong>
+<div class="arrangements">##Saluthaus
 <em>conform, equinoctial, ideath</em>
-
 * Creaking planks (3)
 * Daveamaus
 * Mike Kelley
 
-<strong>Casa Drago</strong>
+##Casa Drago
 <em>shwan, <strike>revphil</strike></em>
-
 * Doruk/atesh
 * BJuarez
 
-<strong>Planet Motherfucker</strong>
+##Planet Motherfucker
 <em>icicle, ouroboros, renderer</em>
-
 * Ed Hawkins
 * Steve Grant
 * Hazen
 
-<strong>TARDIS garden</strong>
+##TARDIS garden
 <em>geminica, misuba</em>
-
 * Ben/Clockworkgrue
 
-<strong>Chez Rude</strong>
+##Chez Rude
 <em>Jess Rude</em>
-
-* JeffreyPicanso
+* Jeffrey Picanso
 * Keith Putnam
 
-<strong>A house in Vancouver</strong>
-
+##A house in Vancouver
 * karma_debt/Jenn
 * Mordel/steve
 
-<strong>Robot Petting Zoo</strong>
+##Robot Petting Zoo
 <em>Marissa</em>
-
 * Jack
 * Sean
 * Void_ptr
 
-# OTHERS 
+## OTHERS 
 * Aphexious (local)
 * Akatchoom (localish)
 * anonamyst (local)
@@ -111,16 +87,29 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 * various narnians, even though they are confused. (localicious)
 * ryan (with Kelly's Ma?)
 
-# Maybe
+## Maybe
 * birch
 * nathan vasil
 * Zach D Smith, music critic
 * Matt Wittenstein
 * Dresden Codak
 * Clout
-* Bex
+* Bex</div>
+#<a name="singing"></a>Singing
+Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
 
+#<a name="reading"></a>100% literacy or deth
+THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
 
+Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether it's selling a missile silo, a haunted irish villa, or an "interesting" fixer with lots of "charm and potential" in a "colorful" neighborhood... we're sure you can find or create something worth reading.
+
+#<a name="saucing"></a>A sauce in every pot
+No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
+Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.<br />
+Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
+
+#<a name="moving"></a>The wheels on the bus
+Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
