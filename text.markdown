@@ -31,6 +31,65 @@ Other stuff you wanna do in Portland
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
+#<a name="singing"></a>Singing
+Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
+
+#<a name="reading"></a>100% literacy or deth
+THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
+
+Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether it's selling a missile silo, a haunted irish villa, or an "interesting" fixer with lots of "charm and potential" in a "colorful" neighborhood... we're sure you can find or create something worth reading.
+
+#<a name="saucing"></a>A sauce in every pot
+No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
+Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.<br />
+Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
+
+#<a name="moving"></a>The wheels on the bus
+Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
+
+<div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
+
+# <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
+
+## -172
+<em>Horace Greeley is DEAD and will not be attending the
+party</em>
+
+## -39
+> The [Columbus Day Storm of 1962](http://en.wikipedia.org/wiki/Columbus_Day_Storm_of_1962) 
+> (otherwise known as the Big Blow) was an extratropical wave cyclone that ranked among the most 
+> intense to strike the United States Pacific Northwest since at least 1948, likely since the 
+> January 9, 1880, "Great Gale" and snowstorm. On a larger scale, the Columbus Day Storm of 1962 is 
+> a contender for the title of most powerful extratropical cyclone recorded in the U.S. in the 20th 
+> century; with respect to wind velocity, it is unmatched by the March 1993 "Storm of the Century" 
+> and the "1991 Halloween Nor’easter" (aka "The Perfect Storm"). In the eastern United States, only 
+> hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
+> Washington on Columbus Day, October 12, 1962.
+
+
+## I &nbsp;
+* Head west!
+
+## II
+
+## III
+* The NewHaus, which have become Salut.
+
+## IV
+* the Manifestos
+* first CD released
+
+## V &nbsp;
+* we failed to have a reading
+
+## VI
+* the wedding of Horace (deceased) and Liz (unaware)
+* ovenmitts!
+
+## VII
+* ELECT HORACE/PHAIR '08
+
+[edit]
 <div class="arrangements"><h2>Saluthaus</h2>
 </h2><em>conform, equinoctial, ideath</em><ul>
 <li>Creaking planks (3)</li>
@@ -94,63 +153,4 @@ Other stuff you wanna do in Portland
 <li>Matt Wittenstein</li>
 <li>Dresden Codak</li>
 <li>Clout</li>
-<li>Bex</li></ul></div>
-#<a name="singing"></a>Singing
-Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
-
-#<a name="reading"></a>100% literacy or deth
-THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
-
-Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether it's selling a missile silo, a haunted irish villa, or an "interesting" fixer with lots of "charm and potential" in a "colorful" neighborhood... we're sure you can find or create something worth reading.
-
-#<a name="saucing"></a>A sauce in every pot
-No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
-Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.<br />
-Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
-
-#<a name="moving"></a>The wheels on the bus
-Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
-
-<div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
-
-# <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
-
-## -172
-<em>Horace Greeley is DEAD and will not be attending the
-party</em>
-
-## -39
-> The [Columbus Day Storm of 1962](http://en.wikipedia.org/wiki/Columbus_Day_Storm_of_1962) 
-> (otherwise known as the Big Blow) was an extratropical wave cyclone that ranked among the most 
-> intense to strike the United States Pacific Northwest since at least 1948, likely since the 
-> January 9, 1880, "Great Gale" and snowstorm. On a larger scale, the Columbus Day Storm of 1962 is 
-> a contender for the title of most powerful extratropical cyclone recorded in the U.S. in the 20th 
-> century; with respect to wind velocity, it is unmatched by the March 1993 "Storm of the Century" 
-> and the "1991 Halloween Nor’easter" (aka "The Perfect Storm"). In the eastern United States, only 
-> hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
-> Washington on Columbus Day, October 12, 1962.
-
-
-## I &nbsp;
-* Head west!
-
-## II
-
-## III
-* The NewHaus, which have become Salut.
-
-## IV
-* the Manifestos
-* first CD released
-
-## V &nbsp;
-* we failed to have a reading
-
-## VI
-* the wedding of Horace (deceased) and Liz (unaware)
-* ovenmitts!
-
-## VII
-* ELECT HORACE/PHAIR '08
-
-[edit](/potato)
+<li>Bex</li></ul></div>(/potato)
