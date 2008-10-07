@@ -31,11 +31,70 @@ Other stuff you wanna do in Portland
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
-<div class="arrangements">##Saluthaus
-<em>conform, equinoctial, ideath</em>
-* Creaking planks (3)
-* Daveamaus
-* Mike Kelley</div>
+<div class="arrangements"><h2>Saluthaus</h2>
+</h2><em>conform, equinoctial, ideath</em><ul>
+<li>Creaking planks (3)</li>
+<li>Daveamaus</li>
+<li>Mike Kelley</li></ul>
+
+<h2>Casa Drago
+</h2><em>shwan, <strike>revphil</strike></em><ul>
+<li>Doruk/atesh</li>
+<li>BJuarez</li></ul>
+
+<h2>Planet Motherfucker
+</h2><em>icicle, ouroboros, renderer</em><ul>
+<li>Ed Hawkins</li>
+<li>Steve Grant</li>
+<li>Hazen</li></ul>
+
+<h2>TARDIS garden
+</h2><em>geminica, misuba</em><ul>
+<li>Ben/Clockworkgrue</li></ul>
+
+<h2>Chez Rude
+</h2><em>Jess Rude</em><ul>
+<li>Jeffrey Picanso</li>
+<li>Keith Putnam</li></ul>
+
+<h2>A house in Vancouver</h2>
+<ul><li>karma_debt/Jenn</li>
+<li>Mordel/steve</li></ul>
+
+<h2>Robot Petting Zoo
+</h2><em>Marissa</em><ul>
+<li>Jack</li>
+<li>Sean</li>
+<li>Void_ptr</li></ul>
+
+<h2> OTHERS </h2>
+<ul><li>Aphexious (local)</li>
+<li>Akatchoom (localish)</li>
+<li>anonamyst (local)</li>
+<li>Ashley F. (Cathco)</li>
+<li>Bengt (local)</li>
+<li>Bobby Noah (local)</li>
+<li>Chevelle Wiseman (local)</li>
+<li>Christopher Lewis Cotrell (Cathco)</li>
+<li>Jeanne Tieman-Reed (local)</li>
+<li>Jeremy Logan whois also called J or Fixedd (local)</li>
+<li>jes5199 (local)</li>
+<li>joyquality (with Ma?)</li>
+<li>Kenny (local)</li>
+<li>keystricken (localish)</li>
+<li>Marissa (local)</li>
+<li>Matthew Harris (local)</li>
+<li>various narnians, even though they are confused. (localicious)</li>
+<li>ryan (with Kelly's Ma?)</li></ul>
+
+<h2> Maybe</h2>
+<ul><li>birch</li>
+<li>nathan vasil</li>
+<li>Zach D Smith, music critic</li>
+<li>Matt Wittenstein</li>
+<li>Dresden Codak</li>
+<li>Clout</li>
+<li>Bex</li></ul></div>
 #<a name="singing"></a>Singing
 Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
 
