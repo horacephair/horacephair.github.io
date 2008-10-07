@@ -26,10 +26,9 @@ games and gabbing</td><td>Saluthaus / Jáce Gáce</td></tr>
 <a href="http://www.myspace.com/starlightburnsmyeyes">Nite Brite</a><br />
 <a href="http://www.myspace.com/thepathogenspdx">The Pathogens</a></td><td>Salut</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>Brunch wherever the fuck people feel like it, when they decide to go, like...you know...usual.<br />
-Other stuff you wanna do in portland
+Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
-
 </table>
 
 #<a name="singing"></a>Singing
