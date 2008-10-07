@@ -15,9 +15,9 @@
 <tr><th>Friday night</th><td>Arrivals<br />
 Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
-<tr><th>Saturday morning</th><td>NE Hot applesauce breakfast, OR<br />
+<tr><th>Saturday morning</th><td>NE Hot applesauce breakfast, <em>OR</em><br />
 &nbsp; SE waffle breakfast before heading North (choose your poison) <br />
-games and gabbing</td><td>Saluthaus / Jáce Gáce</td></tr>
+games and gabbing</td><td>Saluthaus /<br /> Jáce Gáce</td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
  - <a href="#reading">readings</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
