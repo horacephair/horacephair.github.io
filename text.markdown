@@ -49,6 +49,74 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
+#Arrangements are being made
+Here are arrangements. If they confuse or alarm you, please alert the hosts.
+
+##Saluthaus
+<em>conform, equinoctial, ideath</em>
+* Creaking planks (3)
+* Daveamaus
+* Mike Kelley
+
+##Casa Drago
+<em>shwan, <strike>revphil</strike></em>
+* Doruk/atesh
+* BJuarez
+
+##Planet Motherfucker
+<em>icicle, ouroboros, renderer</em>
+* Ed Hawkins
+* Steve Grant
+* Hazen
+
+##TARDIS garden
+<em>geminica, misuba</em>
+* Ben/Clockworkgrue
+
+##Chez Rude
+<em>Jess Rude</em>
+* Jeffrey Picanso
+* Keith Putnam
+
+##A house in Vancouver
+* karma_debt/Jenn
+* Mordel/steve
+
+##Robot Petting Zoo
+<em>Marissa</em>
+* Jack
+* Sean
+* Void_ptr
+
+## OTHERS 
+* Aphexious (local)
+* Akatchoom (localish)
+* anonamyst (local)
+* Ashley F. (Cathco)
+* Bengt (local)
+* Bobby Noah (local)
+* Chevelle Wiseman (local)
+* Christopher Lewis Cotrell (Cathco)
+* Jeanne Tieman-Reed (local)
+* Jeremy Logan whois also called J or Fixedd (local)
+* jes5199 (local)
+* joyquality (with Ma?)
+* Kenny (local)
+* keystricken (localish)
+* Marissa (local)
+* Matthew Harris (local)
+* various narnians, even though they are confused. (localicious)
+* ryan (with Kelly's Ma?)
+
+## Maybe
+* birch
+* nathan vasil
+* Zach D Smith, music critic
+* Matt Wittenstein
+* Dresden Codak
+* Clout
+* Bex
+
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
 
 ## -172
@@ -90,69 +158,4 @@ party</em>
 * ELECT HORACE/PHAIR '08
 
 [edit]
-
-<div class="arrangements"><h2>Saluthaus</h2>
-</h2><em>conform, equinoctial, ideath</em><ul>
-<li>Creaking planks (3)</li>
-<li>Daveamaus</li>
-<li>Mike Kelley</li></ul>
-
-<h2>Casa Drago
-</h2><em>shwan, <strike>revphil</strike></em><ul>
-<li>Doruk/atesh</li>
-<li>BJuarez</li></ul>
-
-<h2>Planet Motherfucker
-</h2><em>icicle, ouroboros, renderer</em><ul>
-<li>Ed Hawkins</li>
-<li>Steve Grant</li>
-<li>Hazen</li></ul>
-
-<h2>TARDIS garden
-</h2><em>geminica, misuba</em><ul>
-<li>Ben/Clockworkgrue</li></ul>
-
-<h2>Chez Rude
-</h2><em>Jess Rude</em><ul>
-<li>Jeffrey Picanso</li>
-<li>Keith Putnam</li></ul>
-
-<h2>A house in Vancouver</h2>
-<ul><li>karma_debt/Jenn</li>
-<li>Mordel/steve</li></ul>
-
-<h2>Robot Petting Zoo
-</h2><em>Marissa</em><ul>
-<li>Jack</li>
-<li>Sean</li>
-<li>Void_ptr</li></ul>
-
-<h2> OTHERS </h2>
-<ul><li>Aphexious (local)</li>
-<li>Akatchoom (localish)</li>
-<li>anonamyst (local)</li>
-<li>Ashley F. (Cathco)</li>
-<li>Bengt (local)</li>
-<li>Bobby Noah (local)</li>
-<li>Chevelle Wiseman (local)</li>
-<li>Christopher Lewis Cotrell (Cathco)</li>
-<li>Jeanne Tieman-Reed (local)</li>
-<li>Jeremy Logan whois also called J or Fixedd (local)</li>
-<li>jes5199 (local)</li>
-<li>joyquality (with Ma?)</li>
-<li>Kenny (local)</li>
-<li>keystricken (localish)</li>
-<li>Marissa (local)</li>
-<li>Matthew Harris (local)</li>
-<li>various narnians, even though they are confused. (localicious)</li>
-<li>ryan (with Kelly's Ma?)</li></ul>
-
-<h2> Maybe</h2>
-<ul><li>birch</li>
-<li>nathan vasil</li>
-<li>Zach D Smith, music critic</li>
-<li>Matt Wittenstein</li>
-<li>Dresden Codak</li>
-<li>Clout</li>
-<li>Bex</li></ul></div>
 (/potato)
