@@ -31,70 +31,7 @@ Other stuff you wanna do in Portland
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
-<div class="arrangements">##Saluthaus
-<em>conform, equinoctial, ideath</em>
-* Creaking planks (3)
-* Daveamaus
-* Mike Kelley
 
-##Casa Drago
-<em>shwan, <strike>revphil</strike></em>
-* Doruk/atesh
-* BJuarez
-
-##Planet Motherfucker
-<em>icicle, ouroboros, renderer</em>
-* Ed Hawkins
-* Steve Grant
-* Hazen
-
-##TARDIS garden
-<em>geminica, misuba</em>
-* Ben/Clockworkgrue
-
-##Chez Rude
-<em>Jess Rude</em>
-* Jeffrey Picanso
-* Keith Putnam
-
-##A house in Vancouver
-* karma_debt/Jenn
-* Mordel/steve
-
-##Robot Petting Zoo
-<em>Marissa</em>
-* Jack
-* Sean
-* Void_ptr
-
-## OTHERS 
-* Aphexious (local)
-* Akatchoom (localish)
-* anonamyst (local)
-* Ashley F. (Cathco)
-* Bengt (local)
-* Bobby Noah (local)
-* Chevelle Wiseman (local)
-* Christopher Lewis Cotrell (Cathco)
-* Jeanne Tieman-Reed (local)
-* Jeremy Logan whois also called J or Fixedd (local)
-* jes5199 (local)
-* joyquality (with Ma?)
-* Kenny (local)
-* keystricken (localish)
-* Marissa (local)
-* Matthew Harris (local)
-* various narnians, even though they are confused. (localicious)
-* ryan (with Kelly's Ma?)
-
-## Maybe
-* birch
-* nathan vasil
-* Zach D Smith, music critic
-* Matt Wittenstein
-* Dresden Codak
-* Clout
-* Bex</div>
 #<a name="singing"></a>Singing
 Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
 
