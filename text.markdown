@@ -114,6 +114,7 @@ Trimet buses are great and they go where you want to go, more or less. You can c
 * keystricken (localish)
 * Marissa (local)
 * Matthew Harris (local)
+* various narnians, even though they are confused. (localicious)
 * ryan (with Kelly's Ma?)
 
 # Maybe
