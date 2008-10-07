@@ -22,8 +22,7 @@ It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into t
 <tr><th>Friday night</th><td>Arrivals<br />
 Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
-<tr><th>Saturday morning</th><td><br/>
-NE Hot applesauce breakfast, OR<br />
+<tr><th>Saturday morning</th><td>NE Hot applesauce breakfast, OR<br />
 &nbsp; SE waffle breakfast before heading North (choose your poison) <br />
 games and gabbing</td><td>Saluthaus / Jáce Gáce</td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
