@@ -54,41 +54,49 @@ Here are arrangements. If they confuse or alarm you, please alert the hosts.
 
 ##Saluthaus
 <em>conform, equinoctial, ideath</em>
+
 * Creaking planks (3)
 * Daveamaus
 * Mike Kelley
 
 ##Casa Drago
 <em>shwan, <strike>revphil</strike></em>
+
 * Doruk/atesh
 * BJuarez
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer</em>
+
 * Ed Hawkins
 * Steve Grant
 * Hazen
 
 ##TARDIS garden
 <em>geminica, misuba</em>
+
 * Ben/Clockworkgrue
 
 ##Chez Rude
 <em>Jess Rude</em>
+
 * Jeffrey Picanso
 * Keith Putnam
 
 ##A house in Vancouver
+
 * karma_debt/Jenn
 * Mordel/steve
 
 ##Robot Petting Zoo
 <em>Marissa</em>
+
 * Jack
 * Sean
 * Void_ptr
 
 ## OTHERS 
+
 * Aphexious (local)
 * Akatchoom (localish)
 * anonamyst (local)
@@ -109,6 +117,7 @@ Here are arrangements. If they confuse or alarm you, please alert the hosts.
 * ryan (with Kelly's Ma?)
 
 ## Maybe
+
 * birch
 * nathan vasil
 * Zach D Smith, music critic
