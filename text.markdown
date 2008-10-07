@@ -11,7 +11,7 @@
 > It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map above with some relevant geographically-tied data. They've also stocked the plan below with some relevant time-related data.
 
 # <a name="days"></a>The days of the week go round and round
-<table width="80%" cellpadding="0"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
+<table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 <tr><th>Friday night</th><td>Arrivals<br />
 Backyard fire (that means <a href="#singing">singing</a>)<br />
 Beer and pizza</td><td>Salut</td></tr>
