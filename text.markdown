@@ -60,7 +60,7 @@ Here are arrangements. If they confuse or alarm you, please alert the hosts.
 * Mike Kelley
 
 ##Casa Drago
-<em>shwan, <strike>revphil</strike></em>
+<em>shwan, <span title="on tour with his bike porn film festival"><strike>revphil</strike></span></em>
 
 * Doruk/atesh
 * BJuarez
