@@ -90,6 +90,7 @@ party</em>
 * ELECT HORACE/PHAIR '08
 
 [edit]
+
 <div class="arrangements"><h2>Saluthaus</h2>
 </h2><em>conform, equinoctial, ideath</em><ul>
 <li>Creaking planks (3)</li>
@@ -153,4 +154,5 @@ party</em>
 <li>Matt Wittenstein</li>
 <li>Dresden Codak</li>
 <li>Clout</li>
-<li>Bex</li></ul></div>(/potato)
+<li>Bex</li></ul></div>
+(/potato)
