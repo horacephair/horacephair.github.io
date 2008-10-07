@@ -8,8 +8,7 @@
 > day off, and this is a party that takes a whole weekend, sometimes
 > plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the seventh year of said great tradition. 
 >
-> It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map to the left with some relevant geographically-tied data.
-<br clear="all">
+> It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map above with some relevant geographically-tied data. They've also stocked the plan below with some relevant time-related data.
 
 # <a name="days"></a>The days of the week go round and round
 <table width="80%"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
