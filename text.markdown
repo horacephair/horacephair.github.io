@@ -47,6 +47,8 @@ Saluthaus basil garden is up for pillaging. There may well be some late-season t
 #<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
+Also, there are a few loaner bikes that will be available. We don't have spare helmets, though, so if you value your noggin, maybe you can pack one?
+
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
 #Arrangements are being made
