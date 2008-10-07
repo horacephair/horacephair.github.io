@@ -31,7 +31,11 @@ Other stuff you wanna do in Portland
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
-<div class="arrangements">peepy peep</div>
+<div class="arrangements">##Saluthaus
+<em>conform, equinoctial, ideath</em>
+* Creaking planks (3)
+* Daveamaus
+* Mike Kelley</div>
 #<a name="singing"></a>Singing
 Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
 
