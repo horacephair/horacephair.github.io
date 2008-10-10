@@ -54,7 +54,7 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 <div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
 
 #Arrangements are being made
-Here are arrangements. If they confuse or alarm you, please alert the hosts.
+<img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If they confuse or alarm you, please alert the hosts.
 
 ##Saluthaus
 <em>conform, equinoctial, ideath</em>
