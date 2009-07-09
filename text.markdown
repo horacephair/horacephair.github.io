@@ -5,18 +5,14 @@ Wait, hey, DOWNLOAD "[THIS BOOK IS FOR SINGING FROM](/songbook.pdf)"
 And while you're at it, you want <a href="http://creakingplanks.com/hpvii-souvenir-mix/">this</a>, too.</big></big>
 
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;output=embed&amp;s=AARTsJqCtoKrDaBY0E0N2v5hffpCu9WkLg"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small></div>
-<img src="http://farm4.static.flickr.com/3146/2921147808_78f763c3ed_o.png">
-# <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII will happen.</span>
+# <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII<em>I</em> will happen.</span>
 > Friends of Saluthaus:
-> 
-> The U.S. holiday of Columbus Day falls on Monday, October 13. This is
-> relevant to us because some places of work and study allow that as a
-> day off, and this is a party that takes a whole weekend, sometimes
-> plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the seventh year of said great tradition. 
->
-> It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map above with some relevant geographically-tied data. They've also stocked the plan below with some relevant time-related data.
 
->Contribute to the success of this campaign! Bring <a href="#reading">literature</a> and consider a <a href="#saucing">sauce contribution</a> for Saturday night. Feel free to tip the bands. Treat our neighbors as you would like them to treat us.
+> The U.S. holiday of Columbus Day falls on Monday, October 12. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the eighth year of said great tradition. 
+
+> It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map above with some relevant geographically-tied data. Eventually, they may rouse themselves to stock the plan below with some relevant time-related data. 
+
+>Contribute to the success of this campaign! Details will be forthcoming, as soon as we make them up. It's not like parties grow on trees, you know. <!-- Feel free to tip the bands. Treat our neighbors as you would like them to treat us.
 
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
@@ -51,7 +47,7 @@ Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether 
 No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
 Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.<br />
 Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
-
+-->
 #<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
@@ -65,76 +61,35 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##Saluthaus
 <em>conform, equinoctial, ideath</em>
 
-* Creaking planks (3)
-* Daveamaus
-* Mike Kelley
+* 
 
-##Casa Drago
+<!-- ##Casa Drago
 <em>shwan, <span title="on tour with his bike porn film festival"><strike>revphil</strike></span></em>
 
 * Doruk/atesh
-* BJuarez
+* BJuarez -->
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer</em>
 
-* Ed Hawkins
-* Steve Grant
-* Hazen
+* 
 
 ##TARDIS garden
 <em>geminica, misuba</em>
 
-* Ben/Clockworkgrue
-
 ##Chez Rude
 <em>Jess Rude</em>
-
-* Jeffrey Picanso
-* Keith Putnam
-
-##A house in Vancouver
-
-* karma_debt/Jenn
-* Mordel/steve
 
 ##Robot Petting Zoo
 <em>Marissa</em>
 
-* Jack
-* Sean
-* Void_ptr
-
 ## OTHERS 
 
-* Aphexious (local)
-* Akatchoom (localish)
-* anonamyst (local)
-* Ashley F. (Cathco)
-* Bengt (local)
-* Bobby Noah (local)
-* Chevelle Wiseman (local)
-* Christopher Lewis Cotrell (Cathco)
-* Jeanne Tieman-Reed (local)
-* Jeremy Logan whois also called J or Fixedd (local)
-* jes5199 (local)
-* joyquality (with Ma?)
-* Kenny (local)
-* keystricken (localish)
-* Marissa (local)
-* Matthew Harris (local)
-* various narnians, even though they are confused. (localicious)
-* ryan (with Kelly's Ma?)
+* 
 
 ## Maybe
 
-* birch
-* nathan vasil
-* Zach D Smith, music critic
-* Matt Wittenstein
-* Dresden Codak
-* Clout
-* Bex
+* 
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
 
