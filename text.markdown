@@ -1,53 +1,42 @@
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;output=embed&amp;s=AARTsJqCtoKrDaBY0E0N2v5hffpCu9WkLg"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small></div>
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII<em>I</em> will happen.</span>
-> Friends of Saluthaus:
+> Friends of Horace Phair:
 
-> The U.S. holiday of Columbus Day falls on Monday, October 12. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the eighth year of said great tradition. 
+> The U.S. holiday of Columbus Day falls on Monday, October 12 in 2009 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the eighth year of said great tradition. 
 
 > It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map above with some relevant geographically-tied data. Eventually, they may rouse themselves to stock the plan below with some relevant time-related data. 
 
->Contribute to the success of this campaign! Details will be forthcoming, as soon as we make them up. It's not like parties grow on trees, you know. <!-- Feel free to tip the bands. Treat our neighbors as you would like them to treat us.
+>Details will be forthcoming, as soon as we make them up. It's not like parties grow on trees, you know. Feel free to tip the bands. Treat our neighbors as you would like them to treat us.
 
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 <tr><th>Friday night</th><td>Arrivals<br />
-Backyard fire (that means <a href="#singing">singing</a>)<br />
-Beer and pizza</td><td>Salut</td></tr>
-<tr><th>Saturday morning</th><td>NE Hot applesauce breakfast, <em>OR</em><br />
-&nbsp; SE waffle breakfast before heading North (choose your poison) <br />
-games and gabbing</td><td>Saluthaus /<br /> Jáce Gáce</td></tr>
-<tr><th>Saturday afternoon/evening</th><td><a href="#saucing">SAUCE PARTY</a><br />
- - <a href="#reading">readings</a></td><td>Salut</td></tr>
+Cocktails and toasting<sup><small>[<a href="#1">1</a>]</small></sup></td><td>PMF</td></tr>
+<tr><th>Saturday morning</th><td>breakfasting<br />
+games and gabbing</td><td>Saluthaus /<br /></td></tr>
+<tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
-<a href="http://www.myspace.com/starlightburnsmyeyes">Nite Brite</a><br />
-<a href="http://www.myspace.com/thepathogenspdx">The Pathogens</a></td><td>Salut</td></tr>
+<a href="">Rian O'Hara</a></td><td>Salut</td></tr>
 <tr><th>Sunday noon-ish and afternoon</th><td>Brunch wherever the fuck people feel like it, when they decide to go, like...you know...usual.<br />
 Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
+#<a name="toasting"></a>Toasting
+
+
 #<a name="singing"></a>Singing
 Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
 
-#<a name="reading"></a>100% literacy or deth
-THIS YEAR'S READINGS: Real estate listings. Sell us a bridge, if you must.
-
-Maybe that wasn't clear. Have you <em>looked</em> at real estate prose? Whether it's selling a missile silo, a haunted irish villa, or an "interesting" fixer with lots of "charm and potential" in a "colorful" neighborhood... we're sure you can find or create something worth reading.
-
-#<a name="saucing"></a>A sauce in every pot
-No pie party this year. Sorry guys. Instead, SAUCE PARTY.<br />
-Like last year, Friend Jack will be leading an intrepid and daring team in an industrial-scale pasta production operation. But <em>this time</em> the sauces are pot luck. If you have a signature sauce you want to contribute, or just a darn good marinara, and you need a cookin' venue, ask us.<br />
-Saluthaus basil garden is up for pillaging. There may well be some late-season tomatoes to use, too.
--->
 #<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
 Also, there are a few loaner bikes that will be available. We don't have spare helmets, though, so if you value your noggin, maybe you can pack one?
 
-<div class="backgroundtext"><span class="backgroundtext">i say yes because i believe in sailboats</span></div>
+<div class="backgroundtext"><span class="backgroundtext">HPVIIIGTKY</span></div>
 
 #Arrangements are being made
 <img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If they confuse or alarm you, please alert the hosts.
@@ -57,11 +46,9 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 
 * 
 
-<!-- ##Casa Drago
-<em>shwan, <span title="on tour with his bike porn film festival"><strike>revphil</strike></span></em>
-
-* Doruk/atesh
-* BJuarez -->
+##Casa Drago
+<em>shwan, revphil</em>
+*
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer</em>
@@ -70,12 +57,6 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 
 ##TARDIS garden
 <em>geminica, misuba</em>
-
-##Chez Rude
-<em>Jess Rude</em>
-
-##Robot Petting Zoo
-<em>Marissa</em>
 
 ## OTHERS 
 
@@ -102,11 +83,14 @@ party</em>
 > hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
 > Washington on Columbus Day, October 12, 1962.
 
+## -3
+> Everything2 is readied for its first infusion of material from everything.blockstackers.com, which occurs on Nov. 13.
 
 ## I &nbsp;
-* Head west!
+* Head West! Colonize an already-inhabited place!
 
 ## II
+* Readings at the Wobbly hall.
 
 ## III
 * The NewHaus, which have become Salut.
@@ -125,5 +109,7 @@ party</em>
 ## VII
 * ELECT HORACE/PHAIR '08
 
+## VIII
+* oh my.
 [edit]
 (/potato)
