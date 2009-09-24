@@ -90,7 +90,7 @@ party</em>
 * Head West! Colonize an already-inhabited place!
 
 ## II
-* Readings at the Wobbly hall.
+* Superball fight in the stairwell.
 
 ## III
 * The NewHaus, which have become Salut.
@@ -98,16 +98,22 @@ party</em>
 ## IV
 * the Manifestos
 * first CD released
+* house Canadians take up residence.
+* fabled 5AM Neutral Milk Hotel "reading"
 
 ## V &nbsp;
 * we failed to have a reading
+* but we did add American bands: the bad mintons and ginggang goolie goolie.
 
 ## VI
 * the wedding of Horace (deceased) and Liz (unaware)
-* ovenmitts!
+* ovenmitts!  golden greats! 
+* pants-free yoga.
 
 ## VII
 * ELECT HORACE/PHAIR '08
+* the pathogens! dirty ovenmitts!  nitebrite!
+* pants-free pantsfreeness.
 
 ## VIII
 * oh my.
