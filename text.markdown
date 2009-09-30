@@ -11,15 +11,15 @@
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 <tr><th>Friday night</th><td>Arrivals<br />
-Cocktails and toasting<sup><small>[<a href="#1">1</a>]</small></sup></td><td>PMF</td></tr>
+Cocktails and toasting<sup><small>[<a href="#toasting">1</a>]</small></sup></td><td>PMF</td></tr>
 <tr><th>Saturday morning</th><td>breakfasting<br />
 games and gabbing</td><td>Saluthaus /<br /></td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
-<a href="">Rian O'Hara</a></td><td>Salut</td></tr>
-<tr><th>Sunday noon-ish and afternoon</th><td>Brunch wherever the fuck people feel like it, when they decide to go, like...you know...usual.<br />
+<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a></td><td>Salut</td></tr>
+<tr><th>Sunday noon-ish and afternoon</th><td>Brunch wherever the fuck people feel like it, when they decide to go, like...you know...usual. (pancakes at Salut?)<br />
 Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
@@ -44,10 +44,11 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##Saluthaus
 <em>conform, equinoctial, ideath</em>
 
-* 
+* Mike Kelley and Jet
 
 ##Casa Drago
 <em>shwan, revphil</em>
+
 *
 
 ##Planet Motherfucker
