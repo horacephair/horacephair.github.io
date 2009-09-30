@@ -14,7 +14,7 @@
 Cocktails and <a href="#toasting">toasting</a></small></sup></td><td>PMF</td></tr>
 <tr><th>Saturday morning</th><td>Brunch wherever people feel like it, when they decide to go, like...you know...usual.<br />
 games and gabbing
-MtG tournament, format TBA by our resident <a href=http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details.</td><td>Saluthaus /<br /></td></tr>
+MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details.</td><td>Saluthaus /<br /></td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
@@ -123,5 +123,6 @@ party</em>
 
 ## VIII
 * oh my.
+
 [edit]
 (/potato)
