@@ -11,22 +11,26 @@
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 <tr><th>Friday night</th><td>Arrivals<br />
-Cocktails and toasting<sup><small>[<a href="#toasting">1</a>]</small></sup></td><td>PMF</td></tr>
-<tr><th>Saturday morning</th><td>breakfasting<br />
-games and gabbing</td><td>Saluthaus /<br /></td></tr>
+Cocktails and <a href="#toasting">toasting</a></small></sup></td><td>PMF</td></tr>
+<tr><th>Saturday morning</th><td>Brunch wherever people feel like it, when they decide to go, like...you know...usual.<br />
+games and gabbing
+MtG tournament, format TBA by our resident <a href=http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details.</td><td>Saluthaus /<br /></td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a></td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a></td><td>Salut</td></tr>
-<tr><th>Sunday noon-ish and afternoon</th><td>Brunch wherever the fuck people feel like it, when they decide to go, like...you know...usual. (pancakes at Salut?)<br />
+<tr><th>Sunday noon-ish and afternoon</th><td>Pancakes at Salut<br />
+Drawing<br />
 Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
 #<a name="toasting"></a>Toasting
+There is some disagreement and many good and distinct ideas about how this will work. Basically, the idea is that an arbitrary couple of people will be chosen and their relationship toasted. Other details will be worked out later. There will be beverages for toasting and loosening your toasting tongue.
 
+Not <em>that</em> loose, guys! Geez!
 
 #<a name="singing"></a>Singing
 Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
@@ -49,10 +53,10 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##Casa Drago
 <em>shwan, revphil</em>
 
-*
+* 
 
 ##Planet Motherfucker
-<em>icicle, ouroboros, renderer</em>
+<em>icicle, ouroboros, renderer/tiaz</em>
 
 * 
 
