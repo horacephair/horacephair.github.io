@@ -127,14 +127,13 @@ party</em>
 ## V &nbsp;
 * we failed to have a reading
 * but we did add American bands: the bad mintons and ginggang goolie goolie.
+* and the fabled 5AM Neutral Milk Hotel "reading"
+  * which was awesome 
 
 ## VI
 * the wedding of Horace (deceased) and Liz (unaware)
 * ovenmitts!  golden greats! 
 * pants-free yoga.
-* fabled 5AM Neutral Milk Hotel "reading"
-  * which was awesome
-
 
 ## VII
 * ELECT HORACE/PHAIR '08
