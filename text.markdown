@@ -12,10 +12,10 @@
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 <tr><th>Friday night</th><td>Arrivals<br />
 Cocktails and <a href="#toasting">toasting</a></small></sup></td><td>PMF</td></tr>
-<tr><th>Saturday morning</th><td>Brunch wherever people feel like it, when they decide to go, like...you know...usual.<br />
-games and gabbing
-MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details.</td><td>Saluthaus /<br /></td></tr>
-<tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a></td><td>Salut</td></tr>
+<tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> wherever people feel like it, when they decide to go<br />
+games and gabbing<br />
+MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details.</td><td>Saluthaus<br /></td></tr>
+<tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a> hosted by Jack<br /><A href="#lifedrawing">Life drawing</a> hosted by the Friends of Stephen Gordon</td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
@@ -28,9 +28,18 @@ Other stuff you wanna do in Portland
 </table>
 
 #<a name="toasting"></a>Toasting
-There is some disagreement and many good and distinct ideas about how this will work. Basically, the idea is that an arbitrary couple of people will be chosen and their relationship toasted. Other details will be worked out later. There will be beverages for toasting and loosening your toasting tongue.
+There is some disagreement and many good and distinct ideas about how this will work. Basically, the idea is that an arbitrary couple of people will be chosen and their relationship toasted. Other details will be worked out later. Come prepared to extemporize. There will be beverages for toasting and loosening your toasting tongue.
 
 Not <em>that</em> loose, guys! Geez!
+
+#<a name="brunch"></a>Brunch
+In case you didn't know, Portland is a brunch town. Especially if you have a hangover. The <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.003906,0.003541&amp;source=embed">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
+
+#<a name="lifedrawing"></a>Life drawing
+The Friends of Stephen Gordon ladies' literature and drawing society invites you to join them in a session of life drawing with a variety of models on Saturday afternoon, in the basement of the Saladhaus. If you would like to join, please bring your drawing implements (or let us know, we have a certain amount available to borrow). We share modeling duties, but no one is required to model if they're not comfortable with it.
+
+#<a name="burrito bar"></a>Burrito bar
+Friend Jack, our Seattle-est HP organizer, will be pulling together a burrito bar this year for our chomp chomp glomp nump yum pleasure. Please feel free to contribute to the spread on Saturday evening, dinnertime (the Salut kitchen will probably be mostly in use, so if you need a kitchen for cookin' up your specialty, please ask and you will be directed to a friendly host kitchen).
 
 #<a name="singing"></a>Singing
 Bring Rise Up Singing if you have it. Bring your ocarina, your ukelele, your zither. If you went home with a copy of our songbook, bring that back. We'll make more, though.
@@ -48,7 +57,10 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##Saluthaus
 <em>conform, equinoctial, ideath</em>
 
-* Mike Kelley and Jet
+* Mike Kelley and Jet (media room)
+* Dave and Jenny (guest room)
+*
+*
 
 ##Casa Drago
 <em>shwan, revphil</em>
