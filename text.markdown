@@ -75,13 +75,13 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##TARDIS garden
 <em>geminica, misuba</em>
 
-*
+* guest
+* guest2
 
 ##Lovely house
 <em>aphexious</em>
 
-* guest
-* guest2
+* 
 
 ## OTHERS 
 
