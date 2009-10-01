@@ -123,8 +123,6 @@ party</em>
 * the Manifestos
 * first CD released
 * house Canadians take up residence.
-* fabled 5AM Neutral Milk Hotel "reading"
-  * which was awesome
 
 ## V &nbsp;
 * we failed to have a reading
@@ -134,6 +132,9 @@ party</em>
 * the wedding of Horace (deceased) and Liz (unaware)
 * ovenmitts!  golden greats! 
 * pants-free yoga.
+* fabled 5AM Neutral Milk Hotel "reading"
+  * which was awesome
+
 
 ## VII
 * ELECT HORACE/PHAIR '08
