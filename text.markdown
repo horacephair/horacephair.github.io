@@ -20,9 +20,9 @@ MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a></td><td>Salut</td></tr>
-<tr><th>Sunday noon-ish and afternoon</th><td>Pancakes at Salut<br />
-Drawing<br />
-Other stuff you wanna do in Portland
+<tr><th rowspan="2">Sunday noon-ish and afternoon</th><td>Sourdough pancakes<br />
+<a href="#singing">Singing</a></td><td>Salut</td><tr>
+<tr><td>Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
