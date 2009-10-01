@@ -77,10 +77,11 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 
 *
 
-##the Lovely house
+##Lovely house
 <em>aphexious</em>
 
-*
+* guest
+* guest2
 
 ## OTHERS 
 
