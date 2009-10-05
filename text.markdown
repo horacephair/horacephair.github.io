@@ -21,10 +21,11 @@ MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a></td><td>Salut</td></tr>
-<tr><th>Sunday noon-ish and afternoon</th><td>Sourdough pancakes<br />
-<a href="#singing">Singing</a></td><td>Salut</td><tr>
+<tr><th>Sunday noon-ish and afternoon</th><td>Sourdough pancakes for brunch</td><td>Salut</td><tr>
 <tr><th>Also then</th><td>Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
+<tr><th>Sunday evening, dusk to not-too-late</th><td>Fire and
+<a href="#singing">singing</a></td><td>Salut</td><tr>
 <tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
 </table>
 
@@ -60,18 +61,18 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 
 * Mike Kelley and Jet (media room)
 * Dave and Jenny (guest room)
-*
-*
+* Riley on the sofa
+* Jack's tent
 
 ##Casa Drago
 <em>shwan, revphil</em>
 
-* 
+* Jen and Stephen
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer/tiaz, kpele</em>
 
-* 
+* Doruk?
 
 ##TARDIS garden
 <em>geminica, misuba</em>
