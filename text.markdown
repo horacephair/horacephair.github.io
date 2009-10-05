@@ -72,7 +72,8 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer/tiaz, kpele</em>
 
-* Doruk?
+* Doruk
+* Eric/izubachi
 
 ##TARDIS garden
 <em>geminica, misuba</em>
