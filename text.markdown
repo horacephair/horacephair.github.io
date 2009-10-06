@@ -12,7 +12,7 @@
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 <tr><th>Friday night</th><td>Arrivals<br />
-Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eating pizza, while waiting for everyone to arrive. Midnight excursion to the foodcarts at SE 12th & Hawthorne is planned. Cocktails after. <a href="#toasting">Toasts throughout</a>.</small></sup></td><td>PMF</td></tr>
+Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eating pizza, while waiting for everyone to arrive. Midnight excursion to the foodcarts at SE 12th & Hawthorne is planned. Cocktails after. <a href="#toasting">Toasts throughout</a>.</small></sup></td><td>Planet Motherfucker</td></tr>
 <tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> wherever people feel like it, when they decide to go<br />
 games and gabbing<br />
 MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details.</td><td>Saluthaus<br /></td></tr>
@@ -26,7 +26,7 @@ MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Sunday evening, dusk to not-too-late</th><td>Fire and
 <a href="#singing">singing</a></td><td>Salut</td><tr>
-<tr><th>Monday morning</th><td>Ritual Bloodys Mary</td><td>Planet Motherfucker</td></tr>
+<tr><th>Monday morning</th><td>The traditional breakfast of Bloodies Mary and Scrambled Tofu will be offered at PlanetMF. Mimosas also available, and Campari. <a href="#toasting">Toast likely</a>. No gutter cleaning this year.</td><td>Planet Motherfucker</td></tr>
 </table>
 
 #<a name="toasting"></a>Toasting
