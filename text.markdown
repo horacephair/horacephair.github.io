@@ -5,9 +5,9 @@
 
 > The U.S. holiday of Columbus Day falls on Monday, October 12 in 2009 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the eighth year of said great tradition. 
 
-> It will happen largely at 4407 NE 8th Ave. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map above with some relevant geographically-tied data. Eventually, they may rouse themselves to stock the plan below with some relevant time-related data. 
+> It will happen largely at 4407 NE 8th Ave, aka the Saluthaus. Some will inevitably spill out into the rest of Portland, because we are generous and tipsy and like to explore. Our interns have helpfully stocked the map above with some relevant geographically-tied data. See the table below with some relevant time-related data. 
 
->Details will be forthcoming, as soon as we make them up. It's not like parties grow on trees, you know. Feel free to tip the bands. Treat our neighbors as you would like them to treat us.
+> Feel free to tip the bands. Treat our neighbors as you would like them to treat us.
 
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
@@ -15,19 +15,25 @@
 Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eating pizza, while waiting for everyone to arrive and duplicate mixCDs. Midnight excursion to the foodcarts at SE 12th & Hawthorne is planned. Cocktails after. <a href="#toasting">Toasts throughout</a>.</small></sup></td><td>Planet Motherfucker</td></tr>
 <tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> wherever people feel like it, when they decide to go<br />
 games and gabbing<br />
-MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details.</td><td>Saluthaus<br /></td></tr>
+MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com/php/news/archive.php?Article=Seamus+Campbell">L4</a> - contact Seamus for details. Cards will be provided.</td><td>Saluthaus<br /></td></tr>
 <tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a> hosted by Jack<br /><A href="#lifedrawing">Life drawing</a> hosted by the Friends of Stephen Gordon</td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a></td><td>Salut</td></tr>
-<tr><th>Sunday noon-ish and afternoon</th><td>Sourdough pancakes for brunch</td><td>Salut</td><tr>
-<tr><th>Also then</th><td>Other stuff you wanna do in Portland
+<tr><th>Sunday morning and on to noon</th><td>Sourdough pancakes for brunch</td><td>Salut</td><tr>
+<tr><th>Sunday afternoon</th><td>Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Sunday evening, dusk to not-too-late</th><td>Fire and
 <a href="#singing">singing</a></td><td>Salut</td><tr>
 <tr><th>Monday morning</th><td>The traditional breakfast of Bloodies Mary and Scrambled Tofu will be offered at PlanetMF. Mimosas also available, and Campari. <a href="#toasting">Toast likely</a>. No gutter cleaning this year.</td><td>Planet Motherfucker</td></tr>
 </table>
+
+Other events from our affiliates:
+
+* Friday night, Grand Opening and blessing of the Bike Temple by Reverend Phil. 7pm, NE 9th and Going (2 blocks from Salut) http://www.biketemple.org/
+* Saturday night, the Golden Greats playing at a fundraiser for Trillium Charter School. 8-10pm, NE Killingsworth and Interstate. http://www.thegoldengreats.com/
+
 
 #<a name="toasting"></a>Toasting
 There is some disagreement and many good and distinct ideas about how this will work. Basically, the idea is that an arbitrary couple of people will be chosen and their relationship toasted. Other details will be worked out later. Come prepared to extemporize. There will be beverages for toasting and loosening your toasting tongue.
