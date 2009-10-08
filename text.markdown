@@ -68,6 +68,7 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 * Mike Kelley and Jet (media room)
 * Dave and Jenny (guest room)
 * Riley on the sofa
+* Planks, planks everywhere!
 * Jack's tent
 
 ##Casa Drago
@@ -80,11 +81,6 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 
 * Doruk
 * Eric/izubachi
-
-##TARDIS garden
-<em>geminica, misuba</em>
-
-* 
 
 ##Lovely house
 <em>aphexious</em>
