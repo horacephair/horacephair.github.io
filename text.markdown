@@ -19,7 +19,6 @@ MtG tournament, format TBA by our resident <a href="http://www.starcitygames.com
 <tr><th>Saturday afternoon/evening</th><td><a href="#burrito bar">Burritos</a> hosted by Jack<br /><A href="#lifedrawing">Life drawing</a> hosted by the Friends of Stephen Gordon</td><td>Salut</td></tr>
 <tr><th>Saturday night</th><td>BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
-<a href="http://www.myspace.com/ovenmitts">Oven Mitts</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a></td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td>Sourdough pancakes for brunch</td><td>Salut</td><tr>
 <tr><th>Sunday afternoon</th><td>Other stuff you wanna do in Portland
