@@ -149,7 +149,7 @@ party</em>
 * pants-free victory!
 * less vomit!
 * rian o'hara!
-* but several regulars stuck with newborns in the yukon of montana
+* but several regulars stuck with newborns in the yukon of montana manhattan 
 
 ## IX
 * oh, oh my.
