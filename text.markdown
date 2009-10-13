@@ -1,6 +1,6 @@
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
-# <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII<em>I</em> will happen.</span>
+# <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPVII<em>I</em> is over. GO HOME.</span>
 > Friends of Horace Phair:
 
 > The U.S. holiday of Columbus Day falls on Monday, October 12 in 2009 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the eighth year of said great tradition. 
