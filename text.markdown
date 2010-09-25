@@ -1,6 +1,6 @@
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
-# <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HP<em>IX</em> is upon us. Soon. </span>
+# <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HPIX<em>I</em> is upon us. Soon. </span>
 > Friends of Horace Phair:
 
 > The U.S. holiday of Columbus Day falls on Monday, October 11 in 2010 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the ninth year of said great tradition. 
@@ -19,8 +19,7 @@ Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eat
 games and gabbing, trip to Powell's likely<br /><td>Saluthaus<br /></td></tr>
 <tr><th>Saturday afternoon/evening</th><td>spaghetti feed presented, at Salut, by Jack<br />BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
-<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />
-<a href="http://dann.stayskal.com/music">Dann Stayskal</a></td><td>Salut</td></tr>
+<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a></td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
 <tr><th>Sunday afternoon and evening</th><td>Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
@@ -37,7 +36,7 @@ Other events from our affiliates:
 #<a name="brunch"></a>Brunch
 In case you didn't know, Portland is a brunch town. Especially if you have a hangover. The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
 
-#<a name="spaghetti feed"></a>Spaghetti feed
+#<a name="burrito bar"></a>Burrito bar
 Friend Jack, our Seattle-est HP organizer, will be pulling together a spaghetti feed this year for our chomp chomp glomp nump yum pleasure. Please feel free to contribute to the spread on Saturday evening, dinnertime (the Salut kitchen will probably be mostly in use, so if you need a kitchen for cookin' up your specialty, please ask and you will be directed to a friendly host kitchen).
 
 
@@ -59,7 +58,7 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer/tiaz, kpele</em>
 
-* Chris and Ashley
+*Chris and Ashley
 
 * 
 
