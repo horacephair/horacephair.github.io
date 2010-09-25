@@ -131,5 +131,4 @@ party</em>
 ## IX
 * oh, oh my.
 
-[edit]
-(/potato)
+[edit](/potato)
