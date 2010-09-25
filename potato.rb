@@ -28,6 +28,11 @@ get '/' do
   next $html
 end
 
+get '/songbook.pdf' do
+  header 'Content-Type' => 'application/pdf'
+  next File.read("songbook v3.pdf")
+end
+
 get '/head' do
   redirect '/potato'
 end
