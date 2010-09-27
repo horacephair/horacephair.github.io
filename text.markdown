@@ -54,7 +54,6 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 ##Saluthaus
 <em>conform, aphexious, ideath</em>
 
-* Jack's tent
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer/tiaz, kpele</em>
