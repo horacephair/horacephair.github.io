@@ -34,7 +34,7 @@ games and gabbing, trip to Powell's likely<br /><td>Saluthaus<br /></td></tr>
 Other events from our affiliates:
 
 * Weekendlong: <BR>
-<a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> Readers include Joey Comeau and...some other people I forgot. (Kristin Hersh and Jonathan Lethem both read at 3 PM. Not together, sadly. Admission to the whole deal is $7)
+<a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> Readers include Joey Comeau and...some other people I forgot. (Kristin Hersh and Jonathan Lethem both read at 3 PM Sat. Not together, sadly. Admission to the whole deal is $7)
 * <a href="http://www.friends-library.org/booksale/fall.html/"><b>Friends of the Library Used Book Sale</b></a>
 
 #<a name="brunch"></a>Brunch
