@@ -1,3 +1,6 @@
+## IX
+* oh, oh my.
+
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">HP<em>IX</em> is upon us. Soon. </span>
@@ -31,8 +34,8 @@ games and gabbing, trip to Powell's likely<br /><td>Saluthaus<br /></td></tr>
 Other events from our affiliates:
 
 * Weekendlong: <BR>
-<a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> Readers include Joey Comeau and...some other people I forgot. 
-<a href="http://www.friends-library.org/booksale/fall.html/"><b>Friends of the Library Used Book Sale</b></a>
+<a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> Readers include Joey Comeau and...some other people I forgot. (Kristin Hersh and Jonathan Lethem both read at 3 PM. Not together, sadly. Admission to the whole deal is $7)
+* <a href="http://www.friends-library.org/booksale/fall.html/"><b>Friends of the Library Used Book Sale</b></a>
 
 #<a name="brunch"></a>Brunch
 In case you didn't know, Portland is a brunch town. Especially if you have a hangover. The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
@@ -126,8 +129,5 @@ party</em>
 * less vomit!
 * rian o'hara!
 * but several regulars stuck with newborns in the yukon of montana manhattan 
-
-## IX
-* oh, oh my.
 
 [edit](/potato)
