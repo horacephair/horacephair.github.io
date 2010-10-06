@@ -43,9 +43,6 @@ In case you didn't know, Portland is a brunch town. Especially if you have a han
 #<a name="spaghetti feed"></a>Spaghetti feed
 Friend Jack, our Seattle-est HP organizer, will be pulling together a spaghetti feed this year for our chomp chomp glomp nump yum pleasure. Please feel free to contribute to the spread on Saturday evening, dinnertime (the Salut kitchen will probably be mostly in use, so if you need a kitchen for cookin' up your specialty, please ask and you will be directed to a friendly host kitchen).
 
-#<a name="tamf"></a>Think Again, My Friend
-The quiz show podcast made famous (fame pending) by misuba, icicle, and others is considering recording a special episode on Sunday morning at an undetermined location. You might consider preparing in advance a factual question (with accurate answer) to be asked of the panelists, submitting it to the host, and then joining the studio audience. <a href="http://thinkagainmyfriend.com/">Listen to past shows here.</a>
-
 #<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
