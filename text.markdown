@@ -27,7 +27,6 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (several bl
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
 <tr><th>Sunday afternoon and evening</th><td>Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
-<tr><th></th>
 <tr><th>Monday morning</th><td>The traditional breakfast of Bloodies Mary and Scrambled Tofu will be offered at PlanetMF. Mimosas also available, and Campari. <a href="#toasting">Toast likely</a>. No gutter cleaning this year.</td><td>Planet Motherfucker</td></tr>
 </table>
 
