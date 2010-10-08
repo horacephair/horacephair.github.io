@@ -12,7 +12,7 @@
 
 > Saluthaus got a facelift, though. And a butt job. And a vastly improved kitchen, for which I am currently hard-pressed to think of any crass anatomical/plastic surgery metaphors. Anyway, it looks nice. 
 
-> Feel free to tip the bands. Treat our neighbors as you would like them to treat us.
+> Feel free to tip the bands. Treat our neighbors as you would like them to treat us. Oh, and it's HPIX. Bring your camera.
 
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
@@ -34,7 +34,7 @@ Other events from our affiliates:
 
 * Weekendlong: <BR>
 <a href="http://www.portlandnursery.com/events/appletasting.shtml">Apple tasting</a> at Portland Nursery. Where to find Laurel, if you want to see her this weekend. Many many apples, pears, asian pears; cider, strudel, bands, etcetera.
-<a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> Readers include Joey Comeau and...some other people I forgot. (Kristin Hersh and Jonathan Lethem both read at 3 PM Sat. Not together, sadly. Admission to the whole deal is $7)
+* <a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> Readers include Joey Comeau and...some other people I forgot. (Kristin Hersh and Jonathan Lethem both read at 3 PM Sat. Not together, sadly. Admission to the whole deal is $7)
 * <a href="http://www.friends-library.org/booksale/fall.html/"><b>Friends of the Library Used Book Sale</b></a>
 
 #<a name="brunch"></a>Brunch
