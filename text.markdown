@@ -33,6 +33,7 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (several bl
 Other events from our affiliates:
 
 * Weekendlong: <BR>
+<a href="http://www.portlandnursery.com/events/appletasting.shtml">Apple tasting</a> at Portland Nursery. Where to find Laurel, if you want to see her this weekend. Many many apples, pears, asian pears; cider, strudel, bands, etcetera.
 <a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> Readers include Joey Comeau and...some other people I forgot. (Kristin Hersh and Jonathan Lethem both read at 3 PM Sat. Not together, sadly. Admission to the whole deal is $7)
 * <a href="http://www.friends-library.org/booksale/fall.html/"><b>Friends of the Library Used Book Sale</b></a>
 
@@ -54,19 +55,23 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 
 ##Saluthaus
 <em>conform, aphexious, ideath</em>
-
+* Chris and Ashley
+* Mike Kelley
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer/tiaz, kpele</em>
 
-* Chris and Ashley
+* Ken T
 
-* 
+* Doruk
 
 ##Azahr Court
 <em>misuba, geminica</em>
 
 *
+
+##Dave and Jenny's
+* Jen and Steve
 
 ## OTHERS 
 
