@@ -6,7 +6,7 @@
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">Whee</span>
 > Young master Horace Phair turns ten this year.
 
-> The U.S. holiday of Columbus Day falls on Monday, October 8 in 2011 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the tenth year of said great tradition. If you have to ask what people...
+> The U.S. holiday of Columbus Day falls on Monday, October 10 in 2011 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the tenth year of said great tradition. If you have to ask what people...
 
 > We're older now, maybe not wiser, maybe not even more mindful of the injuries and ailments (both physical and psychical) that come with years and might recommend greater temperance in one's behavior. Not this weekend, anyway.
 
@@ -18,7 +18,7 @@
 Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eating pizza, while waiting for everyone to arrive and duplicate mixCDs. Pizza is likely to be available; as-needed excursions to the foodcarts at SE 12th & Hawthorne are encouraged. Cocktails after. <a href="#toasting">Toasts throughout</a>.</small></sup></td><td>Planet Motherfucker</td></tr>
 <tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> at Dave and Jenny's<br />
 games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (several blocks north of Saluthaus)<br /></td></tr>
-<tr><th>Saturday afternoon/evening</th><td>spaghetti feed presented, at Salut, by Jack(?)<br />BANDS:<br />
+<tr><th>Saturday afternoon/evening</th><td>jam skate lesson at Oaks Park Roller Rink from 6-7!<br/spaghetti feed presented, at Salut, by Jack(?)<br />BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a>(?)</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
@@ -84,7 +84,7 @@ party</em>
 > January 9, 1880, "Great Gale" and snowstorm. On a larger scale, the Columbus Day Storm of 1962 is 
 > a contender for the title of most powerful extratropical cyclone recorded in the U.S. in the 20th 
 > century; with respect to wind velocity, it is unmatched by the March 1993 "Storm of the Century" 
-> and the "1991 Halloween Nor’easter" (aka "The Perfect Storm"). In the eastern United States, only 
+> and the "1991 Halloween Norï¿½easter" (aka "The Perfect Storm"). In the eastern United States, only 
 > hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
 > Washington on Columbus Day, October 12, 1962.
 
