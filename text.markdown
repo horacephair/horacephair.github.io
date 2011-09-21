@@ -18,7 +18,7 @@
 Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eating pizza, while waiting for everyone to arrive and duplicate mixCDs. Pizza is likely to be available; as-needed excursions to the foodcarts at SE 12th & Hawthorne are encouraged. Cocktails after. <a href="#toasting">Toasts throughout</a>.</small></sup></td><td>Planet Motherfucker</td></tr>
 <tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> at Dave and Jenny's<br />
 games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (several blocks north of Saluthaus)<br /></td></tr>
-<tr><th>Saturday afternoon/evening</th><td>jam skate lesson at Oaks Park Roller Rink from 6-7!<br/spaghetti feed presented, at Salut, by Jack(?)<br />BANDS:<br />
+<tr><th>Saturday afternoon/evening</th><td>jam skate lesson at Oaks Park Roller Rink from 6-7!<br/>spaghetti feed presented, at Salut, by Jack(?)<br />BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a>(?)</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
