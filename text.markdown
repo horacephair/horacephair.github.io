@@ -24,7 +24,7 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks nor
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a>(?)</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
-<tr><th>Sunday afternoon and evening</th><td>THINK AGAIN, MY FRIEND taping at PMF (quiz show, topic: PASTRY)<br />Other stuff you wanna do in Portland
+<tr><th>Sunday afternoon and evening</th><td>[THINK AGAIN, MY FRIEND](http://thinkagainmyfriend.com) taping at PMF (quiz show, topic: PASTRY)<br />Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Monday morning</th><td>The traditional breakfast of Bloodies Mary and Scrambled Tofu will be offered at PlanetMF?  <a href="#toasting">Toast likely</a>. </td><td>Planet Motherfucker</td></tr>
 </table>
