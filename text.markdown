@@ -60,9 +60,6 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 <em>icicle, ouroboros, renderer/tiaz, kpele</em>
 
 
-##Azahr Court
-<em>misuba, geminica</em>
-
 ##Dave and Jenny's
 
 ## OTHERS 
