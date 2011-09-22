@@ -26,7 +26,7 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks nor
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
 <tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
-<tr><th>Monday morning</th><td>The traditional breakfast of Bloodies Mary and Scrambled Tofu will be offered at PlanetMF?  <a href="#toasting">Toast likely</a>. </td><td>Planet Motherfucker</td></tr>
+<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocci, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
 </table>
 
 Other events from our affiliates:
