@@ -20,7 +20,7 @@ Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eat
 games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks north of Saluthaus)<br /></td></tr>
 <tr><th>Saturday afternoon</th><td>Trip to Sock Dreams<br />
 <a href =http://www.oakspark.com/classes.html>Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
-<tr><th>Saturday evening</th><td>spaghetti feed presented, at Salut, by Jack(?)<br />BANDS:<br />
+<tr><th>Saturday evening</th><td>Delightful meal TBD presented by Jack.<br />BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a>(?)</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
