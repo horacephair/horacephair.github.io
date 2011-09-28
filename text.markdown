@@ -22,9 +22,9 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks nor
 <a href =http://www.oakspark.com/classes.html>Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
 <tr><th>Saturday evening</th><td>Delightful meal TBD presented by Jack.<br />BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
-<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a>(?)</td><td>Salut</td></tr>
+<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a>(?)<br />Stefan Jecusco<br />Mykle and Seamus</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
-<tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Other stuff you wanna do in Portland
+<tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Evening: new songbook singalong at Salut.  Fire?<br />Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
 <tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocci, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
 </table>
