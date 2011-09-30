@@ -8,9 +8,9 @@
 
 > The U.S. holiday of Columbus Day falls on Monday, October 10 in 2011 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the tenth year of said great tradition. If you have to ask what people...
 
-> We're older now, maybe not wiser, maybe not even more mindful of the injuries and ailments (both physical and psychical) that come with years and might recommend greater temperance in one's behavior. Not this weekend, anyway.
+> We're older now, maybe not wiser, maybe not even more mindful of the injuries and ailments (both physical and psychical) that may come with years and might recommend greater temperance in one's behavior. Not this weekend, anyway.
 
-> But try these behaviors: Feel free to tip the bands. Treat our neighbors as you would like them to treat us. And hug the people who like hugs. It'll make you feel better.
+> But try these behaviors: Feel free to tip the bands. Treat our neighbors as you would like them to treat us. And hug the people who like hugs. It'll make you feel better. (I have found hugs to be a good hangover treatment.)
 
 # <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
@@ -19,20 +19,19 @@ Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eat
 <tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> at Dave and Jenny's<br />
 games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks north of Saluthaus)<br /></td></tr>
 <tr><th>Saturday afternoon</th><td>Trip to Sock Dreams<br />
-<a href =http://www.oakspark.com/classes.html>Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
+<a href ="http://www.oakspark.com/classes.html">Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
 <tr><th>Saturday evening</th><td>Delightful meal TBD presented by Jack.<br />BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
-<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco<br />Mykle and Seamus</td><td>Salut</td></tr>
-<tr><th>Sunday morning and on to noon</th><td>Brunch</td><td>Salut</td><tr>
-<tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Evening: new songbook singalong at Salut.  Fire?<br />Other stuff you wanna do in Portland
+<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco and mystery complement<br />Mykle and Seamus</td><td>Salut</td></tr>
+<tr><th>Sunday morning and on to noon</th><td><A href="#brunch">Brunch</a></td><td>Salut environs</td><tr>
+<tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Evening: new songbook singalong at Salut.  Fire?<br />If enough people are interested: figure drawing at Salut<br />Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
-<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocci, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
+<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
 </table>
 
 Other events from our affiliates:
-
-* Weekendlong: <BR>
-* <a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> is October 6 - 9. </a>
+* Weekendlong: * <a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> is October 6 - 9. </a>
+* The Oregon Mycological Society is having their <a href="http://www.wildmushrooms.org/node/195">fall mushroom show</a> on Sunday. 
 
 #<a name="brunch"></a>Brunch
 In case you didn't know, Portland is a brunch town. Especially if you have a hangover. The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
