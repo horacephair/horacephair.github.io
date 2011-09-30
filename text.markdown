@@ -6,7 +6,7 @@
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">Whee</span>
 > Young master Horace Phair turns ten this year.
 
-> The U.S. holiday of Columbus Day falls on Monday, October 10 in 2011 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the tenth year of said great tradition. If you have to ask what people...
+> The U.S. holiday of Columbus Day falls on Monday, October 10 in 2011 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the tenth year of said great tradition. If you have to ask what people... 
 
 > We're older now, maybe not wiser, maybe not even more mindful of the injuries and ailments (both physical and psychical) that may come with years and might recommend greater temperance in one's behavior. Not this weekend, anyway.
 
@@ -20,7 +20,7 @@ Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eat
 games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks north of Saluthaus)<br /></td></tr>
 <tr><th>Saturday afternoon</th><td>Trip to Sock Dreams<br />
 <a href ="http://www.oakspark.com/classes.html">Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
-<tr><th>Saturday evening</th><td>Delightful meal TBD presented by Jack.<br />BANDS:<br />
+<tr><th>Saturday evening</th><td>Delightful <a href="#dinna">meal</a> presented by Jack.<br />BANDS:<br />
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco and mystery complement<br />Mykle and Seamus</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td><A href="#brunch">Brunch</a></td><td>Salut environs</td><tr>
@@ -30,7 +30,8 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks nor
 </table>
 
 Other events from our affiliates:
-* Weekendlong: * <a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> is October 6 - 9. </a>
+
+* Weekendlong: <a href="http://www.wordstockfestival.com/"><b>Wordstock Festival</b></a> is October 6 - 9. </a>
 * The Oregon Mycological Society is having their <a href="http://www.wildmushrooms.org/node/195">fall mushroom show</a> on Sunday. 
 
 #<a name="brunch"></a>Brunch
@@ -38,8 +39,8 @@ In case you didn't know, Portland is a brunch town. Especially if you have a han
 
 This is Portland, so it's ok to go to brunch in your pyjamas. Just tell them you're with us.
 
-#<a name="spaghetti feed"></a>Spaghetti feed
-Do we do a spaghetti feed this year? Or something else?
+#<a name="dinna"></a>Big dinner
+This year's feed is not spaghetti. It's probably more solanaceous and less gluten-ous. Bring your spoon! We will provide bowls or mugs or whatever to scoop your food into before you scoop it into yourself. Veggie/vegan food will be present.
 
 #<a name="moving"></a>The wheels on the bus
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
@@ -49,7 +50,7 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
 #Arrangements are being made
-<img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If they confuse or alarm you, please alert the hosts.
+<img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! If they confuse or alarm you, please alert the hosts.
 
 ##Saluthaus
 <em>conform, ideath, lettie jane, caesar</em>
@@ -131,6 +132,6 @@ party</em>
 * rian o'hara rides again!
 
 ##X
-* cat juggling
+* cat juggling (oh really?)
 
 [edit](/potato)
