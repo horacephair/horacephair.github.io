@@ -24,10 +24,9 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks nor
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco and mystery complement<br />Mykle and Seamus</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td><A href="#brunch">Brunch</a></td><td>Salut environs</td><tr>
-<tr><th>Sunday afternoon and evening</th><td>Evening: new songbook singalong at Salut.  Fire?<br />If enough people are interested: figure drawing at Salut<br />Other stuff you wanna do in Portland
+<tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Evening: new songbook singalong at Salut.  Fire?<br />If enough people are interested: figure drawing at Salut<br />Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
-<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am.<br />
-<a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at 12-ish (quiz show, topic: PASTRY)<br /> In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
+<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
 </table>
 
 Other events from our affiliates:
@@ -36,7 +35,7 @@ Other events from our affiliates:
 * The Oregon Mycological Society is having their <a href="http://www.wildmushrooms.org/node/195">fall mushroom show</a> on Sunday. 
 
 #<a name="brunch"></a>Brunch
-In case you didn't know, Portland is a brunch town. Especially if you have a hangover. The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
+In case you didn't know, Portland is a brunch town. Especially if you have a hangover. (Portland is a hangover town. Especially if you started your day with mimosas.) (Lather. Rinse. Repeat. Portland. Town. Mimosa.) The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
 
 This is Portland, so it's ok to go to brunch in your pyjamas. Just tell them you're with us.
 
@@ -59,11 +58,15 @@ Also, there are a few loaner bikes that will be available. We don't have spare h
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, renderer/tiaz, kpele</em>
+* Roninspoon (bunking with Schuster)
 
+##Appleton House (dave, jenny, mitch)
+* 
 
-##Dave and Jenny's
-
-## OTHERS 
+## Crabapple Cottage (jenn, teresa, gillian, alyssa)
+* jes5199
+* qous+ashley
+* their friend Matt
 
 * 
 
