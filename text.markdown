@@ -24,9 +24,10 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks nor
 <a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco and mystery complement<br />Mykle and Seamus</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td><A href="#brunch">Brunch</a></td><td>Salut environs</td><tr>
-<tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Evening: new songbook singalong at Salut.  Fire?<br />If enough people are interested: figure drawing at Salut<br />Other stuff you wanna do in Portland
+<tr><th>Sunday afternoon and evening</th><td>Evening: new songbook singalong at Salut.  Fire?<br />If enough people are interested: figure drawing at Salut<br />Other stuff you wanna do in Portland
 </td><td>Portland, Ore., USA.</td></tr>
-<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
+<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am.<br />
+<a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at 12-ish (quiz show, topic: PASTRY)<br /> In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
 </table>
 
 Other events from our affiliates:
