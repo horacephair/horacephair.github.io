@@ -21,7 +21,7 @@ games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks nor
 <tr><th>Saturday afternoon</th><td>Trip to Sock Dreams<br />
 <a href ="http://www.oakspark.com/classes.html">Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
 <tr><th>Saturday evening</th><td>Delightful <a href="#dinna">meal</a> presented by Jack.<br />BANDS:<br />
-<a href="http://www.myspace.com/creakingplanks">Creaking Planks</a><br />
+<strike><a href="http://www.myspace.com/creakingplanks">Creaking Planks</a></strike> CRITICAL PLANK FAIL<br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco and mystery complement<br />Mykle and Seamus</td><td>Salut</td></tr>
 <tr><th>Sunday morning and on to noon</th><td><A href="#brunch">Brunch</a></td><td>Salut environs</td><tr>
 <tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Evening: new songbook singalong at Salut.  Fire?<br />If enough people are interested: figure drawing at Salut<br />Other stuff you wanna do in Portland
