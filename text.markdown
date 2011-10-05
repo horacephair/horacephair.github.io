@@ -19,7 +19,8 @@ Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eat
 <tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> at Dave and Jenny's<br />
 games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks north of Saluthaus)<br /></td></tr>
 <tr><th>Saturday afternoon</th><td>Trip to Sock Dreams<br />
-<a href ="http://www.oakspark.com/classes.html">Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
+<a href="http://oregonbeer.org/fhbt2011/">Portland Fresh Hop Tastival</a> at Oaks Park (noon-8pm)<br />
+<a href="http://www.oakspark.com/classes.html">Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
 <tr><th>Saturday evening</th><td>Delightful <a href="#dinna">meal</a> presented by Jack.<br />BANDS:<br />
 <strike><a href="http://www.myspace.com/creakingplanks">Creaking Planks</a></strike> CRITICAL PLANK FAIL<br />
 <a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco and mystery complement<br />Mykle and Seamus</td><td>Salut</td></tr>
