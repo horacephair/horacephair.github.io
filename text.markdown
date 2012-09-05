@@ -1,34 +1,23 @@
 ## IIIIIIIIIII
-that was eleven, in case you didn't bother to count
-
-<image src="http://www.chem.wisc.edu/areas/clc/gifs/const.gif">
+* that was eleven
 
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">Whee</span>
-> Young master Horace Phair turns ten this year.
+> Horace Phair is eleven this year!!11!!!!2!
 
-> The U.S. holiday of Columbus Day falls on Monday, October 10 in 2011 C.E. This is relevant to us because some places of work and study allow that as a day off, and this is a party that takes a whole weekend, sometimes plus. It is relevant to us because we are taking part in a great tradition of our people. This will be the tenth year of said great tradition. If you have to ask what people... 
+> The U.S. holiday of Columbus Day falls on October 10 in 2011 C.E. and October 8 in 2012 C.E. This is generally relevant to us because some places of work and study grant that as a day off, and this is a party that takes a whole weekend, sometimes more. It is specifically relevant to us because we are taking part in the great tradition of our people. No, the other great tradition. This will be the eleventh year of said great tradition. If you have to ask what people...
 
-> We're older now, maybe not wiser, maybe not even more mindful of the injuries and ailments (both physical and psychical) that may come with years and might recommend greater temperance in one's behavior. Not this weekend, anyway.
+> We're older now, maybe not wiser, maybe not even more mindful of the injuries and ailments (both physical and psychical) that may come with years and might recommend greater temperance in one's behavior. But not this weekend, anyway.
 
-> But try these behaviors: Feel free to tip the bands. Treat our neighbors as you would like them to treat us. And hug the people who like hugs. It'll make you feel better. (I have found hugs to be a good hangover treatment.)
+# <a name="days"></a>the days of the week go round and round
 
-# <a name="days"></a>The days of the week go round and round
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
+
 <tr><th>Friday afternoon, evening, and night</th><td>Arrivals<br />
-Join us at PlanetMF as we lounge on the couches and porch, drinking beer and eating pizza, while waiting for everyone to arrive and duplicate mixCDs. Pizza is likely to be available; as-needed excursions to the foodcarts at SE 12th & Hawthorne are encouraged. Cocktails after. <a href="#toasting">Toasts throughout</a>.</small></sup></td><td>Planet Motherfucker</td></tr>
-<tr><th>Saturday morning</th><td><a href="#brunch">Brunch</a> at Dave and Jenny's<br />
-games and gabbing, trip to Powell's likely<br /><td>Dave and Jenny's (blocks north of Saluthaus)<br /></td></tr>
-<tr><th>Saturday afternoon</th><td>Trip to Sock Dreams<br />
-<a href="http://oregonbeer.org/fhbt2011/">Portland Fresh Hop Tastival</a> at Oaks Park (noon-8pm)<br />
-<a href="http://www.oakspark.com/classes.html">Jam skate lesson</a> at Oaks Park Roller Rink from 6-7!<br/><td>Sellwood, some distance south of everything else.<br /></td></tr>
-<tr><th>Saturday evening</th><td>Delightful <a href="#dinna">meal</a> presented by Jack.<br />BANDS:<br />
-<strike><a href="http://www.myspace.com/creakingplanks">Creaking Planks</a></strike> CRITICAL PLANK FAIL<br />
-<a href="http://www.myspace.com/riano39hara">Rian O'Hara</a><br />Stefan Jecusco and mystery complement<br />Mykle and Seamus</td><td>Salut</td></tr>
-<tr><th>Sunday morning and on to noon</th><td><A href="#brunch">Brunch</a></td><td>Salut environs</td><tr>
-<tr><th>Sunday afternoon and evening</th><td><a href="http://thinkagainmyfriend.com/">THINK AGAIN, MY FRIEND</a> taping at PMF (quiz show, topic: PASTRY)<br />Evening: new songbook singalong at Salut.  Fire?<br />If enough people are interested: figure drawing at Salut<br />Other stuff you wanna do in Portland
-</td><td>Portland, Ore., USA.</td></tr>
+Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne. Limited cocktail menu available. <a href="#toasting">Toast and toasts throughout</a>.</small></sup></td><td>Planet Motherfucker</td></tr>
+
+
 <tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
 </table>
 
