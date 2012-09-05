@@ -14,8 +14,41 @@
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
-<tr><th>Friday afternoon, evening, and night</th><td>Arrivals<br />
-Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne. Limited cocktail menu available. <a href="#toasting">Toast and toasts throughout</a>.</small></sup></td><td>Planet Motherfucker</td></tr>
+<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
+Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne. Limited cocktail menu available. </td><td>Planet Motherfucker</td></tr>
+
+<tr><th>Saturday morning</th><td><a href="#brunch1">Brunch</a> <em>multiple choice</em><br />
+assemble your party, quest for brunch!
+</td><td>various environs
+</td></tr>
+
+<tr><th>Saturday afternoon</th><td><em>various activities</em><br />
+<a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)
+<a href="http://pdxarchivists.wordpress.com/2012/08/14/ready-to-crawl/">Multnomah County Archives Crawl</a> (10am-3pm)
+trampolines in Hillsboro?
+readings?
+</td><td>various environs
+</td></tr>
+
+<tr><th>Saturday evening</th><td><a href="#dinner1">Dinner</a> <em>multiple choice</em><br />
+assemble your party, quest for late brunch!
+</td><td>various environs
+</td></tr>
+
+<tr><th>Saturday night</th><td><a href="#party"><em>Main Event</em><br />
+musical line-up to be determined<br />
+</td><td>Salut!
+</td></tr>
+
+<tr><th>Sunday <strikethrough>morning</strikethrough>day</th><td><a href="#brunch2">Brunch</a> <em>multiple choice</em><br />
+assemble your party, quest for brunch!
+</td><td>various environs
+</td></tr>
+
+<tr><th>Sunday afternoon and evening</th><td><a href="#games">Board & Card Games<br />
+</td><td>Concussionary
+</td></tr>
+
 
 
 <tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime after 10am. In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
