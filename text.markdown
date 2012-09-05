@@ -15,37 +15,40 @@
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
-Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne. Limited cocktail menu available. </td><td>Planet Motherfucker</td></tr>
+Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne). Limited cocktail menu available. </td><td>Planet Motherfucker</td></tr>
 
-<tr><th>Saturday morning</th><td><a href="#brunch1">Brunch</a> <em>multiple choice</em><br />
+<tr><th>Saturday morning</th><td>Brunch<br />
+<em>multiple choice</em><br />
 assemble your party, quest for brunch!
 </td><td>various environs
 </td></tr>
 
 <tr><th>Saturday afternoon</th><td><em>various activities</em><br />
-<a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)
-<a href="http://pdxarchivists.wordpress.com/2012/08/14/ready-to-crawl/">Multnomah County Archives Crawl</a> (10am-3pm)
-trampolines in Hillsboro?
+<a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)<br />
+<a href="http://pdxarchivists.wordpress.com/2012/08/14/ready-to-crawl/">Multnomah County Archives Crawl</a> (10am-3pm)<br />
+trampolines in Hillsboro?<br />
 readings?
 </td><td>various environs
 </td></tr>
 
-<tr><th>Saturday evening</th><td><a href="#dinner1">Dinner</a> <em>multiple choice</em><br />
+<tr><th>Saturday evening</th><td>Dinner<br />
+<em>multiple choice</em><br />
 assemble your party, quest for late brunch!
 </td><td>various environs
 </td></tr>
 
-<tr><th>Saturday night</th><td><a href="#party"><em>Main Event</em><br />
+<tr><th>Saturday night</th><td>Main Event<br />
 musical line-up to be determined<br />
 </td><td>Salut!
 </td></tr>
 
-<tr><th>Sunday <strikethrough>morning</strikethrough>day</th><td><a href="#brunch2">Brunch</a> <em>multiple choice</em><br />
+<tr><th>Sunday <strike>morning</strike>day</th><td>Brunch<br />
+<em>multiple choice</em><br />
 assemble your party, quest for brunch!
 </td><td>various environs
 </td></tr>
 
-<tr><th>Sunday afternoon and evening</th><td><a href="#games">Board & Card Games<br />
+<tr><th>Sunday afternoon and evening</th><td>Board & Card Games<br />
 </td><td>Concussionary
 </td></tr>
 
