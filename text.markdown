@@ -87,45 +87,37 @@ Other events from our affiliates:
  
 
 
+
 #<a name="brunch"></a>Brunch
-In case you didn't know, Portland is a brunch town. Especially if you have a hangover. (Portland is a hangover town. Especially if you started your day with mimosas.) (Lather. Rinse. Repeat. Portland. Town. Mimosa.) The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
+In case you didn't know, Portland is a brunch town. Especially if you have a hangover. (Portland is a hangover town. Especially if you started your day with tequila in the wee hours.) (Lather. Rinse. Repeat. Portland. Town. Mimosa.) The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (But there's usually coffee available to people in line, just so you know.)
 
 This is Portland, so it's ok to go to brunch in your pyjamas. Just tell them you're with us.
 
-#<a name="dinna"></a>Big dinner
-This year's feed is not spaghetti. It's probably more solanaceous and less gluten-ous. Bring your spoon! We will provide bowls or mugs or whatever to scoop your food into before you scoop it into yourself. Veggie/vegan food will be present.
-
 #<a name="moving"></a>The wheels on the bus
+The free rail zone has passed into fable, as have transit zones. The benefit is that it's one price to take the bus or rail anywhere. The penalty is that it's more expensive.
 Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
 
-Also, there are a few loaner bikes that will be available. We don't have spare helmets, though, so if you value your noggin, maybe you can pack one? (Renting from a local bike shop - say Citybikes - is also an option!)
+Also, there might be a few loaner bikes that will be available. We don't have spare helmets, though, so if you value your noggin, maybe you can pack one? (Renting from a local bike shop - say Citybikes - is also an option!)
 
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
 #Arrangements are being made
-<img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! If they confuse or alarm you, please alert the hosts.
+<img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
 
 ##Saluthaus
 <em>conform, ideath, lettie jane, caesar</em>
-
+*
 
 ##Planet Motherfucker
-<em>icicle, ouroboros, renderer/tiaz, kpele</em>
-* Roninspoon (bunking with Schuster)
+<em>icicle, ouroboros, tiaz, kpele</em>
+*
 
-##Appleton House (dave, jenny, mitch)
-* 
+##Appleton House (dave, jenny)
+*
 
-## Crabapple Cottage (jenn, teresa, gillian, alyssa)
-* jes5199
-* qous+ashley
-* their friend Matt
-
-* 
-
-## Maybe
-
-* 
+##Other Locations?
+*
+ 
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
 
