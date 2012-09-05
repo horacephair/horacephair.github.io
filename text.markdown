@@ -1,5 +1,5 @@
 ## IIIIIIIIIII
-* that was eleven, in case you didn't bother to count
+that was eleven, in case you didn't bother to count
 
 <image src="http://www.chem.wisc.edu/areas/clc/gifs/const.gif">
 
