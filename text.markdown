@@ -68,15 +68,24 @@ Postprandial drinks around the new firepit at Appleton House. Movie to be determ
 
 
 Other events from our affiliates:
+
 * The Wedge Celebration of Cheese at the Green Dragon with Oregon Cheese Guild (10am-4pm Sat 6 Oct)
+
 * the <a href="http://www.iprc.org/calendar/the-seventh-annual-text-ball">IPRC TEXT BALL</a> at Disjecta (Sat 6 Oct)
+
 * the XX play the Roseland (Sun 7 Oct)
+
 * <a href="http://www.portlandmarathon.org/details_coursemap.php">Portland Marathon</a> (Sun 7 Oct)
+
 * Justin Bieber plays the Rose Garden Arena (Mon 8 Oct)
+
 * <a href="www.puzzledpint.com">Puzzled Pint</a> at TBD (Tue 9 Oct)
+
 * BRICK DAY is October 15
+
 * The Projects from IPRC and Floating World (19-21 Oct) 
  
+
 
 #<a name="brunch"></a>Brunch
 In case you didn't know, Portland is a brunch town. Especially if you have a hangover. (Portland is a hangover town. Especially if you started your day with mimosas.) (Lather. Rinse. Repeat. Portland. Town. Mimosa.) The <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=Portland,+Oregon&source=embed&msa=0&msid=116469707736573020051.00045795ab44f482df768&ll=45.557018,-122.656141&spn=0.273568,0.441513&z=11">map</a> has locations of some nearby favorites -- the general recommendation is to wake up, make yourself as decent as you want to be, grab a couple of eating companions and go! There is often a line, and finding seating for more than five or six might push your brunch into solid lunchtimes, especially on a Saturday. (And there's usually coffee available to people in line, just so you know.)
