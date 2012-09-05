@@ -15,10 +15,9 @@
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
-Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne). Limited cocktail menu available. </td><td>Planet Motherfucker</td></tr>
+Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne. Limited cocktail menu available. </td><td>Planet Motherfucker</td></tr>
 
-<tr><th>Saturday morning</th><td>Brunch<br />
-<em>multiple choice</em><br />
+<tr><th>Saturday morning</th><td>Brunch &mdash; <em>multiple choice</em><br />
 assemble your party, quest for brunch!
 </td><td>various environs
 </td></tr>
@@ -31,26 +30,40 @@ readings?
 </td><td>various environs
 </td></tr>
 
-<tr><th>Saturday evening</th><td>Dinner<br />
-<em>multiple choice</em><br />
+<tr><th>Saturday evening</th><td>Dinner &mdash; <em>multiple choice</em><br />
 assemble your party, quest for late brunch!
 </td><td>various environs
 </td></tr>
 
-<tr><th>Saturday night</th><td>Main Event<br />
-musical line-up to be determined<br />
+<tr><th>Saturday night</th><td>Thee Main Event<br />
+Our Saturday night activities broker no description.
+<em>musical line-up to be determined</em><br />
 </td><td>Salut!
 </td></tr>
 
-<tr><th>Sunday <strike>morning</strike>day</th><td>Brunch<br />
+<tr><th>Sunday <strike>morning</strike>day</th><td>Brunch &mdash;
 <em>multiple choice</em><br />
 assemble your party, quest for brunch!
 </td><td>various environs
 </td></tr>
 
-<tr><th>Sunday afternoon and evening</th><td>Board & Card Games<br />
+<tr><th>Sunday afternoon and evening</th><td>Board & Card & Yard Games<br />
+The possibilities are neigh limitless.
 </td><td>Concussionary
 </td></tr>
+
+<tr><th>Sunday evening</th><td> Dinner <br />
+Fabulous Monster Palace offers to open their weekly Sunday night dinner to our revelry!
+</td><td>Monster Palace
+</td></tr>
+
+<tr><th>Sunday night</th><td> Movie & Fire <br />
+Postprandial drinks around the new firepit at Appleton House. Movie to be determined.
+</td><td>Appleton House
+</td></tr>
+
+<tr><th>Monday morning</th><td>On Monday morning, we will hold our traditional Bloodies Mary Service including a brunch of scrambled tofu and toast. Zombie-like celebrants will slouch towards this magnificent buffet at Planet Motherfucker sometime around 11am. In the event of no-rain, frolicking (juggling, frisbee, bocce, quoits) in nearby Colonel Summers Park may occupy the afternoon. </td><td>Planet Motherfucker</td></tr>
+</table>
 
 
 
