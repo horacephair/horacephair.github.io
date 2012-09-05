@@ -180,7 +180,11 @@ party</em>
 * apple tasting at portland nursery
 * rian o'hara rides again!
 
-##X
+## X
 * cat juggling (oh really?)
+
+## IIIIIIIIIII
+* multiple trampolines?
+* readings?
 
 [edit](/potato)
