@@ -26,6 +26,7 @@ assemble your party, quest for brunch!
 <a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)<br />
 <a href="http://pdxarchivists.wordpress.com/2012/08/14/ready-to-crawl/">Multnomah County Archives Crawl</a> (10am-3pm)<br />
 trampolines in Hillsboro?<br />
+inaugural riding of the streetcar loop?<br />
 readings?
 </td><td>various environs
 </td></tr>
