@@ -37,7 +37,7 @@ assemble your party, quest for late brunch!
 </td></tr>
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
-Our Saturday night activities broker no description.
+Our Saturday night activities broker no description.<br />
 <em>musical line-up to be determined</em><br />
 </td><td>Salut!
 </td></tr>
