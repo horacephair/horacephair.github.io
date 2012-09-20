@@ -70,9 +70,11 @@ Postprandial drinks around the new firepit at Appleton House. Movie to be determ
 
 Other events from our affiliates:
 
+* <ahref="http://www.goholytrinity.org/cGreekFest.html">Greek Festival</a> at Holy Trinity Greek Orthodox Church at NE 32nd & Glisan (Oct 5-6-7)
+
 * The Wedge Celebration of Cheese at the Green Dragon with Oregon Cheese Guild (10am-4pm Sat 6 Oct)
 
-* the <a href="http://www.iprc.org/calendar/the-seventh-annual-text-ball">IPRC TEXT BALL</a> at Disjecta (Sat 6 Oct)
+* <a href="http://www.iprc.org/calendar/the-seventh-annual-text-ball">IPRC TEXT BALL</a> at Disjecta (Sat 6 Oct)
 
 * the XX play the Roseland (Sun 7 Oct)
 
@@ -84,7 +86,7 @@ Other events from our affiliates:
 
 * BRICK DAY is October 15
 
-* The Projects from IPRC and Floating World (19-21 Oct) 
+* <a href="http://theprojectspdx.tumblr.com/">The Projects</a>, a festival of experimental comics and narrative, from IPRC and Floating World (19-21 Oct) 
  
 
 
