@@ -69,8 +69,8 @@ Postprandial drinks around the new firepit at Appleton House. Movie to be determ
 
 
 Other events from our affiliates:
-
-* <ahref="http://www.goholytrinity.org/cGreekFest.html">Greek Festival</a> at Holy Trinity Greek Orthodox Church at NE 32nd & Glisan (Oct 5-6-7)
+ 
+* <a href="http://www.goholytrinity.org/cGreekFest.html">Greek Festival</a> at Holy Trinity Greek Orthodox Church at NE 32nd & Glisan (Oct 5-6-7)
 
 * The Wedge Celebration of Cheese at the Green Dragon with Oregon Cheese Guild (10am-4pm Sat 6 Oct)
 
