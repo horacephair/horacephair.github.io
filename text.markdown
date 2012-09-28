@@ -1,12 +1,12 @@
 ## IIIIIIIIIII
-* that was eleven
+* The tenth anniversary is the tin anniversary.
 
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">Whee</span>
 > Horace Phair is eleven this year!!11!!!!2!
 
-> The U.S. holiday of Columbus Day falls on October 10 in 2011 C.E. and October 8 in 2012 C.E. This is generally relevant to us because some places of work and study grant that as a day off, and this is a party that takes a whole weekend, sometimes more. It is specifically relevant to us because we are taking part in the great tradition of our people. No, the other great tradition. This will be the eleventh year of said great tradition. If you have to ask what people...
+> The U.S. holiday of Columbus Day falls on October 10 in 2011 C.E. and October 8 in 2012 C.E. This is generally relevant to us because some places of work and study grant that as a day off, and this is a party that takes a whole weekend, sometimes more. It is specifically relevant to us because we are taking part in the great tradition of our people. No, the other great tradition. This will be the eleventh year of said great tradition. 
 
 > We're older now, maybe not wiser, maybe not even more mindful of the injuries and ailments (both physical and psychical) that may come with years and might recommend greater temperance in one's behavior. But not this weekend, anyway.
 
