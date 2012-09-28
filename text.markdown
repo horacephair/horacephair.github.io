@@ -25,7 +25,7 @@ assemble your party, quest for brunch!
 <tr><th>Saturday afternoon</th><td><em>various activities</em><br />
 <a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)<br />
 <a href="http://pdxarchivists.wordpress.com/2012/08/14/ready-to-crawl/">Multnomah County Archives Crawl</a> (10am-3pm)<br />
-trampolines in Hillsboro?<br />
+<a href="http://por.jumpskyhigh.com/">Trampolines in Tigard!</a> (5-6)<br />
 inaugural riding of the streetcar loop?<br />
 readings?
 </td><td>various environs
@@ -117,13 +117,6 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 
 ##Appleton House (dave, jenny)
 *
-
-##The Concussionary
-<em>Ryan, Kelly</em>
-
-* Michael Kelly in the backyard if it's warm or in the house on the couch or futon or floor if it's not
-
-* Overflow from PMF?
 
 ##Other Locations?
 *
