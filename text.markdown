@@ -1,10 +1,10 @@
 ## IIIIIIIIIII
-* The tenth anniversary is the tin anniversary.
+* this one goes up to eleven
 
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
 # <a name="will_happen"></a><span title="I say yes, because I believe in sailboats.">Whee</span>
-> Horace Phair is eleven this year!!11!!!!2!
+> Horace Phair is eleven this year!!11!!!!2! Since counting was invented before zero, that makes this the TENTH ANNIVERSARY of the first Horace Phair. The tenth anniversary is the TIN anniversary, meaning if you are at the airport gift shop before your visit and you see any tin stuff you're legally obligated to buy it and bring it to the party or something. Or, just come marvel at how beautifully we've all aged.
 
 > The U.S. holiday of Columbus Day falls on October 10 in 2011 C.E. and October 8 in 2012 C.E. This is generally relevant to us because some places of work and study grant that as a day off, and this is a party that takes a whole weekend, sometimes more. It is specifically relevant to us because we are taking part in the great tradition of our people. No, the other great tradition. This will be the eleventh year of said great tradition. 
 
@@ -27,7 +27,7 @@ assemble your party, quest for brunch!
 <a href="http://pdxarchivists.wordpress.com/2012/08/14/ready-to-crawl/">Multnomah County Archives Crawl</a> (10am-3pm)<br />
 <a href="http://por.jumpskyhigh.com/">Trampolines in Tigard!</a> (5-6)  We have the private room from 5-6 so we should try to be there a bit earlier so everyone can sign waivers/check in.  Please let Megan know (tornadogrrrl@gmail.com) if you can either offer a ride or need a seat in a car.<br />
 inaugural riding of the streetcar loop?<br />
-READINGS. READINGS are going to be like a white elephant gift exchange, which means if you want to read something, bring something for someone else to read.
+<B>READINGS.</B> <I>READINGS</I> are going to be like a white elephant gift exchange, which means if you want to read something, bring something for someone else to read.
 <BR>
 If there is a thing you want a <I>specific person</I> to read, let Xen know.
 <BR>
