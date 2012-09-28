@@ -27,7 +27,13 @@ assemble your party, quest for brunch!
 <a href="http://pdxarchivists.wordpress.com/2012/08/14/ready-to-crawl/">Multnomah County Archives Crawl</a> (10am-3pm)<br />
 <a href="http://por.jumpskyhigh.com/">Trampolines in Tigard!</a> (5-6)  We have the private room from 5-6 so we should try to be there a bit earlier so everyone can sign waivers/check in.  Please let Megan know (tornadogrrrl@gmail.com) if you can either offer a ride or need a seat in a car.<br />
 inaugural riding of the streetcar loop?<br />
-readings?
+READINGS. READINGS are going to be like a white elephant gift exchange, which means if you want to read something, bring something for someone else to read.
+<BR>
+If there is a thing you want a <I>specific person</I> to read, let Xen know.
+<BR>
+If you cannot attend but would still like a person to read a thing (specific or not), e-mail the thing to Xen.
+<BR>
+OK
 </td><td>various environs
 </td></tr>
 
