@@ -118,6 +118,11 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 ##Appleton House (dave, jenny)
 *
 
+##The Concussionary
+<em>Ryan, Kelly</em>
+* Michael Kelly in the backyard if it's warm or in the house on the couch or futon or floor if it's not
+* Overflow from PMF?
+
 ##Other Locations?
 *
  
