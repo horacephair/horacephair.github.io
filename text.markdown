@@ -125,7 +125,6 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 *
 
 ##The Concussionary
-<em>Ryan and Kelly</em>
 * Mike Kelley rockin' the backyard tent
 *
 
