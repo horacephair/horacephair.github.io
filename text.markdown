@@ -30,8 +30,8 @@ inaugural riding of the streetcar loop?<br />
 <B>READINGS.</B> <I>READINGS</I> are going to be like a white elephant gift exchange, which means if you want to read something, bring something for someone else to read.
 <BR>
 If there is a thing you want a <I>specific person</I> to read, let Xen know.
-<BR>
-If you cannot attend but would still like a person to read a thing (specific or not), e-mail the thing to Xen.
+<BR><BR><BR>
+If you cannot attend but would still like a person to read a thing (specific or not), e-mail the thing to Xen, christenmccurdy at g mail
 <BR>
 OK
 </td><td>various environs
