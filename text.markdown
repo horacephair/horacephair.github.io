@@ -1,5 +1,7 @@
 ## IIIIIIIIIII
 * this one goes up to eleven
+* it is happening again.
+<img src="http://25.media.tumblr.com/tumblr_loxrfh5H5l1qk74clo1_500.jpg">
 
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
@@ -15,7 +17,7 @@
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
-Join us at PlanetMF as we wait for people to arrive. Berr drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne. Limited cocktail menu available. </td><td>Planet Motherfucker</td></tr>
+Join us at PlanetMF as we wait for people to arrive. Beer drinking on the porch, lounging on the couches, eating pizza in the backyard (weather permitting). Casual wagers may be made on the number of out-of-town guests and pizzas that have arrived by hour. Midnight excursion to Cartopia for the fourth meal (SE 12th & Hawthorne. Limited cocktail menu available. </td><td>Planet Motherfucker</td></tr>
 
 <tr><th>Saturday morning</th><td>Brunch &mdash; <em>multiple choice</em><br />
 assemble your party, quest for brunch!
@@ -104,7 +106,7 @@ This is Portland, so it's ok to go to brunch in your pyjamas. Just tell them you
 
 #<a name="moving"></a>The wheels on the bus
 The free rail zone has passed into fable, as have transit zones. The benefit is that it's one price to take the bus or rail anywhere. The penalty is that it's more expensive.
-Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning.
+Trimet buses are great and they go where you want to go, more or less. You can check <a href="http://trimet.org">trimet.org</a> for the important information and trip planning. One piece of important information: if you're taking more than one trip in a day, say there and back, just get an all-day pass.
 
 Also, there might be a few loaner bikes that will be available. We don't have spare helmets, though, so if you value your noggin, maybe you can pack one? (Renting from a local bike shop - say Citybikes - is also an option!)
 
@@ -115,7 +117,7 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 
 ##Saluthaus
 <em>conform, ideath, lettie jane, caesar</em>
-*
+* Qous, Ashley, 
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, tiaz, kpele</em>
