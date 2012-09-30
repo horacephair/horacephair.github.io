@@ -1,7 +1,5 @@
 ## IIIIIIIIIII
 * this one goes up to eleven
-* it is happening again.
-<img src="http://25.media.tumblr.com/tumblr_loxrfh5H5l1qk74clo1_500.jpg">
 
 <div class="floatyleft"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=Portland,+Oregon&amp;msa=0&amp;msid=116469707736573020051.00045795ab44f482df768&amp;ll=45.557018,-122.656141&amp;spn=0.136784,0.220757&amp;source=embed" style="color:#0000FF;text-align:left">horace p. hair</a> in a larger map</small></div>
 
@@ -117,7 +115,8 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 
 ##Saluthaus
 <em>conform, ideath, lettie jane, caesar</em>
-* Qous, Ashley, 
+
+* Qous, Ashley, Angus
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, tiaz, kpele</em>
@@ -202,5 +201,7 @@ party</em>
 ## IIIIIIIIIII
 * multiple trampolines?
 * readings?
+* it is happening again.
+<img src="http://25.media.tumblr.com/tumblr_loxrfh5H5l1qk74clo1_500.jpg">
 
 [edit](/potato)
