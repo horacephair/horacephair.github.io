@@ -44,7 +44,7 @@ assemble your party, quest for late brunch!
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
 Our Saturday night activities broker no description.<br />
-<em>musical line-up to be determined</em><br />
+<em>musical line-up to be determined, but including the artist sometimes called Don Red, and potentially including Rian O'Hara! and maybe Gregory Miles Harris! and maybe Rowan will bring a squeezebox, or squeeze the baby!</em><br />
 </td><td>Salut!
 </td></tr>
 
@@ -116,7 +116,9 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 ##Saluthaus
 <em>conform, ideath, lettie jane, caesar</em>
 
-* Qous, Ashley, Angus
+* Qous, Ashley
+* Angus
+* John
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, tiaz, kpele</em>
