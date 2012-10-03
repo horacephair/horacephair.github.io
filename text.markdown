@@ -55,7 +55,7 @@ assemble your party, quest for brunch!
 </td></tr>
 
 <tr><th>Sunday afternoon and evening</th><td>Board & Card & Yard Games<br />
-The possibilities are neigh limitless.
+The possibilities are nigh limitless.
 </td><td>Concussionary
 </td></tr>
 
@@ -128,6 +128,8 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 *
 
 ##The Concussionary
+<em>Ryan and Kelly</em>
+
 * Mike Kelley rockin' the backyard tent
 * you?
 
