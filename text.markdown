@@ -44,7 +44,7 @@ assemble your party, quest for late brunch!
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
 Our Saturday night activities broker no description.<br />
-<em>musical line-up to be determined, but including the artist sometimes called Don Red, and potentially including Rian O'Hara(update: CONFIRMED)! and maybe <del>Gregory Miles Harris<del>(update: DENIED)! and maybe Rowan will bring a squeezebox, or squeeze the baby!</em><br />
+<em>musical line-up to be determined, but including the artist sometimes called Don Red, and potentially including Rian O'Hara(update: CONFIRMED)! and maybe <del>Gregory Miles Harris</del>(update: DENIED)! and maybe Rowan will bring a squeezebox, or squeeze the baby!</em><br />
 </td><td>Salut!
 </td></tr>
 
