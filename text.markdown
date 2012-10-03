@@ -122,7 +122,9 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 
 ##Planet Motherfucker
 <em>icicle, ouroboros, tiaz, kpele</em>
-*
+* Ed
+* Doruk
+* Manuel
 
 ##Appleton House (dave, jenny)
 *
@@ -131,7 +133,8 @@ Also, there might be a few loaner bikes that will be available. We don't have sp
 <em>Ryan and Kelly</em>
 
 * Mike Kelley rockin' the backyard tent
-* you?
+* Jack
+* Possible overflow from PMF?
 
 
 ##Other Locations?
