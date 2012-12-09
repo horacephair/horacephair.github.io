@@ -209,7 +209,5 @@ party</em>
 ## IIIIIIIIIII
 * multiple trampolines?
 * readings?
-* it is happening again.
-<img src="http://25.media.tumblr.com/tumblr_loxrfh5H5l1qk74clo1_500.jpg">
 
 [edit](/potato)
