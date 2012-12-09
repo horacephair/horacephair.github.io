@@ -210,6 +210,6 @@ party</em>
 * multiple trampolines?
 * readings?
 * it is happening again.
-<a href="http://www.flickr.com/photos/87986086@N08/"><img src="http://25.media.tumblr.com/tumblr_loxrfh5H5l1qk74clo1_500.jpg"></a>
+<img src="http://25.media.tumblr.com/tumblr_loxrfh5H5l1qk74clo1_500.jpg">
 
 [edit](/potato)
