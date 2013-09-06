@@ -31,9 +31,8 @@ assemble your party, quest for brunch!
 </td><td>various environs
 </td></tr>
 
-<tr><th>Sunday afternoon and evening</th><td>Board & Card & Yard Games<br />
-The possibilities are nigh limitless.
-</td><td>Concussionary
+<tr><th>Sunday afternoon and evening</th><td>
+</td><td>
 </td></tr>
 
 <tr><th>Sunday evening</th><td> Dinner <br />
