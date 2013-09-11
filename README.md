@@ -57,17 +57,15 @@ Other events from our affiliates:
 
 ##Saluthaus
 <em></em>
-
+* ???
 
 ##Appleton House (dave, jenny)
-*
+* ???
 
 ##???
 <em>Ryan and Kelly</em>
 
-* Mike Kelley rockin' the backyard tent
-* Jack
-* Possible overflow from PMF?
+* ???
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Dan, Terra, Randy</em>
@@ -76,7 +74,7 @@ Other events from our affiliates:
 * office cushion
 
 ##Other Locations?
-*
+* ???
  
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
