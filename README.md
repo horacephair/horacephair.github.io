@@ -1,4 +1,4 @@
-<a href="#look_at_me">&nbsp;</a>
+<a class="anchor" href="#look-at-me" name="look-at-me">
 ## THIS. IS. HORACE. PHAIR. XII.
 
 You are at the right place. Really. Really?
