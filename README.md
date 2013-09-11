@@ -10,7 +10,7 @@ Really.
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
-Join us at ??? as we wait for people to arrive.</td><td>???</td></tr>
+Join us at Craggy Island as we wait for people to arrive.</td><td>Craggy Island</td></tr>
 
 <tr><th>Saturday morning</th><td>Brunch &mdash; <em>multiple choice</em><br />
 assemble your party, quest for brunch!
@@ -48,7 +48,7 @@ assemble your party, quest for brunch!
 </td><td>
 </td></tr>
 
-<tr><th>Monday morning</th><td></td><td></td></tr>
+<tr><th>Monday morning</th><td>Brunch</td><td>Craggy Island</td></tr>
 </table>
 
 
@@ -77,6 +77,12 @@ Other events from our affiliates:
 
 * spare bedroom
 * office cushion
+
+## Craggy Island
+<em>Christen, Doruk, Jhasen, Kalina</em>
+
+* queen-sized bed in the basement
+* full-size pullout couch in living room
 
 ##Other Locations?
 * ???
