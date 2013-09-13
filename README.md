@@ -48,13 +48,11 @@ assemble your party, quest for brunch!
 <tr><th>Monday morning</th><td>Boozy brunch</td><td>Craggy Island</td></tr>
 </table>
 
-
-
 Other events from our affiliates:
  
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
-#Arrangements are being made
+#Accommodations are being made
 <img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
 
 ##Saluthaus
@@ -63,21 +61,20 @@ Other events from our affiliates:
 
 ##Appleton House
 <em>Dave and Jenny</em>
-* ???
+* Guest room with queen bed
+* Double-size futon in media room
 
-##???
+##(Unnamed new house)
 <em>Ryan and Kelly</em>
 * ???
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Dan, Terra, Randy</em>
-
 * spare bedroom
 * office cushion
 
 ## Craggy Island
 <em>Christen, Doruk, Jhasen, Kalina</em>
-
 * queen-sized bed in the basement
 * full-size pullout couch in living room
 
@@ -98,59 +95,75 @@ party</em>
 > January 9, 1880, "Great Gale" and snowstorm. On a larger scale, the Columbus Day Storm of 1962 is 
 > a contender for the title of most powerful extratropical cyclone recorded in the U.S. in the 20th 
 > century; with respect to wind velocity, it is unmatched by the March 1993 "Storm of the Century" 
-> and the "1991 Halloween Nor�easter" (aka "The Perfect Storm"). In the eastern United States, only 
+> and the "1991 Halloween Northeaster" (aka "The Perfect Storm"). In the eastern United States, only 
 > hurricanes of Category 3 or higher have brought winds of the magnitude witnessed in Oregon and 
 > Washington on Columbus Day, October 12, 1962.
 
 ## -3
 > Everything2 is readied for its first infusion of material from everything.blockstackers.com, which occurs on Nov. 13.
 
-## I &nbsp;
+## I
+<em>October 11-14, 2002</em>
 * Head West! Colonize an already-inhabited place!
 
 ## II
+<em>October 10-13, 2003</em>
 * Superball fight in the stairwell.
 
 ## III
+<em>October 8-11, 2004</em>
 * The NewHaus, which have become Salut.
 
 ## IV
+<em>October 7-10, 2005</em>
 * the Manifestos
 * first CD released
 * house Canadians take up residence.
 
 ## V
+<em>October 6-9, 2006</em>
 * we failed to have a reading
 * but we did add American bands: the bad mintons and ginggang goolie goolie.
 * and the fabled 5AM Neutral Milk Hotel "reading"
   * which was awesome 
 
 ## VI
+<em>October 5-8, 2007</em>
 * the wedding of Horace (deceased) and Liz (unaware)
 * ovenmitts!  golden greats! 
 * pants-free yoga.
 
 ## VII
+<em>October 10-13, 2008</em>
 * ELECT HORACE/PHAIR '08
 * the pathogens! dirty ovenmitts!  nitebrite!
 * pants-free pantsfreeness.
 
 ## VIII and/or IIX
-* toasts!
-* pants-free victory!
-* less vomit!
-* rian o'hara!
-* but several regulars stuck with newborns in the yukon of montana manhattan 
+<em>October 9-12, 2009</em>
+* Toasts!
+* Pants-free victory!
+* Less vomit!
+* Rian O'Hara!
+* Several regulars stuck with newborns in the Yukon of Montana Manhattan 
 
 ## IX
-* apple tasting at portland nursery
-* rian o'hara rides again!
+<em>October 8-11, 2010</em>
+* Apple tasting at Portland Nursery
+* Rian O'Hara rides again!
 
 ## X
-* cat juggling (oh really?)
+<em>October 7-10, 2011</em>
+* Cat juggling (oh really?)
 
-## IIIIIIIIIII
-* multiple trampolines?
-* readings?
+## XI and/or IIIIIIIIIII
+<em>October 5-8, 2012</em>
+* multiple trampolines
+* fire pits
+* Planet of the Apes
 
-[edit](/potato)
+## XII
+<em>October 11-14, 2013</em>
+* Magical moments
+* Golden memories
+* Solemn memorials
