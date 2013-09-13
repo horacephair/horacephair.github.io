@@ -37,7 +37,7 @@ assemble your party, quest for brunch!
 </td><td>
 </td></tr>
 
-<tr><th>Sunday evening</th><td> Dinner <br />
+<tr><th>Sunday evening</th><td>Dinner<br />
 </td><td>
 </td></tr>
 
@@ -61,12 +61,12 @@ Other events from our affiliates:
 <em></em>
 * ???
 
-##Appleton House (Dave and Jenny)
+##Appleton House
+<em>Dave and Jenny</em>
 * ???
 
 ##???
 <em>Ryan and Kelly</em>
-
 * ???
 
 ## Monster Palace
