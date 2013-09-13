@@ -61,12 +61,12 @@ Other events from our affiliates:
 <em></em>
 * ???
 
-##Appleton House (Dave and Jenny)
+##Appleton House
+<em>(Dave and Jenny)</em>
 * ???
 
 ##???
 <em>Ryan and Kelly</em>
-
 * ???
 
 ## Monster Palace
