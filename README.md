@@ -12,10 +12,7 @@ Really.
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
 Join us at Craggy Island as we wait for people to arrive.</td><td>Craggy Island</td></tr>
 
-<tr><th>Saturday morning</th><td>Brunch &mdash; <em>multiple choice</em><br />
-assemble your party, quest for brunch!
-</td><td>various environs
-</td></tr>
+<tr><th>Saturday morning</th><td>Vegan brunch (booze-free)</td><td>Appleton House</td></tr>
 
 <tr><th>Saturday afternoon</th><td><em>various activities</em><br />
 <a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)<br />
@@ -48,7 +45,7 @@ assemble your party, quest for brunch!
 </td><td>
 </td></tr>
 
-<tr><th>Monday morning</th><td>Brunch</td><td>Craggy Island</td></tr>
+<tr><th>Monday morning</th><td>Boozy brunch</td><td>Craggy Island</td></tr>
 </table>
 
 
@@ -64,7 +61,7 @@ Other events from our affiliates:
 <em></em>
 * ???
 
-##Appleton House (dave, jenny)
+##Appleton House (Dave and Jenny)
 * ???
 
 ##???
