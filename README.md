@@ -82,13 +82,22 @@ Other events from our affiliates:
 * ???
  
 
-# <a name="will_happen"></a><span title="something witty">Phairs of the past.</span>
+# <a name="will_happen"></a><span title="something witty">Phairs of the Past</span>
 
-## -172
-<em>Horace Greeley is DEAD and will not be attending the
-party</em>
+## -510
+<em>October 12, 1492</em>
+* Cristobal Columbus infects native Americans with diseases; millions die.
 
-## -39
+## -210
+<em>October, 1792</em>
+* First celebration of Columbian Order at Tammany Hall in New York.
+
+## -130
+<em>October, 1872</em>
+* Horace Greeley prepares for death on November 29, and will not be attending the party.
+
+## -40
+<em>October 9-12, 1962</em>
 > The [Columbus Day Storm of 1962](http://en.wikipedia.org/wiki/Columbus_Day_Storm_of_1962) 
 > (otherwise known as the Big Blow) was an extratropical wave cyclone that ranked among the most 
 > intense to strike the United States Pacific Northwest since at least 1948, likely since the 
@@ -100,7 +109,8 @@ party</em>
 > Washington on Columbus Day, October 12, 1962.
 
 ## -3
-> Everything2 is readied for its first infusion of material from everything.blockstackers.com, which occurs on Nov. 13.
+<em>October 8-11, 1999</em>
+* Everything2.com is readied for its first infusion of material from everything.blockstackers.com, which occurs on November 13.
 
 ## I
 <em>October 11-14, 2002</em>
