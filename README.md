@@ -1,9 +1,9 @@
 <a class="anchor" href="#look-at-me" name="look-at-me">
-## THIS. IS. HORACE. PHAIR. XII.
+#THIS. IS. HORACE. PHAIR. XII.
 
 You are at the right place. Really. Really?
 
-<strong><a href="http://goo.gl/maps/OFoWI">this is the link to the current horace p. hair maaaaap.</a></strong>
+<strong><a href="http://goo.gl/maps/OFoWI">This is the link to the current horace p. hair maaaaap.</a></strong>
 
 Really.
 
@@ -41,9 +41,7 @@ assemble your party, quest for brunch!
 </td><td>
 </td></tr>
 
-<tr><th>Sunday night</th><td> ??? <br />
-</td><td>
-</td></tr>
+<tr><th>Sunday night</th><td>Fire pit and movies</td><td>Appleton House</td></tr>
 
 <tr><th>Monday morning</th><td>Boozy brunch</td><td>Craggy Island</td></tr>
 </table>
