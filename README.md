@@ -34,7 +34,8 @@ assemble your party, quest for brunch!
 </td></tr>
 
 <tr><th>Sunday afternoon and evening</th><td>
-</td><td>
+Games in the afternoon
+</td><td>Probably salut?
 </td></tr>
 
 <tr><th>Sunday evening</th><td>Dinner<br />
