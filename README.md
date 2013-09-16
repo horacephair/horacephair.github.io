@@ -78,7 +78,7 @@ Other events from our affiliates:
 * full-size pullout couch in living room
 
 ##Other Locations?
-* ???
+* House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
  
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the Past</span>
