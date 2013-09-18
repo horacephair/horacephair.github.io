@@ -38,8 +38,8 @@ Games in the afternoon
 </td><td>Probably salut?
 </td></tr>
 
-<tr><th>Sunday evening</th><td>Dinner<br />
-</td><td>
+<tr><th>Sunday evening</th><td>Soup will be made available
+</td><td> The Beech House
 </td></tr>
 
 <tr><th>Sunday night</th><td>Fire pit and movies</td><td>Appleton House</td></tr>
@@ -63,9 +63,10 @@ Other events from our affiliates:
 * Guest room with queen bed
 * Double-size futon in media room
 
-##(Unnamed new house)
+##The Beech House
 <em>Ryan and Kelly</em>
-* ???
+* Double-size futon + privacy in the ADU
+* Comfy couch in main house
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Dan, Terra, Randy</em>
