@@ -42,7 +42,7 @@ Games in the afternoon
 </td><td> The Beech House
 </td></tr>
 
-<tr><th>Sunday night</th><td>Fire pit and movies</td><td>Appleton House</td></tr>
+<tr><th>Sunday night</th><td>Fire pit and movies (Jenny's birthday [observed])</td><td>Appleton House</td></tr>
 
 <tr><th>Monday morning</th><td>Boozy brunch</td><td>Craggy Island</td></tr>
 </table>
@@ -60,7 +60,7 @@ Other events from our affiliates:
 
 ##Appleton House
 <em>Dave and Jenny</em>
-* Guest room with queen bed
+* Guest room with queen bed (Chris & Ashley)
 * Double-size futon in media room
 
 ##The Beech House
