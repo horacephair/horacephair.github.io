@@ -16,8 +16,10 @@ Join us at Craggy Island as we wait for people to arrive.</td><td>Craggy Island<
 
 <tr><th>Saturday afternoon</th><td><em>various activities</em><br />
 <a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)<br />
+<a href="http://www.sherlockholmesexhibition.com/">The International Exhibition of Sherlock Holmes at OMSI</a> (Saturday & Sunday, 9:30am-5:30pm)<br />
 </td><td>
 </td></tr>
+
 
 <tr><th>Saturday evening</th><td>Dinner &mdash; <em>multiple choice</em><br />
 </td><td>various environs
