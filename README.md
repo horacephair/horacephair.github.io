@@ -21,8 +21,8 @@ Join us at Craggy Island as we wait for people to arrive.</td><td>Craggy Island<
 </td></tr>
 
 
-<tr><th>Saturday evening</th><td>Dinner &mdash; <em>multiple choice</em><br />
-</td><td>various environs
+<tr><th>Saturday evening</th><td>Dinner &mdash; laurel is cooking.<br />
+</td><td>saluthaus
 </td></tr>
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
@@ -50,15 +50,22 @@ Games in the afternoon
 </table>
 
 Other events from our affiliates:
- 
+* Portland Nursery's 26th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find laurel and jenndolan during the day (except laurel has sunday off), and to eat strudel. Probably best if you don't attempt to drive; parking will be worse than downtown.
+* The <a href="http://www.portlandtattooexpo.com/">Portland Tattoo Expo</a> will be at the conference center, if you want to check out the ink or are thinking of <a href="http://en.wikipedia.org/wiki/File:Chrysopoea_of_Cleopatra_1.gif">one of your own</a>.
+
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
 #Accommodations are being made
 <img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
 
-##Saluthaus
-<em></em>
-* ???
+##Saluthaus 
+<em>seamus, laurel, daniel</em>
+* guest room (Mike Kelley)
+* cozy book loft
+* futon in media room
+* futon on media room floor
+* sofa
+* camping space (heatherplanks)
 
 ##Appleton House
 <em>Dave and Jenny</em>
