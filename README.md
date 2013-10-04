@@ -29,11 +29,16 @@ Join us at Craggy Island as we wait for people to arrive.</td><td>Craggy Island<
 </td><td>Salut!
 </td></tr>
 
-<tr><th>Sunday <strike>morning</strike>day</th><td>Brunch &mdash;
-<em>multiple choice</em><br />
-assemble your party, quest for brunch!
-</td><td>various environs
-</td></tr>
+<tr><th>Sunday <strike>morning</strike>day</th><td>
+<ul><li>Brunch &mdash;<em>multiple choice</em><br />
+assemble your party, quest for brunch!</li>
+<li><i>there will probably be hot heirloom-apple-sauce and homemade granola at salut if there are takers</i></li>
+<li><a href="http://www.portlandfarmersmarket.org/markets/king/">King farmers market</a></li>
+</ul></td><td><ul>
+<li>various environs</li>
+<li>saluthaus</li>
+<li>just up the street at king elementary</li>
+</ul></td></tr>
 
 <tr><th>Sunday afternoon and evening</th><td>
 Games in the afternoon
@@ -56,7 +61,7 @@ Other events from our affiliates:
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
 #Accommodations are being made
-<img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
+<img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! (Or we haven't figured out how to edit this dealy yet.) If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
 
 ##Saluthaus 
 <em>seamus, laurel, daniel</em>
