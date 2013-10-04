@@ -16,7 +16,8 @@ Join us at Craggy Island as people arrive.</td><td>Craggy Island</td></tr>
 
 <tr><th>Saturday morning</th><td>Vegan brunch (booze-free)</td><td>Appleton House</td></tr>
 
-<tr><th>Saturday afternoon</th><td><em>various activities</em><br /></td><td>
+<tr><th>Saturday afternoon</th><td><em>various activities</em><br />
+includeing the reading? probably late afternoon at salut</td><td>
 </td></tr>
 
 <tr><th>Saturday evening</th><td>Dinner &mdash; laurel is cooking.<br />
@@ -26,13 +27,13 @@ Join us at Craggy Island as people arrive.</td><td>Craggy Island</td></tr>
 <tr><th>Saturday night</th><td>Thee Main Event<br />
 Might be a fire, an' it ain't raining.<br />
 People might make music,<br />
-* <a href="http://overcreston.wordpress.com/">Over Creston</a>
-* <a href="http://creakingplanks.com/">Creaking Planks</a>
-* <a href="https://www.facebook.com/rian.ohara">Rian O'Hara</a>
-* Strangled Darlings? Don Red? <em>Mykle Hansen?</em> Wow. 
+* <a href="http://overcreston.wordpress.com/">Over Creston</a><br />
+* <a href="http://creakingplanks.com/">Creaking Planks</a><br />
+* <a href="https://www.facebook.com/rian.ohara">Rian O'Hara</a><br />
+* Strangled Darlings? Don Red? <em>Mykle Hansen?</em> Wow. <br />
 YOU might make music.<br />
 Bring your pantsless yoga pants.<br />
-Daniel may be doing some amateur anthropology/oral history.
+Daniel may be doing some amateur anthropology/oral history. 
 </td><td>Salut!
 </td></tr>
 
@@ -84,7 +85,8 @@ Other events from our affiliates:
 * futon in media room
 * futon on media room floor
 * sofa
-* camping space (heatherplanks)
+* futon on daniel's floor if you're nice to daniel
+* camping space (heatherplanks, room for more)
 
 ##Appleton House
 <em>Dave and Jenny</em>
@@ -113,7 +115,7 @@ Other events from our affiliates:
 * Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
 * Weather clothes. Seriously, this year we can't predict. Might be gorgeous. Might be normal (damp). Might pour. Your shoes will probably get wet.
 * Bring a book you have recently read, meant to read, want others to read, whatever. There will be kinda like a literary naked lady party type of book exchange, the Ballinger Book Swap. 
-* Bring a thing to read at Saturday's reading. The theme is impressions. Could be an impression of someone's writing style, someone's reading style, your thumb. Bring it. Talk to Xen and laurel if you have kesteonays.
+* Bring a thing to read (or have someone else read) at Saturday's reading. The theme is impressions. Could be an impression of someone's writing style, someone's reading style, your thumb. Bring it. Talk to Xen and laurel if you have kesteonays.
 * Bring a spoon or fork. Sometimes we run short.
 * Bring your blanky, because there is none other like it.
 * A camera or other d-vice for capturing things to put <a href="http://www.flickr.com/groups/542035@N21/">here</a>.
