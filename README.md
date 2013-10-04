@@ -7,25 +7,32 @@ You are at the right place. Really. Really?
 
 Really.
 
+# Times of Things
+
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
-Join us at Craggy Island as we wait for people to arrive.</td><td>Craggy Island</td></tr>
+Join us at Craggy Island as people arrive.</td><td>Craggy Island</td></tr>
 
 <tr><th>Saturday morning</th><td>Vegan brunch (booze-free)</td><td>Appleton House</td></tr>
 
-<tr><th>Saturday afternoon</th><td><em>various activities</em><br />
-<a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Market at PSU</a> (9am-2pm)<br />
-<a href="http://www.sherlockholmesexhibition.com/">The International Exhibition of Sherlock Holmes at OMSI</a> (Saturday & Sunday, 9:30am-5:30pm)<br />
-</td><td>
+<tr><th>Saturday afternoon</th><td><em>various activities</em><br /></td><td>
 </td></tr>
-
 
 <tr><th>Saturday evening</th><td>Dinner &mdash; laurel is cooking.<br />
 </td><td>saluthaus
 </td></tr>
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
+Might be a fire, an' it ain't raining.<br />
+People might make music,<br />
+* <a href="http://overcreston.wordpress.com/">Over Creston</a>
+* <a href="http://creakingplanks.com/">Creaking Planks</a>
+* <a href="https://www.facebook.com/rian.ohara">Rian O'Hara</a>
+* Strangled Darlings? Don Red? <em>Mykle Hansen?</em> Wow. 
+YOU might make music.<br />
+Bring your pantsless yoga pants.<br />
+Daniel may be doing some amateur anthropology/oral history.
 </td><td>Salut!
 </td></tr>
 
@@ -37,7 +44,7 @@ assemble your party, quest for brunch!</li>
 </ul></td><td><ul>
 <li>various environs</li>
 <li>saluthaus</li>
-<li>just up the street at king elementary</li>
+<li>just up the street at <a href="http://www.pps.k12.or.us/schools/king/">King Elementary</a></li>
 </ul></td></tr>
 
 <tr><th>Sunday afternoon and evening</th><td>
@@ -45,9 +52,13 @@ Games in the afternoon
 </td><td>Probably salut?
 </td></tr>
 
-<tr><th>Sunday evening</th><td>Soup will be made available
-</td><td> The Beech House
-</td></tr>
+<tr><th>Sunday evening</th><td><ul>
+<li>Soup will be made available</li>
+<li>This would be drawing night on a regular week; get nekkid or don't. Community drawing materials available.</li></ul>
+</td><td><ul>
+<li>The Beech House</li>
+<li>Salut</li>
+</ul></td></tr>
 
 <tr><th>Sunday night</th><td>Fire pit and movies (Jenny's birthday [observed])</td><td>Appleton House</td></tr>
 
@@ -55,6 +66,9 @@ Games in the afternoon
 </table>
 
 Other events from our affiliates:
+* <a href="http://www.portlandfarmersmarket.org/markets/psu/">Saturday Farmers Market at PSU</a> (9am-2pm)<br />
+* <a href="http://www.sherlockholmesexhibition.com/">The International Exhibition of Sherlock Holmes at OMSI</a> (Saturday & Sunday, 9:30am-5:30pm)<br />
+* <a href="http://www.portlandsaturdaymarket.com/">Portland Saturday Market</a> is great for gift shopping, down below the burnside bridge on the west side.<br/ >
 * Portland Nursery's 26th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find laurel and jenndolan during the day (except laurel has sunday off), and to eat strudel. Probably best if you don't attempt to drive; parking will be worse than downtown.
 * The <a href="http://www.portlandtattooexpo.com/">Portland Tattoo Expo</a> will be at the conference center, if you want to check out the ink or are thinking of <a href="http://en.wikipedia.org/wiki/File:Chrysopoea_of_Cleopatra_1.gif">one of your own</a>.
 
@@ -95,6 +109,14 @@ Other events from our affiliates:
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
  
+#What to Bring 
+* Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
+* Weather clothes. Seriously, this year we can't predict. Might be gorgeous. Might be normal (damp). Might pour. Your shoes will probably get wet.
+* Bring a book you have recently read, meant to read, want others to read, whatever. There will be kinda like a literary naked lady party type of book exchange, the Ballinger Book Swap. 
+* Bring a thing to read at Saturday's reading. The theme is impressions. Could be an impression of someone's writing style, someone's reading style, your thumb. Bring it. Talk to Xen and laurel if you have kesteonays.
+* Bring a spoon or fork. Sometimes we run short.
+* Bring your blanky, because there is none other like it.
+* A camera or other d-vice for capturing things to put <a href="http://www.flickr.com/groups/542035@N21/">here</a>.
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the Past</span>
 
