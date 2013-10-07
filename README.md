@@ -48,9 +48,10 @@ assemble your party, quest for brunch!</li>
 <li>just up the street at <a href="http://www.pps.k12.or.us/schools/king/">King Elementary</a></li>
 </ul></td></tr>
 
-<tr><th>Sunday afternoon and evening</th><td>
-Games in the afternoon
-</td><td>Probably salut?
+<tr><th>Sunday afternoon and evening</th><td><ul>
+<li>Games in the afternoon</li>
+<li>Laurel will take you to apple tasting</li></ul>
+</td><td><ul><li>Probably salut?</li><li>Portland nursery on stark street</li></ul>
 </td></tr>
 
 <tr><th>Sunday evening</th><td><ul>
@@ -81,9 +82,9 @@ Other events from our affiliates:
 ##Saluthaus 
 <em>seamus, laurel, daniel</em>
 * guest room (Mike Kelley)
-* cozy book loft
-* futon in media room
-* futon on media room floor
+* cozy book loft (Riley)
+* futon in media room (Riley's circus)
+* futon on media room floor (Riley's circus)
 * sofa
 * futon on daniel's floor if you're nice to daniel
 * camping space (heatherplanks, room for more)
