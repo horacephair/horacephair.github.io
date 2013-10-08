@@ -7,7 +7,7 @@ The Horace Phair XII Up-to-a-pentathalon consists of these nearly perfect replac
 1. Midday Saturday (leave at 12ish?): An archery competition of hitting a target with 10 arrows.
   - Pizza box with circles drawn on it? 
   - Water balloons as bonus
-  - This is going to be at Washington Park, so we'll need to coordinate rides with & for people who want to do this. 
+  - This is going to be at Washington Park, so we'll need to coordinate rides with & for people who want to do this. Talk to Ryan (... at pdxcb.net) if you're interested.
 2. Midafternoon Saturday (2:30pm or so?): 3 legged race at Irving Park
 3. Midafternoon Saturday (3pm or so): A three-hole disc golf course at Irving Park
    - This is "hit that tree" style, so don't expect proper disc golf holes or anything
