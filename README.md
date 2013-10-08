@@ -15,10 +15,9 @@ Really.
 Join us at Craggy Island as people arrive.</td><td>Craggy Island</td></tr>
 
 <tr><th>Saturday morning</th><td>Vegan brunch (booze-free)</td><td>Appleton House</td></tr>
-
-<tr><th>Saturday afternoon</th><td><em>various activities</em><br />
-includeing the reading? probably late afternoon at salut</td><td>
-</td></tr>
+<tr><th>Saturday afternoon</th><td>The Horace Phair XII Up-to-a-pentathon!<br />
+Test your mettle in up to 5 events of varying silliness!<br />[More information here](potato/pentathalon.md)</td><td>Washington Park,<br />Irving Park, <br />Saluthaus</tr>
+<tr><th>Saturday late afternoon<th><td>Readings!</td><td>Saluthaus</td></tr>
 
 <tr><th>Saturday evening</th><td>Dinner &mdash; laurel is cooking.<br />
 </td><td>saluthaus
