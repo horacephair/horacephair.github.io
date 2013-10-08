@@ -23,6 +23,9 @@ The Horace Phair XII Up-to-a-pentathalon consists of these nearly perfect replac
 We are not all similarly abled and or talented or interested! So let's not make every event required. Taking part in an event will get you 1 HPXIIUTAP victory point. 1st, 2nd, 3rd get points as follows:
 
 attendance: 1 HPXIIUTAPVP
+
 third: 2 HPXIIUTAPVP
+
 second: 4 HPXIIUTAPVP
+
 first: 6 HPXIIUTAPVP
