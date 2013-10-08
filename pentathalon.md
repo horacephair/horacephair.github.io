@@ -17,7 +17,7 @@ The Horace Phair XII Up-to-a-pentathalon consists of these nearly perfect replac
 5. Saluthaus evening: A JS Joust competition
     - Only free-for-all games
     - Last man standing wins
-	- 5 games are allowed
+	- 5 games are allowed for each contestant
 	- If there are ties after everyone's got their 5 games in, one final tiebreaker round is played
 
 We are not all similarly abled and or talented or interested! So let's not make every event required. Taking part in an event will get you 1 HPXIIUTAP victory point. 1st, 2nd, 3rd get points as follows:
