@@ -29,3 +29,5 @@ third: 2 HPXIIUTAPVP
 second: 4 HPXIIUTAPVP
 
 first: 6 HPXIIUTAPVP
+
+Winner of the pentathalon will be the person with the most HPXIIUTAPVPs, natch.
