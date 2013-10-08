@@ -96,7 +96,7 @@ Other events from our affiliates:
 
 ##The Beech House
 <em>Ryan and Kelly</em>
-* Double-size futon + privacy in the ADU
+* Double-size futon + privacy in the ADU (Jes?)
 * Comfy couch in main house
 
 ## Monster Palace
