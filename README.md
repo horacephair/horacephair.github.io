@@ -110,6 +110,7 @@ Other events from our affiliates:
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
+* Numbers Machine (Dann and his turtle) has two couches (Rolo and Rowan).
  
 #What to Bring 
 * Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
