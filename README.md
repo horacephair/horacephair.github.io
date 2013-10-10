@@ -72,6 +72,7 @@ Other events from our affiliates:
 * <a href="http://www.portlandsaturdaymarket.com/">Portland Saturday Market</a> is great for gift shopping, down below the burnside bridge on the west side.<br/ >
 * Portland Nursery's 26th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find laurel and jenndolan during the day (except laurel has sunday off), and to eat strudel. Probably best if you don't attempt to drive; parking will be worse than downtown.
 * The <a href="http://www.portlandtattooexpo.com/">Portland Tattoo Expo</a> will be at the conference center, if you want to check out the ink or are thinking of <a href="http://en.wikipedia.org/wiki/File:Chrysopoea_of_Cleopatra_1.gif">one of your own</a>.
+* <a href="http://www.legokidsfest.com/portland/index.html">Lego KidsFest</a> at the convention center is for kids, kids.
 
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
