@@ -61,7 +61,7 @@ assemble your party, quest for brunch!</li>
 <li>Salut</li>
 </ul></td></tr>
 
-<tr><th>Sunday night</th><td>Fire pit and movies (Jenny's birthday [observed])</td><td>Appleton House</td></tr>
+<tr><th>Sunday night</th><td><del>Fire pit and movies (Jenny's birthday [observed])</del><br />Ack! Too many things scheduled</td><td><del>Appleton House</del></td></tr>
 
 <tr><th>Monday morning</th><td>Boozy brunch</td><td>Craggy Island</td></tr>
 </table>
