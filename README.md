@@ -14,7 +14,7 @@ Really.
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
 Join us at Craggy Island as people arrive.</td><td>Craggy Island</td></tr>
 
-<tr><th>Saturday morning</th><td>???</td><td>???</td></tr>
+<tr><th>Saturday morning</th><td>Brunch</td><td>Beech House</td></tr>
 <tr><th>Saturday afternoon</th><td>The Horace Phair XIII Up-to-a-pentathon!<br />
 Test your mettle in up to 5 events of varying silliness!<br /><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td>Washington Park,<br />Irving Park, <br />Saluthaus</tr>
 <tr><th>Saturday late afternoon</th><td>???</td><td>???</td></tr>
