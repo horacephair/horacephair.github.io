@@ -52,10 +52,10 @@ assemble your party, quest for brunch!</li>
 </td></tr>
 
 <tr><th>Sunday evening</th><td><ul>
-<li>Soup will be made available</li>
+<li>???</li>
 <li>This would be drawing night on a regular week; get nekkid or don't. Community drawing materials available.</li></ul>
 </td><td><ul>
-<li>The Beech House</li>
+<li>???</li>
 <li>Salut</li>
 </ul></td></tr>
 
