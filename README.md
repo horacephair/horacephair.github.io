@@ -52,12 +52,10 @@ assemble your party, quest for brunch!</li>
 </td></tr>
 
 <tr><th>Sunday evening</th><td><ul>
-<li>???</li>
-<li>Destroy-yourself-an-effigy party: bring symbolic burnables. (Weather permitting)</li>
+<li>Bonfire and outdoor movies. (Weather permitting)</li>
 <li>This would be drawing night on a regular week; get nekkid or don't. Community drawing materials available.</li></ul>
 </td><td><ul>
-<li>???</li>
-<li>Longlawn</li>
+<li>Dave and Jenny's house-without-a-name-yet</li>
 <li>Salut</li>
 </ul></td></tr>
 
@@ -79,7 +77,6 @@ Other events from our affiliates:
 
 ##Dave & Jenny's new house
 <em>Dave and Jenny</em>
-
 
 ##The Beech House
 <em>Ryan and Kelly</em>
