@@ -53,9 +53,11 @@ assemble your party, quest for brunch!</li>
 
 <tr><th>Sunday evening</th><td><ul>
 <li>???</li>
+<li>Destroy-yourself-an-effigy party: bring symbolic burnables. (Weather permitting)</li>
 <li>This would be drawing night on a regular week; get nekkid or don't. Community drawing materials available.</li></ul>
 </td><td><ul>
 <li>???</li>
+<li>Longlawn</li>
 <li>Salut</li>
 </ul></td></tr>
 
