@@ -12,11 +12,13 @@ Really.
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
-Join us at Craggy Island as people arrive.</td><td>Craggy Island</td></tr>
+<ul><li>Join us at Craggy Island as people arrive.</td><td><ul><li>Craggy Island</td></tr>
 
-<tr><th>Saturday morning</th><td>Brunch</td><td>Beech House</td></tr>
+<tr><th>Saturday morning</th><td><ul><li>Brunch</td><td><ul><li>Beech House</td></tr>
 <tr><th>Saturday afternoon</th><td>The Horace Phair XIII Up-to-a-pentathon!<br />
-Test your mettle in up to 5 events of varying silliness!<br /><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td>Washington Park,<br />Irving Park, <br />Saluthaus</tr>
+<ul><li>Test your mettle in up to 5 events of varying silliness!</li><li><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td><ul><li>Washington Park</li>
+<li>Irving Park</li>
+<li>Saluthaus</li></tr>
 <tr><th>Saturday late afternoon</th><td>???</td><td>???</td></tr>
 
 <tr><th>Saturday evening</th><td>???<br />
@@ -24,12 +26,11 @@ Test your mettle in up to 5 events of varying silliness!<br /><a href="https://g
 </td></tr>
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
-Might be a fire, an' it ain't raining.<br />
-People might make music,<br />
-* ???
-YOU might make music.<br />
-Bring your pantsless yoga pants.<br />
-</td><td>Salut!
+<ul><li>Might be a fire, an' it ain't raining</li>
+<li>People might make music</li>
+<li>YOU might make music</li>
+<li>Bring your pantsless yoga pants</li>
+</td><td><ul><li>Salut!
 </td></tr>
 
 <tr><th>Sunday <strike>morning</strike>day</th><td>
@@ -39,7 +40,7 @@ assemble your party, quest for brunch!</li>
 </ul></td>
 <td><ul>
 <li>various environs</li>
-<li>saluthaus</li>
+<li>Saluthaus</li>
 </ul></td></tr>
 
 <tr><th>Sunday afternoon and evening</th><td><ul>
@@ -48,18 +49,21 @@ assemble your party, quest for brunch!</li>
 </td>
 <td><ul>
 <li>???</li>
-<li>Portland nursery on stark street</li></ul>
+<li><a href="http://portlandnursery.com/locations/stark.shtml">Portland Nursery (SE Stark)</a></li>
+</ul></td>
 </td></tr>
 
-<tr><th>Sunday evening</th><td><ul>
+<tr><th>Sunday evening</th><td>???<br />
+</td><td>???
+</td></tr>
+
+<tr><th>Sunday night</th><td><ul>
 <li>Bonfire and outdoor movies. (Weather permitting)</li>
 <li>This would be drawing night on a regular week; get nekkid or don't. Community drawing materials available.</li></ul>
 </td><td><ul>
 <li>Dave and Jenny's house-without-a-name-yet</li>
 <li>Salut</li>
 </ul></td></tr>
-
-<tr><th>Sunday night</th><td>???</td></tr>
 
 <tr><th>Monday morning</th><td><ul><li>Monday Brunch</li></td><td><ul><li>Craggy Island</li></td></tr>
 </table>
