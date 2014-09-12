@@ -61,7 +61,7 @@ assemble your party, quest for brunch!</li>
 
 <tr><th>Sunday night</th><td>???</td></tr>
 
-<tr><th>Monday morning</th><td>???</td><td>???</td></tr>
+<tr><th>Monday morning</th><td>Monday Brunch</td><td>Craggy Island</td></tr>
 </table>
 
 Other events from our affiliates:
