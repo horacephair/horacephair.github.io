@@ -81,6 +81,7 @@ Other events from our affiliates:
 
 ##Dave & Jenny's new house
 <em>Dave and Jenny</em>
+* Sorry, no guest accommodations this year due to construction
 
 ##The Beech House
 <em>Ryan and Kelly</em>
