@@ -89,6 +89,8 @@ Other events from our affiliates:
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Dan, Terra</em>
+* basement = Amariah
+* Uptairs guestroom = Placed on hold pending email response.
 
 ## Craggy Island
 <em>Christen, Doruk, Jhasen, Kalina</em>
