@@ -93,6 +93,9 @@ Other events from our affiliates:
 ## Craggy Island
 <em>Christen, Doruk, Jhasen, Kalina</em>
 
+* Couch in the living room
+* Mattress in the slightly musty basement
+
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
 
