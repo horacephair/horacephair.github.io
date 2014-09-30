@@ -85,7 +85,7 @@ Other events from our affiliates:
 
 ##The Beech House
 <em>Ryan and Kelly</em>
-* Comfy couch in main house
+* Comfy couch in main house (Josh)
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Dan, Terra</em>
