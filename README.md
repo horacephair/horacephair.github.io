@@ -58,7 +58,7 @@ assemble your party, quest for brunch!</li>
 </td></tr>
 
 <tr><th>Sunday night</th><td><ul>
-<li>Bonfire and outdoor movies. (Weather permitting)</li>
+<li>Bonfire and outdoor movies. (Weather permitting) Two very queer cakes.</li>
 <li>This would be drawing night on a regular week; get nekkid or don't. Community drawing materials available.</li></ul>
 </td><td><ul>
 <li>Dave and Jenny's house-without-a-name-yet</li>
