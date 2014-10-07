@@ -27,7 +27,7 @@ Really.
 <li>Cover Creston: sings some borrowed songs </li>
 <li>um, maybe some other folks?</li>
 <li>Bring your pantsless yoga pants</li>
-And food, simple food, not gonna win awards but will buffer your alcohol. Stay out of the kitchen unless you're cooking. Mom says.
+<li>And food, simple food, not gonna win awards but will buffer your alcohol. Stay out of the kitchen unless you're cooking. Mom says.</li>
 </td><td><ul><li>Salut!
 </td></tr>
 
