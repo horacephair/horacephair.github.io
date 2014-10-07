@@ -19,17 +19,15 @@ Really.
 <ul><li>Test your mettle in up to 5 events of varying silliness!</li><li><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td><ul><li>Washington Park</li>
 <li>Irving Park</li>
 <li>Saluthaus</li></tr>
-<tr><th>Saturday late afternoon</th><td>???</td><td>???</td></tr>
-
-<tr><th>Saturday evening</th><td>???<br />
-</td><td>???
-</td></tr>
+<tr><th>Saturday late afternoon</th><td>Early music on the early side. Cobb the medievalist and a friend on neat old instruments</td><td>Salut</td></tr>
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
 <ul><li>Might be a fire, an' it ain't raining</li>
-<li>People might make music</li>
-<li>YOU might make music</li>
+<li>Rian O'Hara: the man with the uke</li>
+<li>Cover Creston: sings some borrowed songs </li>
+<li>um, maybe some other folks?</li>
 <li>Bring your pantsless yoga pants</li>
+And food, simple food, not gonna win awards but will buffer your alcohol. Stay out of the kitchen unless you're cooking. Mom says.
 </td><td><ul><li>Salut!
 </td></tr>
 
@@ -45,7 +43,7 @@ assemble your party, quest for brunch!</li>
 
 <tr><th>Sunday afternoon and evening</th><td><ul>
 <li>Games in the afternoon</li>
-<li>Laurel will take you to apple tasting</li></ul>
+<li>Laurel/Trimet will take you to apple tasting</li></ul>
 </td>
 <td><ul>
 <li>???</li>
@@ -59,7 +57,7 @@ assemble your party, quest for brunch!</li>
 
 <tr><th>Sunday night</th><td><ul>
 <li>Bonfire and outdoor movies. (Weather permitting)</li>
-<li>This would be drawing night on a regular week; get nekkid or don't. Community drawing materials available.</li></ul>
+<li>This is our fortnightly life drawing night; get nekkid or don't. Community drawing materials available.</li></ul>
 </td><td><ul>
 <li>Dave and Jenny's house-without-a-name-yet</li>
 <li>Salut</li>
@@ -69,7 +67,7 @@ assemble your party, quest for brunch!</li>
 </table>
 
 Other events from our affiliates:
-* Portland Nursery's 27th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find laurel(???) and jenndolan(???) during the day , and to eat strudel. Probably best if you don't attempt to drive; parking will be worse than downtown.
+* Portland Nursery's 27th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
 
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
@@ -78,6 +76,7 @@ Other events from our affiliates:
 
 ##Saluthaus 
 <em>seamus, laurel, daniel</em>
+* ariel
 
 ##Dave & Jenny's new house
 <em>Dave and Jenny</em>
