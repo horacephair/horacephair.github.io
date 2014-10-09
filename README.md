@@ -54,16 +54,11 @@ assemble your party, quest for brunch!</li>
 </ul></td>
 </td></tr>
 
-<tr><th>Sunday evening</th><td>???<br />
-</td><td>???
-</td></tr>
-
 <tr><th>Sunday night</th><td><ul>
-<li>Bonfire and outdoor movies. (Weather permitting)</li>
+<li>Bonfire and outdoor movies, weather permitting. (Indoor movies and no fire if'n it's raining.)</li>
 <li>This is our fortnightly life drawing night; get nekkid or don't. Community drawing materials available.</li></ul>
 </td><td><ul>
 <li>Dave and Jenny's house-without-a-name-yet</li>
-<li>Salut</li>
 </ul></td></tr>
 
 <tr><th>Monday morning</th><td><ul><li>Monday Brunch</li></td><td><ul><li>Craggy Island</li></td></tr>
