@@ -19,7 +19,7 @@ Really.
 <ul><li>Test your mettle in up to 5 events of varying silliness!</li><li><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td><ul><li>Washington Park</li>
 <li>Irving Park</li>
 <li>Saluthaus</li></tr>
-<tr><th>Saturday late afternoon</th><td>Early music on the early side. Cobb the medievalist and a friend on neat old instruments</td><td>Salut</td></tr>
+<tr><th>Saturday late afternoon</th><td>Early music on the early side. Cobb the medievalist and a friend on neat old instruments. Maybe.</td><td>Salut</td></tr>
 
 <tr><th>Saturday night</th><td>Thee Main Event<br />
 <ul><li>Might be a fire, an' it ain't raining</li>
@@ -35,11 +35,14 @@ Really.
 <ul><li>Brunch &mdash;<em>multiple choice</em><br />
 assemble your party, quest for brunch!</li>
 <li><a href="http://www.portlandfarmersmarket.org/markets/king/">King farmers market</a></li>
+<li>Storytime and naptime. Bring your story, song or hangover. Puppetshow likely. Pre-housewarming.</li>
 </ul></td>
 <td><ul>
 <li>various environs</li>
 <li>Saluthaus</li>
-</ul></td></tr>
+<li>Failing Ranch</li>
+</td></ul>
+</tr>
 
 <tr><th>Sunday afternoon and evening</th><td><ul>
 <li>Games in the afternoon</li>
