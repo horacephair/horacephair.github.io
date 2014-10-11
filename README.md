@@ -15,8 +15,8 @@ Really.
 <ul><li>Join us at Craggy Island as people arrive.</td><td><ul><li>Craggy Island</td></tr>
 
 <tr><th>Saturday morning</th><td><ul><li>Brunch</td><td><ul><li>Beech House</td></tr>
-<tr><th>Saturday afternoon</th><td>The Horace Phair XIII Up-to-a-pentathon!<br />
-<ul><li>Test your mettle in up to 5 events of varying silliness!</li><li><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td><ul><li>Washington Park</li>
+<tr><th>Saturday afternoon</th><td><s>The Horace Phair XIII Up-to-a-pentathon!<br />
+<ul><li>Test your mettle in up to 5 events of varying silliness!</s></li><li><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td><ul><li>Washington Park</li>
 <li>Irving Park</li>
 <li>Saluthaus</li></tr>
 <tr><th>Saturday late afternoon</th><td>Early music on the early side. Cobb the medievalist and a friend on neat old instruments. Maybe.</td><td>Salut</td></tr>
