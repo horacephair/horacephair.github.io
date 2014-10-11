@@ -46,11 +46,13 @@ assemble your party, quest for brunch!</li>
 
 <tr><th>Sunday afternoon and evening</th><td><ul>
 <li>Games in the afternoon</li>
-<li>Laurel/Trimet will take you to apple tasting</li></ul>
+<li>Laurel/Trimet will take you to apple tasting</li>
+<li>Tour Daniel's studio? Play with clay?</li></ul>
 </td>
 <td><ul>
 <li>???</li>
 <li><a href="http://portlandnursery.com/locations/stark.shtml">Portland Nursery (SE Stark)</a></li>
+<li>Killingsworth and mumblemumble</li>
 </ul></td>
 </td></tr>
 
