@@ -81,28 +81,21 @@ Other events from our affiliates:
 <img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! (Or we haven't figured out how to edit this dealy yet.) If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
 
 ##Saluthaus 
-<em>seamus, laurel, daniel</em>
-* ariel
+<em>seamus, daniel</em>
 
 ##Dave & Jenny's new house
 <em>Dave and Jenny</em>
-* Sorry, no guest accommodations this year due to construction
 
 ##The Beech House
 <em>Ryan and Kelly</em>
-* Comfy couch in main house (Josh)
+* Comfy couch in main house
+* ADU
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Dan, Terra</em>
 * Basement (Campagnolas)
 * Spare bedroom (Campagnolas)
 * Yet more (Am)
-
-## Craggy Island
-<em>Christen, Doruk, Jhasen, Kalina</em>
-
-* Couch in the living room
-* Mattress in the slightly musty basement
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
