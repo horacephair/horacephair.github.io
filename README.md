@@ -5,7 +5,7 @@
 
 ##October 9-12, 2015
 
-You are at the right place. You were probably pretty sure. Have you been here before? 
+You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a> about it if you're still feeling unsure.
 
 <strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
