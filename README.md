@@ -94,8 +94,9 @@ Other events from our affiliates:
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Dan, Terra</em>
-* Basement (Am)
-* Spare bedroom (Rowan, Jen, Clara)
+* Basement (Campagnolas)
+* Spare bedroom (Campagnolas)
+* Yet more (Am)
 
 ## Craggy Island
 <em>Christen, Doruk, Jhasen, Kalina</em>
