@@ -1,79 +1,71 @@
 <a class="anchor" href="#look-at-me" name="look-at-me">
-#Relationships take work.
-
-#&nbsp;
+###Relationships take work. Work is worship. Welcome, you are already here.
 
 #Horace Phair XIV
 
-#October 9-12, 2015
+##October 9-12, 2015
 
-You are at the right place. Really. Really? I think really. (But the below is still from last year)
+You are at the right place. You were probably pretty sure. Have you been here before? 
 
-<strong><a href="http://goo.gl/maps/OFoWI">This is the link to the current horace p. hair maaaaap.</a></strong>
+<strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
 Really.
 
-# Times of Things
+# Times of Things that have Times
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
-<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />
-<ul><li>Join us at Craggy Island as people arrive.</td><td><ul><li>Craggy Island</td></tr>
+<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />and greeting cups</td><td>Baker Street? Tiaz's place?</td></tr>
 
-<tr><th>Saturday morning</th><td><ul><li>Brunch</td><td><ul><li>Beech House</td></tr>
-<tr><th>Saturday afternoon</th><td><s>The Horace Phair XIII Up-to-a-pentathon!<br />
-<ul><li>Test your mettle in up to 5 events of varying silliness!</s></li><li><a href="https://github.com/horacephair/potato/blob/master/pentathalon.md">More information here</a></td><td><ul><li>Washington Park</li>
-<li>Irving Park</li>
-<li>Saluthaus</li></tr>
-<tr><th>Saturday late afternoon</th><td>Early music on the early side. Cobb the medievalist and a friend on neat old instruments. Maybe.</td><td>Salut</td></tr>
+<tr><th>Saturday morning</th>
+    <td><ul><li>Applesauce and oats for breakfast</li>
+    <li>Other things for breakfast</li></ul></td>
+    <td><ul><li>Saluthaus</li>
+    <li>Other places. Do not be afraid to split into nice conversation-sized groups. You have all weekend. Unless you don't.</li></ul></td></tr>
+    
+<tr><th>Saturday 1:30-3</th>
+    <td>Soak. Spaces limited, but if you want in, ask Kim.<br><em>(grooooop nooooodity!)</em><br />Bring your towel.</td>
+    <td>Common Grounds</tr>
 
-<tr><th>Saturday night</th><td>Thee Main Event<br />
-<ul><li>Might be a fire, an' it ain't raining</li>
-<li>Rian O'Hara: the man with the uke</li>
-<li>Cover Creston: sings some borrowed songs </li>
-<li>um, maybe some other folks?</li>
-<li>Bring your pantsless yoga pants</li>
-<li>And food, simple food, not gonna win awards but will buffer your alcohol. Stay out of the kitchen unless you're cooking. Mom says.</li>
-</td><td><ul><li>Salut!
-</td></tr>
+<tr><th>Saturday later afternoon (after 3)</th>
+<td><em>Reading:</em> <br>Share your voice and some text you like with the people hanging around. If you're really good, the kids might come and listen.</td><td>Salut</td></tr>
 
-<tr><th>Sunday <strike>morning</strike>day</th><td>
-<ul><li>Brunch &mdash;<em>multiple choice</em><br />
-assemble your party, quest for brunch!</li>
-<li><a href="http://www.portlandfarmersmarket.org/markets/king/">King farmers market</a></li>
-<li>Storytime and naptime. Bring your story, song or hangover. Puppetshow likely. Pre-housewarming.</li>
-</ul></td>
-<td><ul>
-<li>various environs</li>
-<li>Saluthaus</li>
-<li>Failing Ranch</li>
-</td></ul>
+<tr><th>Saturday night</th>
+<td>Some party occurs:
+<ul><li>You, you talk to your friends.</li>
+    <li>ANNOUNCEMENTS. Like, if you need to stand on a chair and tell your people something, you do it.</li>
+    <li>Might be a fire, an' it ain't raining</li>
+    <li>Aidan Coughlan sings some songs</li>
+    <li>Creaking Planks do the beloved thing they do</li>
+    <li>We get out those songbooks and make noise together</li>
+    <li>Bring your pantsless yoga pants (ALWAYS. Actually more important than the towel, says recent research that the late Mr. Adams did not have access to.)</li>
+    <li>And food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li></ul></td>
+<td>Salut!</td></tr>
+
+<tr><th>Sunday</th>
+<td><em>Brunch:</em> featuring brunch-y foods catering to a variety of dietary restrictions and also probably bloody marys and mimosas, and probably a menu that is more about what Kim likes to make (ProTip: expect biscuits and gravy).</td>
+<td>Baker Street Agency</td>
 </tr>
 
-<tr><th>Sunday afternoon and evening</th><td><ul>
-<li>Games in the afternoon</li>
-<li>Laurel/Trimet will take you to apple tasting</li>
-<li>Tour Daniel's studio? Play with clay?</li></ul>
+<tr><th>Sunday after brunch</th><td><ul>
+<li><em>Playtime:</em> Laurel will be hanging with Aralia from 9-1 and would love the company of other short people and the short at heart.</li>
+<li><em>Playtime:</em> games on whatever game-friendly surfaces are available.</li>
+<li><em>Mathtime:</em> chat with Tom Mathpunk about maththings</ul>
 </td>
 <td><ul>
-<li>???</li>
-<li><a href="http://portlandnursery.com/locations/stark.shtml">Portland Nursery (SE Stark)</a></li>
-<li>Killingsworth and mumblemumble</li>
+<li>Irving park, or Saluthaus if it's raining. Contact Laurel if you're not sure.</li>
+<li>Saluthaus, or wherever you end up.</li>
+<li>Saluthaus media room</li>
 </ul></td>
 </td></tr>
 
-<tr><th>Sunday night</th><td><ul>
-<li>Bonfire and outdoor movies, weather permitting. (Indoor movies and no fire if'n it's raining.)</li>
-<li>This is our fortnightly life drawing night; get nekkid or don't. Community drawing materials available.</li></ul>
-</td><td><ul>
-<li>Dave and Jenny's house-without-a-name-yet</li>
-</ul></td></tr>
+<tr><th>Sunday night</th>
+<td>Sunday night bonfire: a subdued, end of HP/early Jenny's birthday thing. Expect relaxed conversations, leftover drinks and food from the weekend, and birthday cake and punch! Maybe s'mores too.</td><td>Woodhaus</td></tr>
 
-<tr><th>Monday morning</th><td><ul><li>Monday Brunch</li></td><td><ul><li>Craggy Island</li></td></tr>
 </table>
 
 Other events from our affiliates:
-* Portland Nursery's 27th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
+* Portland Nursery's 29th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
 
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
@@ -82,17 +74,23 @@ Other events from our affiliates:
 
 ##Saluthaus 
 <em>seamus, daniel</em>
+<ul><li>Jenn</li>
+<li>Jes</li>
+<li>Qous</li>
+<li>Ashley</li>
+<li>Laurel</li>
+</ul>
 
-##Dave & Jenny's new house
-<em>Dave and Jenny</em>
+##Woodhaus (Dave & Jenny's (and Reid's) house)
+<em>Dave, Jenny, Reid, cats</em>
 
 ##The Beech House
-<em>Ryan and Kelly</em>
+<em>Ryan and Kelly, cats, dog</em>
 * Comfy couch in main house
 * ADU
 
 ## Monster Palace
-<em>Megan, Martin, Chase, Dan, Terra</em>
+<em>Megan, Martin, Chase, Terra</em>
 * Basement (Campagnolas)
 * Spare bedroom (Campagnolas)
 * Yet more (Am)
