@@ -100,6 +100,11 @@ Other events from our affiliates:
 * Yet more (Am)
 (Is this 2015 or 2014?)
 
+## Baker Street Agency
+<em>Kim and Ed</em>
+* Bunk: Manuel
+* Bunk: Danne
+
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
 
