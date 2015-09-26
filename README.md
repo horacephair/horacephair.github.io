@@ -73,6 +73,7 @@ Other events from our affiliates:
 
 ##Guests that need hosts
 * Akatchoom
+* keystricken
 
 ##Saluthaus 
 <em>seamus, daniel</em>
@@ -91,7 +92,7 @@ Other events from our affiliates:
 ##The Beech House
 <em>Ryan and Kelly, cats, dog</em>
 * Comfy couch in main house
-* ADU
+* ADU (Josh)
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Terra</em>
