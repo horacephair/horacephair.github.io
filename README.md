@@ -71,6 +71,9 @@ Other events from our affiliates:
 #Accommodations are being made
 <img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! (Or we haven't figured out how to edit this dealy yet.) If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
 
+##Guests that need hosts
+* Akatchoom
+
 ##Saluthaus 
 <em>seamus, daniel</em>
 <ul><li>Jenn</li>
@@ -79,9 +82,11 @@ Other events from our affiliates:
 <li>Ashley</li>
 <li>Laurel</li>
 </ul>
+(I think that's pretty full apart from informal arrangements)
 
-##Woodhaus (Dave & Jenny's (and Reid's) house)
+##Woodhaus
 <em>Dave, Jenny, Reid, cats</em>
+(How much room do you guys have? Do you have room?)
 
 ##The Beech House
 <em>Ryan and Kelly, cats, dog</em>
@@ -93,6 +98,7 @@ Other events from our affiliates:
 * Basement (Campagnolas)
 * Spare bedroom (Campagnolas)
 * Yet more (Am)
+(Is this 2015 or 2014?)
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
