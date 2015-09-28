@@ -102,7 +102,7 @@ Other events from our affiliates:
 (Is this 2015 or 2014?)
 
 ## Baker Street Agency
-<em>Kim, Ed, cat</em>
+<em>Kim and Ed, cat</em>
 * Bunk: Manuel
 * Bunk: Danne
 
