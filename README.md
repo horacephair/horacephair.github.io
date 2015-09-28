@@ -14,7 +14,7 @@ Really.
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
-<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />and greeting cups</td><td>Baker Street Agency</td></tr>
+<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />and greeting cups<br />and food of some kind (probably pizza)</td><td>Baker Street Agency</td></tr>
 
 <tr><th>Saturday morning</th>
     <td><ul><li>Applesauce and oats for breakfast</li>
