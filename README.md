@@ -14,7 +14,7 @@ Really.
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
-<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />and greeting cups</td><td>Baker Street? Tiaz's place?</td></tr>
+<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />and greeting cups</td><td>Baker Street Agency</td></tr>
 
 <tr><th>Saturday morning</th>
     <td><ul><li>Applesauce and oats for breakfast</li>
@@ -102,12 +102,12 @@ Other events from our affiliates:
 (Is this 2015 or 2014?)
 
 ## Baker Street Agency
-<em>Kim and Ed</em>
+<em>Kim, Ed, cat</em>
 * Bunk: Manuel
 * Bunk: Danne
 
 ##Other Locations?
-* House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins)
+* House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins, dog)
 
 #What to Bring 
 * Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
