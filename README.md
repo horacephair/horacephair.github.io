@@ -73,7 +73,6 @@ Other events from our affiliates:
 
 ##Guests that need hosts
 * Akatchoom
-* keystricken
 
 ##Saluthaus 
 <em>seamus, daniel</em>
@@ -105,6 +104,10 @@ Other events from our affiliates:
 <em>Kim and Ed, cat</em>
 * Bunk: Manuel
 * Bunk: Danne
+
+## The Crow's Nest
+<em>Liene, Nathan, and Mika</em>
+* Boat room: keystricken
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins, dog)
