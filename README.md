@@ -22,11 +22,6 @@ Really.
     <td><ul><li>Saluthaus</li>
     <li>Other places. Do not be afraid to split into nice conversation-sized groups. You have all weekend. Unless you don't.</li></ul></td></tr>
     
-<tr>
-  <th>Saturday midday</th>
-  <td>Games! Whether you like them pointless or pointful, we can spend the day constructing elaborate problems together.</td>
-  <td>Monster Palace</td>
-</tr>
 <tr><th>Saturday 1:30-3</th>
     <td>Soak. Spaces limited, but if you want in, ask Kim.<br><em>(grooooop nooooodity!)</em><br />Bring your towel.</td>
     <td>Common Grounds</tr>
