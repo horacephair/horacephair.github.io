@@ -14,6 +14,8 @@ Really.
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
+<tr><th>Thursday 7ish</th><td><em>Figure drawing night</em><br />Bring your pencils and sketchbook or use the house supplies. Come ready to model. We wanna look at you!<br /><small>It ain't no sin/ to take off your skin/ and dance around in your bones</small></td><td>Saluthaus</td></tr>
+
 <tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />and greeting cups<br />and food of some kind (probably pizza)</td><td>Baker Street Agency</td></tr>
 
 <tr><th>Saturday morning</th>
@@ -107,6 +109,15 @@ Other events from our affiliates:
 ## The Crow's Nest
 <em>Liene, Nathan, and Mika</em>
 * Boat room: keystricken
+
+## Failing Ranch
+<em>JennDolan, Mike K, ConRad</em>
+* Jenn's room: akatchoom?
+* Sofa?
+
+## Fargo Annex
+<em>Laurel</em> (will be staying at saluthaus, this is the fortress of solitude)
+* Tiny foam pad: one shy person without very strict comfort requirements?
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins, dog)
