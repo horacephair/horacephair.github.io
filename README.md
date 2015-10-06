@@ -61,7 +61,7 @@ Really.
 </td></tr>
 
 <tr><th>Sunday night</th>
-<td>Sunday night bonfire: a subdued, end of HP/early Jenny's birthday thing. Expect relaxed conversations, leftover drinks and food from the weekend, and birthday cake and punch! Maybe s'mores too.</td><td>Woodhaus</td></tr>
+<td>Sunday night bonfire: a subdued, end of HP/early Jenny's birthday thing. Expect relaxed conversations, leftover drinks and food from the weekend, and birthday cake and punch! Maybe s'mores too. <em>Starts at dusk (about 7:00PM) and lasts until 11:00PM sharp (Fire goes out! People go home!)</em></td><td>Woodhaus</td></tr>
 
 </table>
 
