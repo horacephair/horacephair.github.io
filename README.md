@@ -51,7 +51,7 @@ Really.
 <tr><th>Sunday after brunch</th><td><ul>
 <li><em>Playtime:</em> Laurel will be hanging with Aralia from 9-1 and would love the company of other short people and the short at heart.</li>
 <li><em>Playtime:</em> games on whatever game-friendly surfaces are available.</li>
-<li><em>Mathtime:</em> chat with Tom Mathpunk about maththings</ul>
+<li><em>Showtime:</em> The Tom Show with Tom Henderson. Attendance is mandatory (for Tom Henderson only; everyone else is free to come and go)</ul>
 </td>
 <td><ul>
 <li>Irving park, or Saluthaus if it's raining. Contact Laurel if you're not sure.</li>
