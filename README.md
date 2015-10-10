@@ -34,15 +34,15 @@ Really.
 <tr><th>Saturday night</th>
 <td>Some party occurs:
 <ul><li>You, you talk to your friends.</li>
+    <li>Food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li>
     <li>ANNOUNCEMENTS. Like, if you need to stand on a chair and tell your people something, you do it.</li>
     <li>Might be a fire, an' it ain't raining</li>
     <li>Haley Keegan sings some sad songs with guitar</li>
     <li>maybe Danne will show you amazing synaesthesia guitar, accompanying Tom Henderson making something lucid that might otherwise seem opaque or at least cloudy</li>
     <li>conRad will play some songs, he doesn't care if you like them, no really, maybe</li>
-    <li><strike>The creaking plank(s) and/</strike>or friends <strike>will</ strike> may do a thing</li>
+    <li><strike>The creaking plank(s) and/</strike>or friends <strike>will</strike> may do a thing</li>
     <li>We get out those songbooks and make noise together</li>
-    <li>Bring your pantsless yoga pants (ALWAYS. Actually more important than the towel, says recent research that the late Mr. Adams did not have access to.)</li>
-    <li>And food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li></ul></td>
+    <li>Bring your pantsless yoga pants (ALWAYS. Actually more important than the towel, says recent research that the late Mr. Adams did not have access to.)</li></ul></td>
 <td>Salut!</td></tr>
 
 <tr><th>Sunday</th>
