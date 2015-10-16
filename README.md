@@ -1,10 +1,10 @@
 ###<a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
 #Horace Phair XIV
-
+Occurred on
 ##October 9-12, 2015
 
-You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a> about it if you're still feeling unsure.
+You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
 <strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
@@ -72,11 +72,14 @@ Other events from our affiliates:
 
 <div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
+#Slacklining <a name="slack"></a>
+This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji. 
+
 #Accommodations are being made
 <img src="http://img84.imageshack.us/img84/2983/rowanandpaulanimationaf0.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! (Or we haven't figured out how to edit this dealy yet.) If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
 
 ##Guests that need hosts
-* Akatchoom
+* 
 
 ##Saluthaus 
 <em>seamus, daniel</em>
@@ -114,12 +117,12 @@ Other events from our affiliates:
 
 ## Failing Ranch
 <em>JennDolan, Mike K, ConRad</em>
-* Jenn's room: akatchoom?
+* Jenn's room: akatchoom
 * Sofa?
 
 ## Fargo Annex
 <em>Laurel</em> (will be staying at saluthaus, this is the fortress of solitude)
-* Tiny foam pad: one shy person without very strict comfort requirements?
+* Tiny foam pad: good for one shy person without very strict comfort requirements?
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins, dog)
@@ -232,3 +235,12 @@ Other events from our affiliates:
 * Your things
 * Our things
 * The usual things
+
+## XIII
+<em>October 2015<em>
+* Sad planklessness due to the draconian Canadian border
+* Rainbow Canada and MCEscher colonize Saluthaus
+* Common Grounds and the suspicion that the whole party ought to be clothing optional
+* there were crickets?
+* Rian O'Hara is moving to England
+* More emoji than any other Horace Phair
