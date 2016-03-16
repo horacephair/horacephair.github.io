@@ -4,9 +4,9 @@
 ##October 7-10, 2016
 will include a co-ed twerking class arranged by Kevin. I hope. 
 
-<strong>Horace Phair XIV<br />
+<strong>Horace Phair XIV</strong><br />
 Occurred on<br />
-<strong>October 9-12, 2015<br />
+<strong>October 9-12, 2015</strong><br />
 
 You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
