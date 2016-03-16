@@ -1,5 +1,9 @@
 ###<a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
+#Horace Phair XV
+##October 7-10, 2016
+will include a co-ed twerking class arranged by Kevin. I hope. 
+
 #Horace Phair XIV
 Occurred on
 ##October 9-12, 2015
