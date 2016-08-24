@@ -43,17 +43,16 @@ Really.
 <ul><li>Bloody Marys and mimosas, probably</li>
     <li>Biscuits and gravy, probably</li>
     <li>Other brunchy brunch food</li>
-    <li>(tell Kim if you have restrictions or requests)</li></ul></td>
+    <li>tell Kim if you have restrictions or requests!</li></ul></td>
 <td>Baker Street Agency</td>
 </tr>
 
 <tr><th>Sunday kind of during and after brunch</th><ul>
 <li><td><em>Showering occurs:</em>
 <ul><li>Chris and Ashley are having a little!</li>
-    <li>Ariel and Brian are having a little!</li>
     <li>Wish them well!</li>
-     <li>Give some hugs!</li>
-     <li>Bring 'em something, if you want to!</li></ul>
+    <li>Give some hugs!</li>
+    <li>Bring 'em something, if you want to!</li></ul>
 </td>
 <td>Baker Street Agency</td>
 </td></tr>
@@ -65,8 +64,6 @@ Really.
 
 Other events from our affiliates:
 * Portland Nursery's 29th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
-
-<div class="backgroundtext"><span class="backgroundtext">GTKY</span></div>
 
 #Slacklining <a name="slack"></a>
 This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji. 
