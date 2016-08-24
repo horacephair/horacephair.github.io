@@ -11,10 +11,9 @@ You are at the right place. You were probably pretty sure. Have you been here be
 Really.
 
 # Times of Things that have Times
- <em><small>this is all very early and you should check back later for more details</em></small>
-
+<br><em>this is all very early and you should check back later for more details</em></br>
+ 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
-
 
 <tr><th>Friday evening, and night</th>
 <td><em>Arrivals:</em>
@@ -212,13 +211,13 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Solemn memorials
 
 ## XIII
-<em>October 10-13, 2014<em>
+<em>October 10-13, 2014</em>
 * Your things
 * Our things
 * The usual things
 
 ## XIV
-<em>October 9-12, 2015<em>
+<em>October 9-12, 2015</em>
 * Sad planklessness due to the draconian Canadian border
 * Rainbow Canada and MCEscher colonize Saluthaus
 * Common Grounds and the suspicion that the whole party ought to be clothing optional
