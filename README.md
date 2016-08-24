@@ -84,7 +84,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ##The Beech House
 <em>Ryan, Kelly, Eamon, cats, dog</em>
-* Comfy couch in main house
+* TBD
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Terra</em>
