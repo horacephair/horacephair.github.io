@@ -1,8 +1,8 @@
 ###<a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
-#Horace Phair XIV
-Occurred on
-##October 9-12, 2015
+#Horace Phair XV
+Will occur on
+##October 7-11, 2016
 
 You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
@@ -11,60 +11,57 @@ You are at the right place. You were probably pretty sure. Have you been here be
 Really.
 
 # Times of Things that have Times
+ <em><small>this is all very early and you should check back later for more details</em></small>
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
-<tr><th>Thursday 7ish</th><td><em>Figure drawing night</em><br />Bring your pencils and sketchbook or use the house supplies. Come ready to model. We wanna look at you!<br /><small>It ain't no sin/ to take off your skin/ and dance around in your bones</small></td><td>Saluthaus</td></tr>
 
-<tr><th>Friday afternoon, evening, and night</th><td><em>Arrivals</em><br />and greeting cups<br />and food of some kind (probably pizza)</td><td>Baker Street Agency</td></tr>
+<tr><th>Friday evening, and night</th>
+<td><em>Arrivals:</em>
+<ul><li>and greeting cups</li>
+    <li>food of some kind (probably pizza)</li>
+    <li>and Jenny's birthday!</li></ul></td>
+    <td>TBD<br>(probably Woodhaus or Baker Street Agency)</td></tr>
 
 <tr><th>Saturday morning</th>
-    <td><ul><li>Applesauce and oats for breakfast</li>
+    <td><em>Check back later, but:</em><ul><li>Breakfast</li>
     <li>Other things for breakfast</li></ul></td>
-    <td><ul><li>Saluthaus</li>
-    <li>Other places. Do not be afraid to split into nice conversation-sized groups. You have all weekend. Unless you don't.</li></ul></td></tr>
+    <td>Various places<br>
+    </td></tr>
     
-<tr><th>Saturday 1:30-3</th>
-    <td>Soak. Spaces limited, but if you want in, ask Kim.<br><em>(grooooop nooooodity!)</em><br />Bring your towel.</td>
-    <td>Common Grounds</tr>
-
-<tr><th>Saturday later afternoon (after 3)</th>
-<td><em>Reading:</em> <br>Share your voice and some text you like with the people hanging around. If you're really good, the kids might come and listen.</td><td>Salut</td></tr>
 
 <tr><th>Saturday night</th>
-<td>Some party occurs:
+<td><em>Some party occurs:</em>
 <ul><li>You, you talk to your friends.</li>
     <li>Food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li>
     <li>ANNOUNCEMENTS. Like, if you need to stand on a chair and tell your people something, you do it.</li>
     <li>Might be a fire, an' it ain't raining</li>
-    <li>Haley Keegan sings some sad songs with guitar</li>
-    <li>maybe Danne will show you amazing synaesthesia guitar, accompanying Tom Henderson making something lucid that might otherwise seem opaque or at least cloudy</li>
-    <li>conRad will play some songs, he doesn't care if you like them, no really, maybe</li>
-    <li><strike>The creaking plank(s) and/</strike>or friends <strike>will</strike> may do a thing</li>
-    <li>We get out those songbooks and make noise together</li>
     <li>Bring your pantsless yoga pants (ALWAYS. Actually more important than the towel, says recent research that the late Mr. Adams did not have access to.)</li></ul></td>
 <td>Salut!</td></tr>
 
 <tr><th>Sunday</th>
-<td><em>Brunch:</em> featuring brunch-y foods catering to a variety of dietary restrictions and also probably bloody marys and mimosas, and probably a menu that is more about what Kim likes to make (ProTip: expect biscuits and gravy).</td>
+<td><em>Brunch:</em>
+<ul><li>Bloody Marys and mimosas, probably</li>
+    <li>Biscuits and gravy, probably</li>
+    <li>Other brunchy brunch food</li>
+    <li>(tell Kim if you have restrictions or requests)</li></ul></td>
 <td>Baker Street Agency</td>
 </tr>
 
-<tr><th>Sunday after brunch</th><td><ul>
-<li><em>Playtime:</em> Laurel will be hanging with Aralia from 9-1 and would love the company of other short people and the short at heart.</li>
-<li><em>Playtime:</em> games on whatever game-friendly surfaces are available.</li>
-<li><em>Showtime:</em> The Tom Show with Thomas Henderson. Attendance is mandatory (for Tom Henderson only; everyone else is free to come and go)</ul>
+<tr><th>Sunday kind of during and after brunch</th><ul>
+<li><td><em>Showering occurs:</em>
+<ul><li>Chris and Ashley are having a little!</li>
+    <li>Ariel and Brian are having a little!</li>
+    <li>Wish them well!</li>
+     <li>Give some hugs!</li>
+     <li>Bring 'em something, if you want to!</li></ul>
 </td>
-<td><ul>
-<li>Irving park, or Saluthaus if it's raining. Contact Laurel if you're not sure.</li>
-<li>Saluthaus, or wherever you end up.</li>
-<li>Saluthaus media room</li>
-</ul></td>
+<td>Baker Street Agency</td>
 </td></tr>
 
 <tr><th>Sunday night</th>
-<td>Sunday night bonfire: a subdued, end of HP/early Jenny's birthday thing. Expect relaxed conversations, leftover drinks and food from the weekend, and birthday cake and punch! Maybe s'mores too. <em>Starts at dusk (about 7:00PM) and lasts until 11:00PM sharp (Fire goes out! People go home!)</em></td><td>Woodhaus</td></tr>
-
+<td><em><small>Check back later!</em></small></td>
+<td>TBD</td></tr>
 </table>
 
 Other events from our affiliates:
@@ -82,47 +79,31 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * 
 
 ##Saluthaus 
-<em>seamus, daniel</em>
-<ul><li>Jenn</li>
-<li>Jes</li>
-<li>Qous</li>
-<li>Ashley</li>
-<li>Laurel</li>
-</ul>
-(I think that's pretty full apart from informal arrangements)
+<em>laurel, daniel</em>
+* Media room
 
 ##Woodhaus
 <em>Dave, Jenny, Reid, cats</em>
 (How much room do you guys have? Do you have room?)
 
 ##The Beech House
-<em>Ryan and Kelly, cats, dog</em>
+<em>Ryan, Kelly, Eamon cats, dog</em>
 * Comfy couch in main house
-* ADU (Josh)
 
 ## Monster Palace
 <em>Megan, Martin, Chase, Terra</em>
-* Basement (Campagnolas)
-* Spare bedroom (Campagnolas)
-* Yet more (Am)
+* Basement
+* Spare bedroom
+* Yet more
 
 ## Baker Street Agency
 <em>Kim and Ed, cat</em>
 * Bunk: Manuel
-* Bunk: Danne
+* Bunk:
 
 ## The Crow's Nest
 <em>Liene, Nathan, and Mika</em>
-* Boat room: keystricken
-
-## Failing Ranch
-<em>JennDolan, Mike K, ConRad</em>
-* Jenn's room: akatchoom
-* Sofa?
-
-## Fargo Annex
-<em>Laurel</em> (will be staying at saluthaus, this is the fortress of solitude)
-* Tiny foam pad: good for one shy person without very strict comfort requirements?
+* Boat room:
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins, dog)
@@ -236,11 +217,12 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Our things
 * The usual things
 
-## XIII
-<em>October 2015<em>
+## XIV
+<em>October 9-12, 2015<em>
 * Sad planklessness due to the draconian Canadian border
 * Rainbow Canada and MCEscher colonize Saluthaus
 * Common Grounds and the suspicion that the whole party ought to be clothing optional
 * there were crickets?
 * Rian O'Hara is moving to England
 * More emoji than any other Horace Phair
+
