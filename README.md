@@ -75,7 +75,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * 
 
 ##Saluthaus 
-<em>laurel, daniel</em>
+<em>Laurel, Daniel</em>
 * Media room
 
 ##Woodhaus
@@ -83,7 +83,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 (How much room do you guys have? Do you have room?)
 
 ##The Beech House
-<em>Ryan, Kelly, Eamon cats, dog</em>
+<em>Ryan, Kelly, Eamon, cats, dog</em>
 * Comfy couch in main house
 
 ## Monster Palace
