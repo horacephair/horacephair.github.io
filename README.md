@@ -97,7 +97,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Bunk: Manuel
 * Bunk:
 
-## The Crow's Nest
+## Lighthouse
 <em>Liene, Nathan, and Mika</em>
 * Boat room:
 
