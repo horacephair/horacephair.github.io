@@ -79,7 +79,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Media room
 
 ##Woodhaus
-<em>Dave, Jenny, Reid, cats</em>
+<em>Dave, Jenny, cats</em>
 (How much room do you guys have? Do you have room?)
 
 ##The Beech House
