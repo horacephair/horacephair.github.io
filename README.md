@@ -28,6 +28,12 @@ Really.
     <td>Various places<br>
     </td></tr>
     
+ <tr><th>Saturday afternoon</th>
+    <td><em>Soak and Sauna!</em><ul><li>Nudity and soaking!</li>
+    <li>Bring a towel!</li>
+    <li>Space is limited, so contact Kim if you want in!</li></ul></td>
+    <td><a href="http://cgwc.org/">Common Grounds</a><br>
+    </td></tr>
 
 <tr><th>Saturday night</th>
 <td><em>Some party occurs:</em>
