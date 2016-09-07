@@ -12,7 +12,7 @@ Really.
 
 # Times of Things that have Times
 <br><em>this is all very early and you should check back later for more details</em></br>
- 
+
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday evening, and night</th>
@@ -27,7 +27,7 @@ Really.
     <li>Other things for breakfast</li></ul></td>
     <td>Various places<br>
     </td></tr>
-    
+
  <tr><th>Saturday afternoon</th>
     <td><em>Soak and Sauna!</em><ul><li>Nudity and soaking!</li>
     <li>Bring a towel!</li>
@@ -175,12 +175,12 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * we failed to have a reading
 * but we did add American bands: the bad mintons and ginggang goolie goolie.
 * and the fabled 5AM Neutral Milk Hotel "reading"
-  * which was awesome 
+  * which was awesome
 
 ## VI
 <em>October 5-8, 2007</em>
 * the wedding of Horace (deceased) and Liz (unaware)
-* ovenmitts!  golden greats! 
+* ovenmitts!  golden greats!
 * pants-free yoga.
 
 ## VII
@@ -195,7 +195,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Pants-free victory!
 * Less vomit!
 * Rian O'Hara!
-* Several regulars stuck with newborns in the Yukon of Montana Manhattan 
+* Several regulars stuck with newborns in the Yukon of Montana Manhattan
 
 ## IX
 <em>October 8-11, 2010</em>
