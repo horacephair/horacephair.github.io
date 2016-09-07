@@ -65,8 +65,12 @@ Really.
 </td></tr>
 
 <tr><th>Sunday night</th>
-<td><em><small>Check back later!</em></small></td>
-<td>TBD</td></tr>
+<td><em>Winding up, winding down:</em>
+<ul><li>Musical Creaking and Planking!
+    <li>Quite possibly more things!
+</ul></td>
+<td>Hopefully in the Saluthaus Basement!
+</td></tr>
 </table>
 
 Other events from our affiliates:
