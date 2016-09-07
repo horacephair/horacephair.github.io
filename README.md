@@ -56,6 +56,7 @@ Really.
 <tr><th>Sunday kind of during and after brunch</th><ul>
 <li><td><em>Showering occurs:</em>
 <ul><li>Chris and Ashley are having a little!</li>
+    <li>Ariel and Brian are also having a little!</li>
     <li>Wish them well!</li>
     <li>Give some hugs!</li>
     <li>Bring 'em something, if you want to!</li></ul>
