@@ -71,6 +71,16 @@ Really.
 </ul></td>
 <td>Hopefully in the Saluthaus Basement!
 </td></tr>
+
+<tr><th>Monday Morning</th>
+<td><em>Choose your own adventure:</em>
+<ul><li>We're going to form small groups
+    <li>and pay someone to make us brunch
+    <li>before we leave town.
+</ul></td>
+<td>in and around Portland
+</td></tr>
+
 </table>
 
 Other events from our affiliates:
