@@ -74,9 +74,7 @@ Really.
 
 <tr><th>Monday Morning</th>
 <td><em>Choose your own adventure:</em>
-<ul><li>We're going to form small groups
-    <li>and pay someone to make us brunch
-    <li>before we leave town.
+<ul><li>We're going to form small groups and pay someone to make us brunch before we leave town.
 </ul></td>
 <td>in and around Portland
 </td></tr>
