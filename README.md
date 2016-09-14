@@ -112,9 +112,9 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Yet more
 
 ## Baker Street Agency
-<em>Kim and Ed, cat</em>
+<em>Kim and Ed (who will be mostly gone, which sucks), Aliester (who is a cat)</em>
 * Bunk: Manuel
-* Bunk:
+* Bunk: Danne
 
 ## Lighthouse
 <em>Liene, Nathan, and Mika</em>
