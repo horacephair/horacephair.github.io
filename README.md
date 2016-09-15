@@ -64,6 +64,11 @@ Really.
 <td>Baker Street Agency</td>
 </td></tr>
 
+<tr><th>Sunday afternoon (time TBD)</th>
+<td><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!  He will be dressed FANCY and so should you!</td>
+<td>Probably Saluthaus</td>
+</tr>
+
 <tr><th>Sunday night</th>
 <td><em>Winding up, winding down:</em>
 <ul><li>Musical Creaking and Planking!
