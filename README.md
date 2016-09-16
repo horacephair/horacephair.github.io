@@ -65,7 +65,7 @@ Really.
 </td></tr>
 
 <tr><th>Sunday afternoon (time TBD)</th>
-<td><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!  He will be dressed FANCY and so should you!</td>
+<td><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!  He will be wearing a top hat and bow tie! You should too! Or something similarly fancy! If you feel like it, we're not the boss of you!</td>
 <td>Probably Saluthaus</td>
 </tr>
 
