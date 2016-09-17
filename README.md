@@ -18,9 +18,9 @@ Really.
 <tr><th>Friday evening, and night</th>
 <td><em>Arrivals:</em>
 <ul><li>and greeting cups</li>
-    <li>food of some kind (probably pizza)</li>
-    <li>and Jenny's birthday!</li></ul></td>
-    <td>TBD<br>(probably Woodhaus or Baker Street Agency)</td></tr>
+    <li>Jack makes enough noodles to feed an army</li>
+    <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li></ul></td>
+    <td>House Castle!<br>(carpooling is smart)</td></tr>
 
 <tr><th>Saturday morning</th>
     <td><em>Check back later, but:</em><ul><li>Breakfast</li>
@@ -84,9 +84,11 @@ Really.
 
 <tr><th>Monday Morning</th>
 <td><em>Choose your own adventure:</em>
-<ul><li>We're going to form small groups and pay someone to make us brunch before we leave town.
+<ul><li>We're going to get up early and form small groups and pay someone to make us brunch before we go to:</li>
+<li><a href = "https://www.facebook.com/events/271407376586197/">All Genders Twerking</a></li>
 </ul></td>
-<td>in and around Portland
+<td>Om Movement Studio<br/>
+14 NE 10th Ave, Portland, Oregon 97232
 </td></tr>
 
 </table>
