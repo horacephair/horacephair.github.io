@@ -18,7 +18,7 @@ Really.
 <tr><th>Friday evening, and night</th>
 <td><em>Arrivals:</em>
 <ul><li>and greeting cups</li>
-    <li>Jack makes enough noodles to feed an army</li>
+    <li>and Jack makes enough noodles to feed an army big enough to invade Forest Park</li>
     <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li></ul></td>
     <td>House Castle!<br>(carpooling is smart)</td></tr>
 
