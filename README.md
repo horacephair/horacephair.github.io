@@ -64,14 +64,14 @@ Really.
 <td>Baker Street Agency</td>
 </td></tr>
 
-<tr><th>Sunday afternoon (time TBD)</th>
+<tr><th>Sunday 3-4pm</th>
 <td><ul>
 <li><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!</li>
 <li>He will be wearing a top hat and bow tie!</li>
 <li>You should too!</li>
 <li>Or something similarly fancy!</li>
 <li>If you feel like it, we're not the boss of you!</li></td>
-<td>Probably Saluthaus</td>
+<td>Saluthaus</td>
 </tr>
 
 <tr><th>Sunday night</th>
