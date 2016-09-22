@@ -130,7 +130,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## Lighthouse
 <em>Liene, Nathan, and Mika</em>
-* Boat room:
+* Boat room: Josh
 
 ##Other Locations?
 * House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins, dog)
