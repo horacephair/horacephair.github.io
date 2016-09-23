@@ -41,6 +41,7 @@ Really.
     <li>Food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li>
     <li>ANNOUNCEMENTS. Like, if you need to stand on a chair and tell your people something, you do it.</li>
     <li>Might be a fire, an' it ain't raining</li>
+    <li>READINGS. Some Borges. Some Albee. There don't seem to be a theme yet, so improvise yourself one.</li>
     <li>Bring your pantsless yoga pants (ALWAYS. Actually more important than the towel, says recent research that the late Mr. Adams did not have access to.)</li></ul></td>
 <td>Salut!</td></tr>
 
