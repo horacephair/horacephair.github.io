@@ -20,7 +20,7 @@ Really.
 <ul><li>and greeting cups</li>
     <li>and Jack makes enough noodles to feed an army big enough to invade Forest Park</li>
     <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li></ul></td>
-    <td>House Castle!<br>(carpooling is smart)</td></tr>
+    <td>House Castle!<br>8776 NW Bridge Ave<br>(carpooling is smart)</td></tr>
 
 <tr><th>Saturday morning</th>
     <td><em>Check back later, but:</em><ul><li>Breakfast</li>
