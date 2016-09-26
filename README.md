@@ -23,11 +23,15 @@ Really.
     <td>House Castle!<br>8776 NW Bridge Ave<br>(carpooling is smart)</td></tr>
 
 <tr><th>Saturday morning</th>
-    <td>Hunt us up some mushrooms (contact Martin, Beth, or Ryan to join, or just find a forest and hunt!)</td>
-    <td><em>Check back later, but:</em><ul><li>Breakfast</li>
-    <li>Other things for breakfast</li></ul></td>
-    <td>Various places<br>
-    </td></tr>
+    <td>
+        <ul>
+            <li>Hunt us up some mushrooms (contact Martin, Beth, or Ryan to join, or just find a forest and hunt!)</li>
+            <li><em>Check back later, but:</em>Breakfast</li>
+            <li>Other things for breakfast</li>
+        </ul>
+    </td>
+    <td>Pacific rainforest. <br> Various places<br></td>
+</tr>
 
  <tr><th>Saturday afternoon</th>
     <td><em>Soak and Sauna!</em><ul><li>Nudity and soaking!</li>
