@@ -23,6 +23,7 @@ Really.
     <td>House Castle!<br>8776 NW Bridge Ave<br>(carpooling is smart)</td></tr>
 
 <tr><th>Saturday morning</th>
+    <td>Hunt us up some mushrooms (contact Martin, Beth, or Ryan to join, or just find a forest and hunt!)</td>
     <td><em>Check back later, but:</em><ul><li>Breakfast</li>
     <li>Other things for breakfast</li></ul></td>
     <td>Various places<br>
