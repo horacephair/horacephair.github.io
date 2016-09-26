@@ -31,7 +31,10 @@ Really.
             <li>Hunt us up some mushrooms (contact Martin, Beth, or Ryan to join, or just find a forest and hunt!)</li>
         </ul>
     </td>
-    <td>Pacific rainforest. <br> Various places<br></td>
+    <td>
+        Various places<br />
+        Pacific rainforest. <br /> 
+    </td>
 </tr>
 
  <tr><th>Saturday afternoon</th>
