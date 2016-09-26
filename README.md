@@ -24,19 +24,25 @@ Really.
 
 <tr><th>Saturday morning</th>
     <td>
+        <em>Check back later, but:</em>
         <ul>
-            <li>Hunt us up some mushrooms (contact Martin, Beth, or Ryan to join, or just find a forest and hunt!)</li>
-            <li><em>Check back later, but:</em>Breakfast</li>
+            <li>Breakfast</li>
             <li>Other things for breakfast</li>
+            <li>Hunt us up some mushrooms (contact Martin, Beth, or Ryan to join, or just find a forest and hunt!)</li>
         </ul>
     </td>
     <td>Pacific rainforest. <br> Various places<br></td>
 </tr>
 
  <tr><th>Saturday afternoon</th>
-    <td><em>Soak and Sauna!</em><ul><li>Nudity and soaking!</li>
-    <li>Bring a towel!</li>
-    <li>Space is limited, so contact Kim if you want in!</li></ul></td>
+    <td>
+        <em>Soak and Sauna!</em>
+        <ul>
+            <li>Nudity and soaking!</li>
+            <li>Bring a towel!</li>
+            <li>Space is limited, so contact Kim if you want in!</li>
+        </ul>
+    </td>
     <td><a href="http://cgwc.org/">Common Grounds</a><br>
     </td></tr>
 
