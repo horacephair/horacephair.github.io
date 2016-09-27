@@ -87,6 +87,7 @@ Really.
 <tr><th>Sunday 3-4pm</th>
 <td><ul>
 <li><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!</li>
+<li><a href="https://www.youtube.com/watch?v=FbwkkXGmFrI">CUIDADO!</a></li>
 <li>He will be wearing a top hat and bow tie!</li>
 <li>You should too!</li>
 <li>Or something similarly fancy!</li>
