@@ -72,6 +72,8 @@ Really.
 <td><em>Showering occurs:</em>
 <ul><li>Chris and Ashley are having a little!</li>
     <li>Ariel and Brian are also having a little!</li>
+    <li>In this context, "little" means something like "baby"!</li>
+    <li>as in, a "newborn baby", except they haven't been born yet!</li>
     <li>Wish them well!</li>
     <li>Give some hugs!</li>
     <li>Bring 'em something, if you want to! (<a href="https://ashley-christopher.herokuapp.com/">Ashley&amp;Chris</a>)</li></ul>
