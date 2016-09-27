@@ -74,6 +74,8 @@ Really.
     <li>Ariel and Brian are also having a little!</li>
     <li>In this context, "little" means something like "baby"!</li>
     <li>as in, a "newborn baby", except they haven't been born yet!</li>
+    <li>it's just something we're <i>expecting to happen...</i></li>
+    <li>so you could say that they're "having expectations"!</li>
     <li>Wish them well!</li>
     <li>Give some hugs!</li>
     <li>Bring 'em something, if you want to! (<a href="https://ashley-christopher.herokuapp.com/">Ashley&amp;Chris</a>)</li></ul>
