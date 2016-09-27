@@ -78,7 +78,8 @@ Really.
     <li>so you could say that they're "having expectations"!</li>
     <li>Wish them well!</li>
     <li>Give some hugs!</li>
-    <li>Bring 'em something, if you want to! (<a href="https://ashley-christopher.herokuapp.com/">Ashley&amp;Chris</a>)</li></ul>
+    <li>Bring 'em something, if you want to!
+    <li><a href="https://ashley-christopher.herokuapp.com/">Ashley and Chris have made a wishlist!</a></li></ul>
 </td>
 <td>Baker Street Agency</td>
 </td></tr>
