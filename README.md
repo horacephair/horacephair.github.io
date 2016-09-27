@@ -118,7 +118,7 @@ Other events from our affiliates:
 * Portland Nursery's 29th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
 
 #Slacklining <a name="slack"></a>
-This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji. 
+This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. http://horacephair.slack.com
 
 #Accommodations are being made
 <img src="http://4.bp.blogspot.com/-Abu8Gw5fkdA/Vl91hqaR86I/AAAAAAAAKss/HVHb9_Pmk40/s1600/rowan-and-paul-animation.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! (Or we haven't figured out how to edit this dealy yet.) If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
