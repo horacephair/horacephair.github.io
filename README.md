@@ -79,6 +79,7 @@ Really.
     <li>Wish them well!</li>
     <li>Give some hugs!</li>
     <li>Bring 'em something, if you want to!
+    <li><a href="https://www.amazon.com/registry/baby/3AWLI5LRHU97C">Ariel and Brian have made a wish list!</a></li></ul>
     <li><a href="https://ashley-christopher.herokuapp.com/">Ashley and Chris have made a wishlist!</a></li></ul>
 </td>
 <td>Baker Street Agency</td>
@@ -276,4 +277,3 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * there were crickets?
 * Rian O'Hara is moving to England
 * More emoji than any other Horace Phair
-
