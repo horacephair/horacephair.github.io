@@ -143,9 +143,8 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * TBD
 
 ## Monster Palace
-<em>Megan, Martin, Chase, Terra</em>
+<em>Megan, Martin, Chase, Terra, Am</em>
 * Basement
-* Spare bedroom
 * Yet more
 
 ## Baker Street Agency
