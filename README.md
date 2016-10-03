@@ -11,7 +11,7 @@ You are at the right place. You were probably pretty sure. Have you been here be
 Really.
 
 # Times of Things that have Times
-<br><em>this is all very early and you should check back later for more details</em></br>
+<br><em>check back later for more details</em></br>
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
