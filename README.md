@@ -37,7 +37,7 @@ Really.
     </td>
 </tr>
 
- <tr><th>Saturday afternoon</th>
+ <tr><th>Saturday afternoon 1:30-3</th>
     <td>
         <em>Soak and Sauna!</em>
         <ul>
@@ -59,8 +59,8 @@ Really.
     <li>Bring your pantsless yoga pants (ALWAYS. Actually more important than the towel, says recent research that the late Mr. Adams did not have access to.)</li></ul></td>
 <td>Salut!</td></tr>
 
-<tr><th>Sunday</th>
-<td><em>Brunch will be ready by 10:30-11!</em>
+<tr><th>Sunday about 11am</th>
+<td><em>Brunch will be ready by 11, but you can show up earlier if you want!</em>
 <ul><li>Brunchy drinks and coffee and tea!</li>
     <li>Bring liquor for your Bloody Mary, if you wanna!</li>
     <li>Biscuits and gravy!</li>
