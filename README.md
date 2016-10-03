@@ -60,11 +60,12 @@ Really.
 <td>Salut!</td></tr>
 
 <tr><th>Sunday</th>
-<td><em>Brunch:</em>
-<ul><li>Bloody Marys and mimosas, probably</li>
-    <li>Biscuits and gravy, probably</li>
+<td><em>Brunch will be ready by 10:30-11!</em>
+<ul><li>Brunchy drinks and coffee and tea!</li>
+    <li>Bring liquor for your Bloody Mary, if you wanna!</li>
+    <li>Biscuits and gravy!</li>
     <li>Other brunchy brunch food</li>
-    <li>tell Kim if you have restrictions or requests!</li></ul></td>
+    <li>Brunch will be vegan, but not gluten-free. Feel free to supplement the food to suit your needs if you like!</li></ul></td>
 <td>Baker Street Agency</td>
 </tr>
 
