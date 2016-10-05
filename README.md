@@ -98,12 +98,19 @@ Really.
 <td>Saluthaus</td>
 </tr>
 
+<tr><th>Sunday 5-6pm</th>
+<td><ul>
+<li>Planks!! Don't be late, as this will be finished by baby bedtime.</li>
+<li>Yes, there will be pizza</li></td>
+<td>Saluthaus</td>
+</tr>
+
 <tr><th>Sunday night</th>
 <td><em>Winding up, winding down:</em>
-<ul><li>Musical Creaking and Planking!
+<ul><li>¯\_(ツ)_/¯
     <li>Quite possibly more things!
 </ul></td>
-<td>Hopefully in the Saluthaus Basement!
+<td>in and around Saluthaus
 </td></tr>
 
 <tr><th>Monday Morning</th>
