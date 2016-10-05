@@ -94,6 +94,7 @@ Really.
 <li>He will be wearing a top hat and bow tie!</li>
 <li>You should too!</li>
 <li>Or something similarly fancy!</li>
+<li>It would be nice of you to contribute $10 (or more, or less) to his appearance fee</li>
 <li>If you feel like it, we're not the boss of you!</li></td>
 <td>Saluthaus</td>
 </tr>
@@ -102,7 +103,8 @@ Really.
 <td><em>Planks!</em>
 <ul>
 <li>Don't be late, as this will be finished by baby bedtime.</li>
-<li>Yes, there will be pizza</li></td>
+<li>Yes, there will be pizza</li>
+<li>Yes, it would be nice of you to chip in for that as well</li></td>
 <td>Saluthaus</td>
 </tr>
 
