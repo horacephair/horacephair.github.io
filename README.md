@@ -88,8 +88,8 @@ Really.
 </td></tr>
 
 <tr><th>Sunday 3-4pm</th>
-<td><ul>
-<li><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!</li>
+<td><em><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!</em>
+<ul>
 <li><a href="https://www.youtube.com/watch?v=FbwkkXGmFrI">CUIDADO!</a></li>
 <li>He will be wearing a top hat and bow tie!</li>
 <li>You should too!</li>
@@ -99,8 +99,9 @@ Really.
 </tr>
 
 <tr><th>Sunday 5-6pm</th>
-<td><ul>
-<li>Planks!! Don't be late, as this will be finished by baby bedtime.</li>
+<td><em>Planks!</em>
+<ul>
+<li>Don't be late, as this will be finished by baby bedtime.</li>
 <li>Yes, there will be pizza</li></td>
 <td>Saluthaus</td>
 </tr>
