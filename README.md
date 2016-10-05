@@ -102,7 +102,7 @@ Really.
 <tr><th>Sunday 5-6pm</th>
 <td><em>Planks!</em>
 <ul>
-<li>Don't be late, as this will be finished by baby bedtime.</li>
+<li>Don't be late, as this will be finished by toddler bedtime.</li>
 <li>Yes, there will be pizza</li>
 <li>Yes, it would be nice of you to chip in for that as well</li></td>
 <td>Saluthaus</td>
