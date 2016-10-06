@@ -19,8 +19,10 @@ Really.
 <td><em>Arrivals:</em>
 <ul><li>and greeting cups</li>
     <li>and Jack makes enough noodles to feed an army big enough to invade Forest Park</li>
-    <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li></ul></td>
-    <td>House Castle!<br>8776 NW Bridge Ave<br>(carpooling is smart)</td></tr>
+    <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li>
+    <li>a hot tub is here. many small instruments are here.</li>
+    <li>if you bring records we will play the records</li></ul></td>
+    <td>House Castle!<br>8776 NW Bridge Ave<br>(carpooling is smart)<br>(walking across the bridge is even smarter. 3-5 cars can park near the house, total.)</td></tr>
 
 <tr><th>Saturday morning</th>
     <td>
