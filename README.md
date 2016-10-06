@@ -19,7 +19,6 @@ Really.
 <td><em>Arrivals:</em>
 <ul><li>and greeting cups</li>
     <li>and Jack makes enough noodles to feed an army big enough to invade Forest Park</li>
-    <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li>
     <li>a hot tub is here. many small instruments are here.</li>
     <li>it is advisable to dye your hair at this part of this party.</li>
     <li>if you bring records we will play the records</li></ul></td>
@@ -56,6 +55,7 @@ Really.
 <td><em>Some party occurs:</em>
 <ul><li>You, you talk to your friends.</li>
     <li>Food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li>
+    <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li>
     <li>ANNOUNCEMENTS. Like, if you need to stand on a chair and tell your people something, you do it.</li>
     <li>Might be a fire, an' it ain't raining</li>
     <li>READINGS. Some Borges. Some Albee. There don't seem to be a theme yet, so improvise yourself one.</li>
