@@ -55,7 +55,6 @@ Really.
 <td><em>Some party occurs:</em>
 <ul><li>You, you talk to your friends.</li>
     <li>Food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li>
-    <li>and Jenny's birthday, featuring cake. or pie. Or piecake.</li>
     <li>ANNOUNCEMENTS. Like, if you need to stand on a chair and tell your people something, you do it.</li>
     <li>Might be a fire, an' it ain't raining</li>
     <li>READINGS. Some Borges. Some Albee. There don't seem to be a theme yet, so improvise yourself one.</li>
@@ -98,7 +97,8 @@ Really.
 <li>You should too!</li>
 <li>Or something similarly fancy!</li>
 <li>It would be nice of you to contribute $10 (or more, or less) to his appearance fee</li>
-<li>If you feel like it, we're not the boss of you!</li></td>
+<li>If you feel like it, we're not the boss of you!</li>
+<li>We're also celebrating Jenny's birthday, featuring Back to Eden cupcakes (vegan and gluten-free)!</li></td>
 <td>Saluthaus</td>
 </tr>
 
