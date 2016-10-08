@@ -122,7 +122,7 @@ Really.
 <tr><th>Monday Morning</th>
 <td><em>Choose your own adventure:</em>
 <ul><li>We're going to get up early and form small groups and pay someone to make us brunch before we go to:</li>
-<li><p><a href = "https://www.facebook.com/events/271407376586197/">Know Your Pelvis</a> (an education in shaking your butt)</p>
+<li><p><a href = "https://www.facebook.com/events/271407376586197/">Booty Shake for Pelvic Empowerment//all genders</a></p>
 <p>RSVPs appreciated but not required.</p>
 <p><i>(There is a class fee but I'd hate to see you dissuaded by that, ask me about the Horace Phair Pelvis Education Scholarship Fund. — Kevin)</i></p>
 </li>
