@@ -22,7 +22,7 @@ Really.
 <tr><th>Span</th><th>Things</th><th>Place</th></tr>
 <tr><th>Friday evening, and night</th>
 <td>Arrivals</td>
-<td></td>
+<td></td></tr>
 <tr><th>Monday morning</th>
 <td> *choose your own adventure* </td>
 <td>various places</td></tr>
