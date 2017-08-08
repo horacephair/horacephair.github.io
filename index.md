@@ -35,8 +35,7 @@ Really.
 ## Monday morning
 * _choose your own adventure_ @ various places
 
-
-Other events from our affiliates:
+## Other events from our affiliates:
 * Portland Nursery's 30th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
 
 # Slacklining <a name="slack"></a>
