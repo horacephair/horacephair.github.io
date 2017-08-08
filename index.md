@@ -24,13 +24,16 @@ Really.
 <small>what was so great about tabular format anyways</small>
 
 ## Friday evening, and night
-  * Arrivals @ somehwere in portland?
+* Arrivals @ somehwere in portland?
+
 ## Saturday
-  * party? @ houses??
+* party? @ houses??
+
 ## Sunday
-  * different party? @ more houses??
+* different party? @ more houses??
+
 ## Monday morning
-  * _choose your own adventure_ @ various places
+* _choose your own adventure_ @ various places
 
 
 Other events from our affiliates:
