@@ -25,7 +25,7 @@ Really.
 <td>portland?</td></tr>
 <tr><th>Saturday</th>
 <td> party? </td>
-<td>houses??<td></tr>
+<td>houses??</td></tr>
 
 <tr><th>Monday morning</th>
 <td> *choose your own adventure* </td>
