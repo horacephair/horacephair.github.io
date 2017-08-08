@@ -23,13 +23,13 @@ Really.
 
 <small>what was so great about tabular format anyways</small>
 
-* Friday evening, and night
+## Friday evening, and night
   * Arrivals @ somehwere in portland?
-* Saturday
+## Saturday
   * party? @ houses??
-* Sunday
+## Sunday
   * different party? @ more houses??
-* Monday morning
+## Monday morning
   * _choose your own adventure_ @ various places
 
 
