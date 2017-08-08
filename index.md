@@ -174,4 +174,5 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 ## XV
 <em>October 7-10, 2016</em>
 * baby showers because Iris and Jo hadn't been born yet!?
+* for some reason the Planks played on sunday this time
 * was there actually booty shaking?
