@@ -19,7 +19,7 @@ Really.
 
 <small>what was so great about tabular format anyways</small>
 
-* Friday evening, and night</th>
+* Friday evening, and night
   * Arrivals @ somehwere in portland?
 * Saturday
   * party? @ houses??
