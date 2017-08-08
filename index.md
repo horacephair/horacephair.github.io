@@ -26,6 +26,9 @@ Really.
 <tr><th>Saturday</th>
 <td> party? </td>
 <td>houses??</td></tr>
+<tr><th>Sunday</th>
+<td> different party? </td>
+<td>more houses??</td></tr>
 
 <tr><th>Monday morning</th>
 <td> *choose your own adventure* </td>
