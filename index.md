@@ -1,8 +1,12 @@
+---
+title: Horace Phair 2017
+---
+
 ###<a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
-#Horace Phair XV
+#Horace Phair XVI
 Will occur on
-##October 7-10, 2016
+##October 6-9, 2017
 
 You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
