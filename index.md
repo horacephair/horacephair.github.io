@@ -15,14 +15,14 @@ You are at the right place. You were probably pretty sure. Have you been here be
 Really.
 
 # Times of Things that have Times
-<br><em>check back later for more details</em></br>
+<em>check back later for more details</em>
 
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday evening, and night</th>
 <td><em>Arrivals:</em>
-<ul><li>and greeting cups</li>
+<ul><li>and greeting cups</li></ul>
 </td></tr>
 <tr><th>Saturday morning</th>
     <td>
