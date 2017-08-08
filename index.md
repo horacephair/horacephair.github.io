@@ -31,7 +31,7 @@ Really.
 <td>more houses??</td></tr>
 
 <tr><th>Monday morning</th>
-<td> *choose your own adventure* </td>
+<td> _choose your own adventure_ </td>
 <td>various places</td></tr>
 </table>
 
