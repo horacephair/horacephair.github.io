@@ -2,6 +2,8 @@
 title: Horace Phair 2017
 ---
 
+<img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">
+
 ### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
 # Horace Phair XVI
