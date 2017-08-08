@@ -18,131 +18,59 @@ Really.
 <br><em>check back later for more details</em></br>
 
 
-# Old shit hasn't been updated since last year:
-
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
 <tr><th>Friday evening, and night</th>
 <td><em>Arrivals:</em>
 <ul><li>and greeting cups</li>
-    <li>and Jack makes enough noodles to feed an army big enough to invade Forest Park</li>
-    <li>a hot tub is here. many small instruments are here.</li>
-    <li>it is advisable to dye your hair at this part of this party.</li>
-    <li>if you bring records we will play the records</li></ul></td>
-    <td>House Castle!<br>8776 NW Bridge Ave<br>(carpooling is smart)<br>(walking across the bridge is even smarter. 3-5 cars can park near the house, total.)<br>(make yr parking reservations and we'll move yr friends out of the way)</td></tr>
-
+</td></tr>
 <tr><th>Saturday morning</th>
     <td>
         <em>Check back later, but:</em>
         <ul>
             <li>Breakfast</li>
             <li>Other things for breakfast</li>
-            <li>Hunt us up some mushrooms (contact Martin, Beth, or Ryan to join, or just find a forest and hunt!)</li>
         </ul>
     </td>
     <td>
         Various places<br />
-        Pacific rainforest. <br /> 
     </td>
 </tr>
 
- <tr><th>Saturday afternoon 1:30-3</th>
-    <td>
-        <em>Soak and Sauna!</em>
-        <ul>
-            <li>Nudity and soaking!</li>
-            <li>Bring a towel!</li>
-            <li>Space is limited, so contact Kim if you want in!</li>
-        </ul>
-    </td>
-    <td><a href="http://cgwc.org/">Common Grounds</a><br>
-    </td></tr>
-
+ <tr><th>Saturday afternoon</th>
+ <td></td>
+    <td></td></tr>
+    
 <tr><th>Saturday night</th>
 <td><em>Some party occurs:</em>
 <ul><li>You, you talk to your friends.</li>
-    <li>Food, simple food, not gonna win awards, will feed you. Tell Laurel about your dietary restrictions. Ask if you want to help, there might be a task.</li>
-    <li>ANNOUNCEMENTS. Like, if you need to stand on a chair and tell your people something, you do it.</li>
-    <li>Might be a fire, an' it ain't raining</li>
-    <li>READINGS. Some Borges. Some Albee. There don't seem to be a theme yet, so improvise yourself one.</li>
-    <li>Bring your pantsless yoga pants (ALWAYS. Actually more important than the towel, says recent research that the late Mr. Adams did not have access to.)</li></ul></td>
-<td>Salut!</td></tr>
-
-<tr><th>Sunday about 11am</th>
-<td><em>Brunch will be ready by 11, but you can show up earlier if you want!</em>
-<ul><li>Brunchy drinks and coffee and tea!</li>
-    <li>Bring liquor for your Bloody Mary, if you wanna!</li>
-    <li>Biscuits and gravy!</li>
-    <li>Other brunchy brunch food</li>
-    <li>Brunch will be vegan, but not gluten-free.</li>
-    <li>Feel free to supplement the food to suit your needs if you like!</li></ul></td>
-<td>Baker Street Agency</td>
+    <li>what</li>
+<td>where</td></tr>
+<tr><th>Sunday </th>
+<td><em>Brunch?</em>
+<td>place?</td>
 </tr>
 
-<tr><th>Sunday kind of during and after brunch</th>
-<td><em>Showering occurs:</em>
-<ul><li>Chris and Ashley are having a little!</li>
-    <li>Ariel and Brian are also having a little!</li>
-    <li>In this context, "little" means something like "baby"!</li>
-    <li>as in, a "newborn baby", except they haven't been born yet!</li>
-    <li>it's just something we're <i>expecting to happen...</i></li>
-    <li>so you could say that they're "having expectations"!</li>
-    <li>Wish them well!</li>
-    <li>Give some hugs!</li>
-    <li>Bring 'em something, if you want to!
-    <li><a href="https://www.amazon.com/registry/baby/3AWLI5LRHU97C">Ariel and Brian have made a wishlist!</a></li>
-    <li><a href="https://ashley-christopher.herokuapp.com/">Ashley and Chris have made a wishlist!</a></li></ul>
-</td>
-<td>Baker Street Agency</td>
-</td></tr>
-
-<tr><th>Sunday 3-4pm</th>
-<td><em><a href='http://rojothellama.com'>ROJO THE LLAMA</a>!</em>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=FbwkkXGmFrI">CUIDADO!</a></li>
-<li>He will be wearing a top hat and bow tie!</li>
-<li>You should too!</li>
-<li>Or something similarly fancy!</li>
-<li>It would be nice of you to contribute $10 (or more, or less) to his appearance fee</li>
-<li>If you feel like it, we're not the boss of you!</li>
-<li>We're also celebrating Jenny's birthday, featuring Back to Eden cupcakes (vegan and gluten-free)!</li></td>
-<td>Saluthaus</td>
-</tr>
-
-<tr><th>Sunday 5-6pm</th>
-<td><em>Planks!</em>
-<ul>
-<li>Don't be late, as this will be finished by toddler bedtime.</li>
-<li>Yes, there will be pizza</li></td>
-<td>Saluthaus</td>
-</tr>
 
 <tr><th>Sunday night</th>
 <td><em>Winding up, winding down:</em>
 <ul><li>¯\_(ツ)_/¯
     <li>Quite possibly more things!
 </ul></td>
-<td>in and around Saluthaus
+<td>anywhere
 </td></tr>
 
 <tr><th>Monday Morning</th>
-<td><em>Choose your own adventure:</em>
-<ul><li>We're going to get up early and form small groups and pay someone to make us brunch before we go to:</li>
-<li><p><a href = "https://www.facebook.com/events/271407376586197/">Booty Shake for Pelvic Empowerment//all genders</a></p>
-<p>RSVPs appreciated but not required.</p>
-<p><i>(There is a class fee but I'd hate to see you dissuaded by that, ask me about the Horace Phair Pelvis Education Scholarship Fund. — Kevin)</i></p>
-</li>
-</ul></td>
-<td>Om Movement Studio<br/>
-14 NE 10th Ave, Portland, Oregon 97232
+<td><em>Choose your own adventure</em></td>
+<td>places
 </td></tr>
 
 </table>
 
 Other events from our affiliates:
-* Portland Nursery's 29th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
+* Portland Nursery's 30th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a>. This is the best place to find delicious apples and to eat strudel. Don't attempt to drive; parking will be worse than downtown.
 
-#Slacklining <a name="slack"></a>
+# Slacklining <a name="slack"></a>
 This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. http://horacephair.slack.com
 
 #Accommodations are being made
@@ -155,32 +83,8 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 <em>Laurel, Daniel</em>
 * Media room
 
-##Woodhaus
-<em>Dave, Jenny, cats</em>
-(How much room do you guys have? Do you have room?)
 
-##The Beech House
-<em>Ryan, Kelly, Eamon, cats, dog</em>
-* TBD
-
-## Monster Palace
-<em>Megan, Martin, Chase, Terra, Am</em>
-* Basement
-* Yet more
-
-## Baker Street Agency
-<em>Kim and Ed (who will be mostly gone, which sucks), Aliester (who is a cat)</em>
-* Bunk: Manuel
-* Bunk: Danne
-
-## Lighthouse
-<em>Liene, Nathan, and Mika</em>
-* Boat room: Josh
-
-##Other Locations?
-* House Longlawn in the northern kingdom has two couches and plentiful floor (misuba, m.robins, dog)
-
-#What to Bring 
+# What to Bring 
 * Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
 * Weather clothes. Seriously, this year we can't predict. Might be gorgeous. Might be normal (damp). Might pour. Your shoes will probably get wet.
 * Bring a spoon or fork. Sometimes we run short.
@@ -297,3 +201,8 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * there were crickets?
 * Rian O'Hara is moving to England
 * More emoji than any other Horace Phair
+
+## XV
+<em>October 7-10, 2016</em>
+* baby showers because Iris and Jo hadn't been born yet!?
+* was there actually booty shaking?
