@@ -17,23 +17,16 @@ Really.
 # Times of Things that have Times
 <em>check back later for more details</em>
 
+<small>what was so great about tabular format anyways</small>
 
-<table width="80%" cellspacing="0" cellpadding="3" border="1">
-<tr><th>Span</th><th>Things</th><th>Place</th></tr>
-<tr><th>Friday evening, and night</th>
-<td>Arrivals</td>
-<td>portland?</td></tr>
-<tr><th>Saturday</th>
-<td> party? </td>
-<td>houses??</td></tr>
-<tr><th>Sunday</th>
-<td> different party? </td>
-<td>more houses??</td></tr>
-
-<tr><th>Monday morning</th>
-<td> _choose your own adventure_ </td>
-<td>various places</td></tr>
-</table>
+* Friday evening, and night</th>
+  * Arrivals @ somehwere in portland?
+* Saturday
+  * party? @ houses??
+* Sunday
+  * different party? @ more houses??
+* Monday morning
+  * _choose your own adventure_ @ various places
 
 
 Other events from our affiliates:
