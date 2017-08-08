@@ -10,6 +10,8 @@ Will occur on
 
 You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
+<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md">here is the link to edit this page</a>
+
 <strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
 Really.
