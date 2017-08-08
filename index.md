@@ -18,55 +18,8 @@ Really.
 <em>check back later for more details</em>
 
 
-<table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
-
-<tr><th>Friday evening, and night</th>
-<td><em>Arrivals:</em>
-<ul><li>and greeting cups</li></ul>
-</td></tr>
-<tr><th>Saturday morning</th>
-    <td>
-        Breakfast?   
-    </td>
-    <td>
-        Various places<br />
-    </td>
-</tr>
-
- <tr><th>Saturday afternoon</th>
- <td></td>
-    <td></td></tr>
-    
-<tr><th>Saturday night</th>
-<td><em>Some party occurs:</em>
-
-* You, you talk to your friends.
-* what
-
-<td>where</td></tr>
-<tr><th>Sunday </th>
-<td><em>Brunch?</em>
-<td>place?</td>
-</tr>
-
-
-<tr><th>Sunday night</th>
-<td>
-
-_Winding up, winding down:_
-
-* ¯\_(ツ)_/¯
-* Quite possibly more things!
-
-</td>
-<td>anywhere
-</td></tr>
-
-<tr><th>Monday Morning</th>
-<td><em>Choose your own adventure</em></td>
-<td>places
-</td></tr>
-
+<table width="80%" cellspacing="0" cellpadding="3">
+<tr><th>Span</th><th>Things</th><th>Place</th></tr>
 </table>
 
 
