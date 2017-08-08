@@ -2,11 +2,11 @@
 title: Horace Phair 2017
 ---
 
-###<a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
+### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
-#Horace Phair XVI
+# Horace Phair XVI
 Will occur on
-##October 6-9, 2017
+## October 6-9, 2017
 
 You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
@@ -16,6 +16,9 @@ Really.
 
 # Times of Things that have Times
 <br><em>check back later for more details</em></br>
+
+
+# Old shit hasn't been updated since last year:
 
 <table width="80%" cellspacing="0" cellpadding="3"><tr><th>Span</th><th>Things</th><th>Place</th></tr>
 
