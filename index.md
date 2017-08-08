@@ -23,6 +23,10 @@ Really.
 <tr><th>Friday evening, and night</th>
 <td>Arrivals</td>
 <td>portland?</td></tr>
+<tr><th>Saturday</th>
+<td> party? </td>
+<td>houses??<td></tr>
+
 <tr><th>Monday morning</th>
 <td> *choose your own adventure* </td>
 <td>various places</td></tr>
