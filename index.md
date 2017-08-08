@@ -25,7 +25,7 @@ Really.
 <td></td>
 <tr><th>Monday morning</th>
 <td> *choose your own adventure* </td>
-<td>various places</td>
+<td>various places</td></tr>
 </table>
 
 
