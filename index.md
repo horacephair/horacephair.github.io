@@ -54,6 +54,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 <em>Liene, Nathan, and Mika (who is a cat)</em>
 * Sky Suite/Fancy Attic: Manuel
 
+## Other houses!
 * Us???
 
 # What to Bring 
