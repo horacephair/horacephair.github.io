@@ -30,6 +30,10 @@ Really.
 * party? @ houses??
 
 ## Sunday
+* Morningtime: Brunch at BSA! Food will be ready between 10-11am, probably.
+There will be food and beverages and it will almost certainly all be vegan! Make requests and/or tell Kim about dietary restrictions.
+Smart money says there will be biscuits and gravy and slab pie, and bloody mary fixins and mimosas.
+
 * different party? @ more houses??
 
 ## Monday morning
@@ -54,7 +58,12 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 <em>Liene, Nathan, and Mika (who is a cat)</em>
 * Sky Suite/Fancy Attic: Manuel
 
-## Other houses!
+## BSA
+<em>Kim, Ed (who will be gone), Aliester (who is a cat)</em>
+* Guestroom bunkbed (bottom, full bed): ?
+* Guestroom bunkbed (top, twin bed): ?
+
+## Other Houses
 * Us???
 
 # What to Bring 
