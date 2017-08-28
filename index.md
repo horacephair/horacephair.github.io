@@ -31,9 +31,10 @@ Really.
 
 ## Sunday
 ## Morningtime: Brunch at BSA! Food will be ready between 10-11am, probably.
-* There will be food and beverages and it will almost certainly all be vegan! 
-* Make requests and/or tell Kim about dietary restrictions.
+* There will be food and beverages and it will almost certainly all be vegan!
+* Make requests and/or tell Kim about dietary restrictions. 
 * Smart money says there will be biscuits and gravy and slab pie, and bloody mary fixins and mimosas.
+* 1927 NE 10th Ave
 
 * different party? @ more houses??
 
