@@ -50,8 +50,11 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## Hosts that need guests
 
-* Us???
+##as-yet-unnamed house
+<em>Liene, Nathan, and Mika (who is a cat)</em>
+* Sky Suite/Fancy Attic: Manuel
 
+* Us???
 
 # What to Bring 
 * Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
