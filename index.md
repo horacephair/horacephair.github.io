@@ -50,7 +50,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## Hosts that need guests
 
-##as-yet-unnamed house
+## as-yet-unnamed house
 <em>Liene, Nathan, and Mika (who is a cat)</em>
 * Sky Suite/Fancy Attic: Manuel
 
