@@ -56,16 +56,16 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## Hosts that need guests
 
-## as-yet-unnamed house
+### as-yet-unnamed house
 <em>Liene, Nathan, and Mika (who is a cat)</em>
 * Sky Suite/Fancy Attic: Manuel
 
-## BSA
+### BSA
 <em>Kim, Ed (who will be gone), Aliester (who is a cat)</em>
 * Guestroom bunkbed (bottom, full bed): ?
 * Guestroom bunkbed (top, twin bed): ?
 
-## Other Houses
+### Other Houses
 * Us???
 
 # What to Bring 
