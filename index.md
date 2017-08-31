@@ -45,7 +45,7 @@ Morning: Brunch!
 * Make requests and/or tell Kim about dietary restrictions.
 
 Afternoon
-* different party? @ more houses??
+* Visit from a charismatic camelid, details TBA
 
 Evening
 * different party? @ more houses??
