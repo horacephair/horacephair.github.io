@@ -51,7 +51,7 @@ Morning: Brunch!
 * Make requests and/or tell Kim about dietary restrictions.
 
 Afternoon
-* ~~Visit from a charismatic camelid, details TBA~~
+* ~~Visit from a charismatic camelid, details TBA~~ (Scheduling mishap! Maybe next year.)
 
 Evening
 * different party? @ more houses??
