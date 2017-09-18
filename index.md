@@ -24,7 +24,7 @@ Really.
 <small>what was so great about tabular format anyways</small>
 
 ## Thursday morning, 11:40 AM
-* Full <a href-"https://www.nasa.gov/multimedia/imagegallery/image_feature_2110.html">moo</a><a href="https://en.wikipedia.org/wiki/List_of_lunar_deities">n</a>.
+* Full <a href="https://www.nasa.gov/multimedia/imagegallery/image_feature_2110.html">moo</a><a href="https://en.wikipedia.org/wiki/List_of_lunar_deities">n</a>.
 
 ## Friday evening, and night
 * Arrivals @ somewhere in portland?
