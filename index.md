@@ -2,7 +2,7 @@
 title: Horace Phair 2017
 ---
 
-<img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">
+<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif"></a>
 
 ### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
@@ -23,18 +23,22 @@ Really.
 
 <small>what was so great about tabular format anyways</small>
 
+## Thursday morning, 11:40 AM
+* Full <a href-"https://www.nasa.gov/multimedia/imagegallery/image_feature_2110.html">moo</a><a href="https://en.wikipedia.org/wiki/List_of_lunar_deities">n</a>.
+
 ## Friday evening, and night
-* Arrivals @ somehwere in portland?
+* Arrivals @ somewhere in portland?
 
 ## Saturday
 Morning
 * ??
 
 Afternoon
+* 1:30-3 SPA TIME.
 * Play games at Saluthaus
   * EPYC
   * Dominion
-* Read things to each other (bring a thing)
+* Read things to each other (bring a thing made of text or browse the Salut library or let randomness make your choice)
 
 Evening
 * Fire and food at Saluthaus
@@ -57,12 +61,13 @@ Evening
 * different party? @ more houses??
 
 ## Monday morning
+<a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
 * _choose your own adventure_ @ various places
 
 ## Other events from our affiliates:
-* Portland Nursery's 30th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> will be the two weekends after Horace Phair. Sorry!
+* Portland Nursery's 30th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> will be the two weekends after Horace Phair (10/13-15, 10/20-22). Sorry!
 
-# Slacklining <a name="slack"></a>
+# <a name="slack"></a>Slacklining 
 This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. http://horacephair.slack.com
 
 # Accommodations are being made
@@ -84,7 +89,13 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Guestroom bunkbed (top, twin bed): ?
 
 ### Saluthaus
-* There will be a guest room. There might be two rooms available if Griffin is out of town. There's a book loft and two sofas.
+<em>Hoyt, Griffin, and Audrey II (who is a cat)(none of our plants consume live humans)</em>
+There will be a guest room -- now upstairs. There might be two rooms available if Griffin is out of town for his birthday. 
+* Guest room: ?
+* Book loft: ?
+* Good ol' velvety sofa: ?
+* Long corduroy sofa: ?
+* Basement hammock: ?
 
 ### Other Houses
 * Us???
