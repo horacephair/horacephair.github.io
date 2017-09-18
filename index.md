@@ -32,15 +32,15 @@ Morning
 
 Afternoon
 * Play games at Saluthaus
-** EPYC
-** Dominion
+  * EPYC
+  * Dominion
 * Read things to each other (bring a thing)
 
 Evening
 * Fire and food at Saluthaus
-** Apples
-** Potatoes
-** ain't gonna be nothing fancy 
+  * Apples
+  * Potatoes
+  * ain't gonna be nothing fancy 
 
 ## Sunday
 Morning: Brunch!
