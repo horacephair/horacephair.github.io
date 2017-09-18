@@ -83,6 +83,9 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 * Guestroom bunkbed (bottom, full bed): ?
 * Guestroom bunkbed (top, twin bed): ?
 
+### Saluthaus
+* There will be a guest room. There might be two rooms available if Griffin is out of town. There's a book loft and two sofas.
+
 ### Other Houses
 * Us???
 
