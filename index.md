@@ -58,6 +58,7 @@ Afternoon
 * ~~Visit from a charismatic camelid, details TBA~~ (Scheduling mishap! Maybe next year.)
 
 Evening
+* Think Again, My Friend records a show live at a likely location, circa 5:30 PM
 * different party? @ more houses??
 
 ## Monday morning
