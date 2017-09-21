@@ -27,7 +27,8 @@ Really.
 * Full <a href="https://www.nasa.gov/multimedia/imagegallery/image_feature_2110.html">moo</a><a href="https://en.wikipedia.org/wiki/List_of_lunar_deities">n</a>.
 
 ## Friday evening, and night
-* Arrivals @ somewhere in portland?
+* Arrivals @ I CAN'T BELIEVE IT'S NOT MURDER
+* And also cupcakes, vegan for birthday, Jenny's.
 
 ## Saturday
 Morning
