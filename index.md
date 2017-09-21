@@ -31,7 +31,10 @@ Really.
 
 ## Saturday
 Morning
-* ??
+* Saturday morning kid-oriented breakfast/brunch at Monster Palace. Probably there will be waffles, potentially pumpkin bread french toast. People without children will obviously be welcome!
+
+HIGH NOON
+* Line up the children oldest to youngest for a group photo. Yes, we can include your pregnant belly(s). 
 
 Afternoon
 * 1:30-3 SPA TIME.
