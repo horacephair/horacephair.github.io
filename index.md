@@ -29,7 +29,7 @@ Really.
 ## Friday evening, and night
 * Arrivals @ I CAN'T BELIEVE IT'S NOT MURDER
 * And also cupcakes, vegan for birthday, Jenny's.
-* Also :spinning-pizza: and drinks both with and without booze in them.
+* Also :pizza-spin: and drinks both with and without booze in them.
 * Bonus points for wearing your party hat.
 
 ## Saturday
