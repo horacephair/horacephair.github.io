@@ -92,7 +92,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ### BSA
 <em>Kim, Ed (who will be gone), Aliester (who is a cat)</em>
-* Guestroom bunkbed (bottom, full bed): ?
+* Guestroom bunkbed (bottom, full bed): Danne
 * Guestroom bunkbed (top, twin bed): ?
 
 ### Saluthaus
