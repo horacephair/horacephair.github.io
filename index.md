@@ -50,7 +50,14 @@ Evening
 * Fire and food at Saluthaus
   * Apples
   * Potatoes
-  * ain't gonna be nothing fancy 
+  * ain't gonna be nothing fancy 
+* TINY PERFORMANCE VARIETY SHOW
+  * Musics
+  * Storytelling
+  * Feats Of Strength
+  * 5-15 minutes of whatever you can do in front of people you're allowed to rope into your deal
+  * sign up on the list in Salut basement or talk to Jenn or just get up and do it
+  
 
 ## Sunday
 Morning: Brunch!
