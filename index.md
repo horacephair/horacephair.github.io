@@ -36,7 +36,7 @@ Really.
 Morning
 * Saturday morning kid-oriented breakfast/brunch at Monster Palace. Probably there will be waffles, potentially pumpkin bread french toast. People without children will obviously be welcome!
 
-HIGH NOON
+BEFORE HIGH NOON? (Megan and Chase have to depart for circus class around 11:30. Though the party can go on, and pictures can be taken without our presence.)
 * Line up the children oldest to youngest for a group photo. Yes, we can include your pregnant belly(s). 
 
 Afternoon
