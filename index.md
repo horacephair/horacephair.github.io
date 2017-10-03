@@ -52,7 +52,7 @@ Evening
   * Potatoes
   * ain't gonna be nothing fancy
 
-* TINY PERFORMANCE VARIETY SHOW
+* TINY PERFORMANCE VARIETY SHOW <span style="display:inline-block;height:24pt;"></span>
   * Musics
   * Storytelling
   * Feats Of Strength
