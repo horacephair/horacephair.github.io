@@ -36,9 +36,6 @@ Really.
 Morning
 * Saturday morning kid-oriented breakfast/brunch at Monster Palace. Probably there will be waffles, potentially pumpkin bread french toast. People without children will obviously be welcome!
 
-BEFORE HIGH NOON? (Megan and Chase have to depart for circus class around 11:30. Though the party can go on, and pictures can be taken without our presence.)
-* Line up the children oldest to youngest for a group photo. Yes, we can include your pregnant belly(s). 
-
 Afternoon
 * 1:30-3 SPA TIME.
 * Play games at Saluthaus
@@ -70,6 +67,7 @@ Morning: Brunch!
 
 Afternoon
 * ~~Visit from a charismatic camelid, details TBA~~ (Scheduling mishap! Maybe next year.)
+* Line up the children oldest to youngest for a group photo. Yes, we can include your pregnant belly(s). 
 * Trip to the candy store! Meet at Saluthaus after brunch. Maybe 2 or 3pm? We will walk from there to [Candy Babel](http://www.candybabel.com/); they have options for practically everyone (gluten-free, vegan, corn-free, dye-free...). I hope you like sugar!
 
 Evening
