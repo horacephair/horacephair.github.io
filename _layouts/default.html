@@ -2,10 +2,49 @@
 <html>
   <head>
     <title>{{page.title}}</title>
+    <style>
+      /* I've had to work this out more than once because it's weird */
+      /* and I have never seen it documented, exactly so maybe I'm doing */
+      /* something terribly wrong. But this is my trick for having repeating */
+      /* images along the left and right edges of the page. */
+      /* There are two DIVs for the right side, one of them for when the */
+      /* page content is shorter than the browser window (fills the whole window) */
+      /* and the other one for when the content is taller than the window */
+      /* (which follows the content down to the very bottom of the page) */
+      /* The left side doesn't have that problem because it's just the bg of */
+      /* the BODY tag, which doesn't have the weird height quirks */
+      /* IDK, if someone knows another patter for this I'd love to hear it. */
+      /*                            ~jes */
+      html {height: 100%}
+      body {
+        background-repeat: repeat-y;
+        background-position: top left;
+        background-image: url("images/Horace_Greeley_1961_issue.tiny.JPG");
+        margin: 0;
+        height: 100%;
+      }
+
+      #rightbg {
+        height: 100%;
+        width: 100%;
+        background-repeat: repeat-y;
+        background-image: url("images/Liz-Phair-Whip-Smart.tiny.jpg");
+        background-position: top right;
+      }
+      #rightbg2 {
+        width: 100%;
+        background-repeat: repeat-y;
+        background-image: url("images/Liz-Phair-Whip-Smart.tiny.jpg");
+        background-position: top right;
+      }
+      #content {
+        margin: 64px;
+      }
+    </style>
   </head>
-  <style>
-  </style>
-  <body>
+  <body><div id="rightbg"><div id="rightbg2">
+<div id="content">
 {{content}}
-  </body>
+</div>
+  </div></body>
 </html>
