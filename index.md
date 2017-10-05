@@ -71,7 +71,7 @@ Afternoon
 * Trip to the candy store! Meet at Saluthaus after brunch. Maybe 2 or 3pm? We will walk from there to [Candy Babel](http://www.candybabel.com/); they have options for practically everyone (gluten-free, vegan, corn-free, dye-free...). I hope you like sugar!
 
 Evening
-* [Think Again, My Friend](http://thinkagainmyfriend.show/) records a show live at a likely location, circa 5:30 PM
+* [Think Again, My Friend](http://thinkagainmyfriend.show/) records a show live at Salut, circa 5:30 PM
 * different party? @ more houses??
 
 ## Monday morning
