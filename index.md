@@ -72,6 +72,7 @@ Afternoon
 
 Evening
 * [Think Again, My Friend](http://thinkagainmyfriend.show/) records a show live at Salut, circa 5:30 PM
+* [Optional] Monster Palace hosts Sunday Dinner (will provide: 1 pot soup)
 * different party? @ more houses??
 
 ## Monday morning
