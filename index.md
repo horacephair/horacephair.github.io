@@ -96,7 +96,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## I
 <em>October 11-14, 2002</em>
-* Head West! Colonize an already-inhabited place!
+* [[Head West! Colonize an already-inhabited place!]](https://everything2.com/title/Head+West%2521+Colonize+an+already-inhabited+place%2521)
 
 ## II
 <em>October 10-13, 2003</em>
@@ -168,7 +168,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## XIV
 <em>October 9-12, 2015</em>
-* Sad planklessness due to the draconian Canadian border
+* Sad planklessness due to the draconian Canadian/American border
 * Rainbow Canada and MCEscher colonize Saluthaus
 * Common Grounds and the suspicion that the whole party ought to be clothing optional
 * there were crickets?
