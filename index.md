@@ -61,6 +61,10 @@ There will be a guest room -- now upstairs. There might be two rooms available i
 * Long corduroy sofa: ?
 * Basement hammock: ?
 
+### Master Plan (Monica's place)
+* Room for 1 : ?
+* "or 2 if they remember what it was like to get down on dorm beds."
+
 ### Other Houses
 * Us???
 
