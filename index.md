@@ -28,7 +28,7 @@ Really.
 * Arrivals @ Baker Street Agency (BSA) 1927 NE 10th Ave, with ":pizza:pizza and whatever:beer:"
 
 ## Saturday
-
+* [COMMON GROUNDS](http://cgwc.org/) 🌊SOAKING POOL🌊 private booking 1:45-3:15pm talk to KIM ARMSTRONG to RSVP cause there are LIMITED SPACES
 
 ## Sunday
 
