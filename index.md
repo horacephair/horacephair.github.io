@@ -52,7 +52,14 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## Hosts that need guests
 
-* Somewheres???
+### Saluthaus
+<em>Hoyt, Griffin, and Audrey II (who is a cat)(none of our plants consume live humans)</em>
+There will be a guest room -- now upstairs. There might be two rooms available if Griffin is out of town for his birthday. 
+* Guest room: ?
+* Book loft: ?
+* Good ol' velvety sofa: ?
+* Long corduroy sofa: ?
+* Basement hammock: ?
 
 ### Other Houses
 * Us???
