@@ -25,7 +25,7 @@ Really.
 
 
 ## Friday evening, and night
-* Arrivals @ ???
+* Arrivals @ Baker Street Agency (BSA) 1927 NE 10th Ave, with ":pizza:pizza and whatever:beer:"
 
 ## Saturday
 
