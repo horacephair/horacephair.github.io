@@ -54,6 +54,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ### Saluthaus
 <em>Hoyt, Griffin, and Audrey II (who is a cat)(none of our plants consume live humans)</em>
+
 There will be a guest room -- now upstairs.
 
 * Guest room: ?
