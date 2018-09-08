@@ -1,14 +1,14 @@
 ---
-title: Horace Phair 2017
+title: Horace Phair 2018
 ---
 
 <a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif"></a>
 
 ### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
-# Horace Phair XVI
+# Horace Phair XVII
 Will occur on
-## October 6-9, 2017
+## October 5-8, 2018
 
 You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
@@ -23,64 +23,22 @@ Really.
 
 <small>what was so great about tabular format anyways</small>
 
-## Thursday morning, 11:40 AM
-* Full <a href="https://www.nasa.gov/multimedia/imagegallery/image_feature_2110.html">moo</a><a href="https://en.wikipedia.org/wiki/List_of_lunar_deities">n</a>.
 
 ## Friday evening, and night
-* Arrivals @ I CAN'T BELIEVE IT'S NOT MURDER
-* And also cupcakes, vegan for birthday, Jenny's.
-* Also :pizza-spin: and drinks both with and without booze in them.
-* Bonus points for wearing your party hat.
+* Arrivals @ ???
 
 ## Saturday
-Morning
-* Saturday morning kid-oriented breakfast/brunch at Monster Palace. Probably there will be waffles, potentially pumpkin bread french toast. People without children will obviously be welcome!
 
-Afternoon
-* 1:30-3 SPA TIME.
-* Play games at Saluthaus
-  * EPYC
-  * Dominion
-* Read things to each other (bring a thing made of text or browse the Salut library or let randomness make your choice)
-
-Evening
-* Fire and food at Saluthaus
-  * Apples
-  * Potatoes
-  * ain't gonna be nothing fancy
-
-* TINY PERFORMANCE VARIETY SHOW <span style="display:inline-block;height:24pt;"></span>
-  * Musics
-  * Storytelling
-  * Feats Of Strength
-  * 5-15 minutes of whatever you can do in front of people you're allowed to rope into your deal
-  * sign up on the list in Salut basement or talk to Jenn or just get up and do it
-  
 
 ## Sunday
-Morning: Brunch!
-* Baker Street Agency (BSA) 1927 NE 10th Ave
-* Food will be ready between 10-11am, probably.
-* There will be food and beverages and it will almost certainly all be vegan!
-* Smart money says there will be biscuits and gravy and slab pie, and bloody mary fixins and mimosas.
-* Make requests and/or tell Kim about dietary restrictions.
 
-Afternoon
-* ~~Visit from a charismatic camelid, details TBA~~ (Scheduling mishap! Maybe next year.)
-* Line up the children oldest to youngest for a group photo. Yes, we can include your pregnant belly(s). 
-* Trip to the candy store! Meet at Saluthaus after brunch. Maybe 2 or 3pm? We will walk from there to [Candy Babel](http://www.candybabel.com/); they have options for practically everyone (gluten-free, vegan, corn-free, dye-free...). I hope you like sugar!
-
-Evening
-* [Think Again, My Friend](http://thinkagainmyfriend.show/) records a show live at Salut, circa 5:30 PM
-* [Optional] Monster Palace hosts Sunday Dinner (will provide: 1 pot soup)
-* different party? @ more houses??
 
 ## Monday morning
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
 * _choose your own adventure_ @ various places
 
 ## Other events from our affiliates:
-* Portland Nursery's 30th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> will be the two weekends after Horace Phair (10/13-15, 10/20-22). Sorry!
+* Portland Nursery's 31th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> will be the two weekends after Horace Phair (10/12-14, 10/19-21). Sorry!
 
 # <a name="slack"></a>Slacklining 
 This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. http://horacephair.slack.com
@@ -94,23 +52,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 ## Hosts that need guests
 
-### as-yet-unnamed house
-<em>Liene, Nathan, and Mika (who is a cat)</em>
-* Sky Suite/Fancy Attic: Manuel
-
-### BSA
-<em>Kim, Ed (who will be gone), Aliester (who is a cat)</em>
-* Guestroom bunkbed (bottom, full bed): Danne
-* Guestroom bunkbed (top, twin bed): ?
-
-### Saluthaus
-<em>Hoyt, Griffin, and Audrey II (who is a cat)(none of our plants consume live humans)</em>
-There will be a guest room -- now upstairs. There might be two rooms available if Griffin is out of town for his birthday. 
-* Guest room: ?
-* Book loft: ?
-* Good ol' velvety sofa: ?
-* Long corduroy sofa: ?
-* Basement hammock: ?
+* Somewheres???
 
 ### Other Houses
 * Us???
@@ -239,3 +181,8 @@ There will be a guest room -- now upstairs. There might be two rooms available i
 * for some reason the Planks played on sunday this time
 * Rojo the Llama
 * was there actually booty shaking?
+
+## XVI
+<em>October 6-9, 2017</em>
+* Basement variety show hosted by our own Dolan
+* Epic oldest-to-youngest photo including fetuses who turned out to be Isaac and Astrid!
