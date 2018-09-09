@@ -28,7 +28,9 @@ Really.
 * Arrivals @ Baker Street Agency (BSA) 1927 NE 10th Ave, with ":pizza:pizza and whatever:beer:"
 
 ## Saturday
+* 9AM [The People's Yoga](https://thepeoplesyoga.org/) Gentle Hatha Yoga at People's Yoga on Killingsworth. 'Cause we're getting older, yo. It's relaxing and you'll feel better. 
 * [COMMON GROUNDS](http://cgwc.org/) 🌊SOAKING POOL🌊 private booking 1:45-3:15pm talk to KIM ARMSTRONG to RSVP cause there are LIMITED SPACES
+* Evening party at Saluthaus... performances or sharing TBA. Weather permitting, a fire. 
 
 ## Sunday
 
@@ -38,7 +40,7 @@ Really.
 * _choose your own adventure_ @ various places
 
 ## Other events from our affiliates:
-* Portland Nursery's 31th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> will be the two weekends after Horace Phair (10/12-14, 10/19-21). Sorry!
+* Portland Nursery's 31th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> will be the two weekends after Horace Phair (10/12-14, 10/19-21). Stay on and eat apples!
 
 # <a name="slack"></a>Slacklining 
 This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. http://horacephair.slack.com
@@ -55,7 +57,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 ### Saluthaus
 <em>Hoyt, Griffin, and Audrey II (who is a cat)(none of our plants consume live humans)</em>
 
-There will be a guest room -- now upstairs.
+The guest room is now upstairs.
 
 * Guest room: ?
 * Book loft: ?
@@ -72,7 +74,7 @@ There will be a guest room -- now upstairs.
 
 # What to Bring 
 * Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
-* Weather clothes. Seriously, this year we can't predict. Might be gorgeous. Might be normal (damp). Might pour. Your shoes will probably get wet.
+* Weather clothes. Seriously, we can't predict. Might be gorgeous. Might be normal (damp). Might pour. Your shoes will probably get wet.
 * Bring a spoon or fork. Sometimes we run short.
 * Bring your blanky, because there is none other like it.
 * A camera or other d-vice for capturing things to put <a href="http://www.flickr.com/groups/542035@N21/">here</a>.
