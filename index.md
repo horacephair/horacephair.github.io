@@ -33,7 +33,7 @@ Really.
 * Evening party at Saluthaus... performances or sharing TBA. Weather permitting, a fire. 
 
 ## Sunday
-
+* **Sunday Brunch at BSA (1927 NE 10th Ave)** 🍳 arrivals welcome starting at 10am, food ready between 10-11am
 
 ## Monday morning
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
