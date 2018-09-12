@@ -25,7 +25,7 @@ Really.
 
 
 ## Friday evening, and night
-* Arrivals @ Baker Street Agency (BSA) 1927 NE 10th Ave, with ":pizza:pizza and whatever:beer:"
+* Arrivals @ Baker Street Agency (BSA) 1927 NE 10th Ave, with "🍕pizza and whatever🍺"
 
 ## Saturday
 * 9AM [The People's Yoga](https://thepeoplesyoga.org/) Gentle Hatha Yoga at People's Yoga on Killingsworth. 'Cause we're getting older, yo. It's relaxing and you'll feel better. 
