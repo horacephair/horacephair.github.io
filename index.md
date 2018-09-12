@@ -34,6 +34,8 @@ Really.
 
 ## Sunday
 * **Sunday Brunch at BSA (1927 NE 10th Ave)** 🍳 arrivals welcome starting at 10am, food ready between 10-11am
+*Brunch will definitely include: biscuits and gravy and slab pie🥧 (all vegan🌱) and maybe some other stuff
+people with food restrictions or concerns can get in touch with Kim*
 
 ## Monday morning
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
