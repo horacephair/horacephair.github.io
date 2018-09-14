@@ -29,6 +29,7 @@ Really.
 
 ## Saturday
 * 9AM [The People's Yoga](https://thepeoplesyoga.org/) Gentle Hatha Yoga at People's Yoga on Killingsworth. 'Cause we're getting older, yo. It's relaxing and you'll feel better. 
+* somewhere between 10am-12noon (maybe at a time that doesn't conflict with yoga?!) will be the SECOND ANNUAL LITTLES GROUP PHOTO at Salut to be followed immediately by SOME GREAT CHILD-CENTRIC ADVENTURE!!
 * [COMMON GROUNDS](http://cgwc.org/) 🌊SOAKING POOL🌊 private booking 1:45-3:15pm talk to KIM ARMSTRONG to RSVP cause there are LIMITED SPACES
 * Evening party at Saluthaus... performances or sharing TBA. Weather permitting, a fire. 
 
