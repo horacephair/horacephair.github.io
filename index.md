@@ -62,8 +62,8 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 The guest room is now upstairs.
 
-* Guest room: ?
-* Book loft: ?
+* Guest room: Iris and Chris
+* Book loft: Ashley
 * Good ol' velvety sofa: ?
 * Long corduroy sofa: ?
 * Basement hammock: ?
