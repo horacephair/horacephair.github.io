@@ -69,8 +69,7 @@ The guest room is now upstairs.
 * Basement hammock: ?
 
 ### Master Plan (Monica's place)
-* Room for 1 : ?
-* "or 2 if they remember what it was like to get down on dorm beds."
+* Room for 1 : Manuel!
 
 ### Other Houses
 * Us???
