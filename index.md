@@ -71,6 +71,10 @@ The guest room is now upstairs.
 ### Master Plan (Monica's place)
 * Room for 1 : Manuel!
 
+### Unnamed foresty redhouse
+<em>Nathan, Liene, Astrid (small, not a cat), and Mika (smaller yet, is a cat)</em>
+* Carpetful attic (now with actual mattress & space heater!): ?
+
 ### Other Houses
 * Us???
 
