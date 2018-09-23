@@ -37,6 +37,7 @@ Really.
 * **Sunday Brunch at BSA (1927 NE 10th Ave)** 🍳 arrivals welcome starting at 10am, food ready between 10-11am
 *Brunch will definitely include: biscuits and gravy and slab pie🥧 (all vegan🌱) and maybe some other stuff
 people with food restrictions or concerns can get in touch with Kim*
+* **Quiet Reading Night chez the Verzemnieks (NE 9th Ave, between Shaver & Failing)** 5ish pm to 8ish pm (17h-20h): The triumphant return of QRN, now with Astrid. Social time which has zero expectation of anyone being social. See your friends, talk or don't talk. There will be soup (vegan and gluten-free; let Liene or Nathan know if you have other requirements). There will be a baby. There will be a cat. You can bring a book(s) or you can read one of ours, with or without pictures. If you open a mystery book, you gotta keep it. Might be some records on the record player.
 
 ## Monday morning
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
