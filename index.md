@@ -28,6 +28,7 @@ Really.
 * Arrivals @ Baker Street Agency (BSA) 1927 NE 10th Ave, with "🍕pizza and whatever🍺"
 
 ## Saturday
+* 8:30AM until photo time (see below) kid-oriented breakfast/brunch at Blueburrow (Beth/Jeff/Oz/Simon's house) 4408 NE 7th ave, behind Salut
 * 9AM [The People's Yoga](https://thepeoplesyoga.org/) Gentle Hatha Yoga at People's Yoga on Killingsworth. 'Cause we're getting older, yo. It's relaxing and you'll feel better. 
 * somewhere between 10am-12noon (maybe at a time that doesn't conflict with yoga?!) will be the SECOND ANNUAL LITTLES GROUP PHOTO at Salut to be followed immediately by SOME GREAT CHILD-CENTRIC ADVENTURE!!
 * [COMMON GROUNDS](http://cgwc.org/) 🌊SOAKING POOL🌊 private booking 1:45-3:15pm talk to KIM ARMSTRONG to RSVP cause there are LIMITED SPACES
