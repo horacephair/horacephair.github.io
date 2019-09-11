@@ -6,9 +6,9 @@ title: Horace Phair 2018
 
 ### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
-# Horace Phair XVII
+# Horace Phair XVIII
 Will occur on
-## October 5-8, 2018
+## October 11-14, 2019
 
 You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
@@ -25,27 +25,24 @@ Really.
 
 
 ## Friday evening, and night
-* Arrivals @ Baker Street Agency (BSA) 1927 NE 10th Ave, with "🍕pizza and whatever🍺"
+* People get to Portland! Or they already live here and they are already here. Already.
+
 
 ## Saturday
-* 8:30AM until photo time (see below) kid-oriented breakfast/brunch at Blueburrow (Beth/Jeff/Oz/Simon's house) 4408 NE 7th ave, behind Salut
-* 9AM [The People's Yoga](https://thepeoplesyoga.org/) Gentle Hatha Yoga at People's Yoga on Killingsworth. 'Cause we're getting older, yo. It's relaxing and you'll feel better. 
-* somewhere between 10am-12noon (maybe at a time that doesn't conflict with yoga?!) will be the SECOND ANNUAL LITTLES GROUP PHOTO at Salut to be followed immediately by SOME GREAT CHILD-CENTRIC ADVENTURE!!
-* [COMMON GROUNDS](http://cgwc.org/) 🌊SOAKING POOL🌊 private booking 1:45-3:15pm talk to KIM ARMSTRONG to RSVP cause there are LIMITED SPACES
-* Evening party at Saluthaus... performances or sharing TBA. Weather permitting, a fire. 
+* There could be brunch!
+* There will probably be soaking at Common Ground!
+* There will probably be the THIRD ANNUAL LITTLES GROUP PHOTO for the small folks that are related to us, even if they haven't started breathing air yet (people who haven't been born are indeed quite little).
 
 ## Sunday
-* **Sunday Brunch at BSA (1927 NE 10th Ave)** 🍳 arrivals welcome starting at 10am, food ready between 10-11am
-*Brunch will definitely include: biscuits and gravy and slab pie🥧 (all vegan🌱) and maybe some other stuff
-people with food restrictions or concerns can get in touch with Kim*
-* **Quiet Reading Night chez the Verzemnieks (NE 9th Ave, between Shaver & Failing)** 5ish pm to 8ish pm (17h-20h): The triumphant return of QRN, now with Astrid. Social time which has zero expectation of anyone being social. See your friends, talk or don't talk. There will be soup (vegan and gluten-free; let Liene or Nathan know if you have other requirements). There will be a baby. There will be a cat. You can bring a book(s) or you can read one of ours, with or without pictures. If you open a mystery book, you gotta keep it. Might be some records on the record player.
+* Brunch?!
+* Quiet Reading Night?!
 
 ## Monday morning
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
 * _choose your own adventure_ @ various places
 
 ## Other events from our affiliates:
-* Portland Nursery's 31th annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> will be the two weekends after Horace Phair (10/12-14, 10/19-21). Stay on and eat apples!
+* Portland Nursery's 32nd annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> starts the weekend of Horace Phair (10/11-13), then continues the following weekend (10/18-20). Maybe we could eat some apples together?
 
 # <a name="slack"></a>Slacklining 
 This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. http://horacephair.slack.com
@@ -64,18 +61,14 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 The guest room is now upstairs.
 
-* Guest room: Iris and Chris
-* Book loft: Ashley
+* Guest room: 
+* Book loft: 
 * Good ol' velvety sofa: ?
 * Long corduroy sofa: ?
 * Basement hammock: ?
 
 ### Master Plan (Monica's place)
-* Room for 1 : Manuel!
-
-### Unnamed foresty redhouse
-<em>Nathan, Liene, Astrid (small, not a cat), and Mika (smaller yet, is a cat)</em>
-* Carpetful attic (now with actual mattress & space heater!): ?
+* Room for 1 :
 
 ### Other Houses
 * Us???
@@ -209,3 +202,9 @@ The guest room is now upstairs.
 <em>October 6-9, 2017</em>
 * Basement variety show hosted by our own Dolan
 * Epic oldest-to-youngest photo including fetuses who turned out to be Isaac and Astrid!
+
+## XVII
+<em>October 5-8, 2018</em>
+* Apples conspired to keep themselves from us
+* The littles are getting less little. There was a whole kid brunch!
+* more things, oh no, what have I forgotten
