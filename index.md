@@ -69,6 +69,9 @@ The guest room is now upstairs.
 ### Master Plan (Monica's place)
 * Room for 1 :
 
+### Longlawn
+* MediumChase & Sugarbaker live here with 1 other roomie. Space for 1 quiet guest available in the finished basement on a large, comfier-than-average sofa:
+
 ### Other Houses
 * Us???
 
