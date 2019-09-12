@@ -64,7 +64,6 @@ The guest room is now upstairs.
 * Guest room: 
 * Book loft: 
 * Good ol' velvety sofa: ?
-* Long corduroy sofa: ?
 * Basement hammock: ?
 
 ### Master Plan (Monica's place)
