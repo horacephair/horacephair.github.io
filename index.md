@@ -10,7 +10,7 @@ title: Horace Phair 2019
 Will occur on
 ## October 11-14, 2019
 
-You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="http://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
+You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="https://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
 
 <a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md">here is the link to edit this page</a>
 
@@ -45,7 +45,7 @@ Really.
 ## Other events from our affiliates:
 * Portland Nursery's 32nd annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> starts the weekend of Horace Phair (10/11-13), then continues the following weekend (10/18-20). Maybe we could eat some apples together?
 
-# <a href="https://horacephair.slack.com">Slacklining</a> 
+# <a name="slack" href="https://horacephair.slack.com">Slacklining</a> 
 This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together.
 
 Also it's turned into a sort of distributed asynchronous year-round HP, in that "talkin' with yer friends, wherever they may be" sort of way. If you want to know where the people are at, etc., ask to be added to the Slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. Friends, we are winning at emoji.
