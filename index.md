@@ -26,20 +26,21 @@ Really.
 
 ## Friday evening, and night
 * People get to Portland! Or they already live here and they are already here. Already.
-
+* Pizza with newlyweds
 
 ## Saturday
 * There could be brunch!
-* There will probably be soaking at Common Ground!
-* There will probably be the THIRD ANNUAL LITTLES GROUP PHOTO for the small folks that are related to us, even if they haven't started breathing air yet (people who haven't been born are indeed quite little).
+* There will probably be soaking at Common Ground from 1:30-3pm, talk to Kim if you want exchange money for certainty that this will happen.
+* There will probably be the THIRD ANNUAL LITTLES GROUP PHOTO for the small folks that are related to us, even if they haven't started breathing air yet (people who haven't been born are indeed quite little). Let's aim for 10:00am at Salut and then we can all head to Irving park for playground fun times. 
 
 ## Sunday
-* Brunch?!
-* Quiet Reading Night?!
+* Brunch and friendship bracelet making at Salut
+* Quiet Reading at the Vērzemniekses, 5p til oh 9p or so. There will be soup!
 
 ## Monday morning
+* Quiet Dread in the pre-dawn hours
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
-* _choose your own adventure_ @ various places
+* _choose your own breakfast adventure_ @ various places
 
 ## Other events from our affiliates:
 * Portland Nursery's 32nd annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> starts the weekend of Horace Phair (10/11-13), then continues the following weekend (10/18-20). Maybe we could eat some apples together?
@@ -61,7 +62,7 @@ This is like IRC, which will be comforting if you remember IRC and entirely unil
 
 The guest room is now upstairs.
 
-* Guest room: 
+* Guest room: Iris, Ashley, and Christopher
 * Book loft: 
 * Good ol' velvety sofa: ?
 * Basement hammock: ?
