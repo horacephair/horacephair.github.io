@@ -26,7 +26,7 @@ Really.
 
 ## Friday evening, and night
 * People get to Portland! Or they already live here and they are already here. Already.
-* Pizza with newlyweds
+* Pizza with newlyweds at BSA.
 
 ## Saturday
 * There could be brunch!
@@ -34,19 +34,21 @@ Really.
 * There will probably be the THIRD ANNUAL LITTLES GROUP PHOTO for the small folks that are related to us, even if they haven't started breathing air yet (people who haven't been born are indeed quite little). Let's aim for 10:00am at Salut and then we can all head to Irving park for playground fun times. 
 
 ## Sunday
-* Brunch and friendship bracelet making at Salut
-* Quiet Reading at the Vērzemniekses, 5p til oh 9p or so. There will be soup!
+* Brunch and friendship bracelet making at Salut. If you have resources for the latter, bring 'em. If not, don't worry about it.
+* Quiet Reading at the Vērzemniekses, 5p til oh 9p or so. There will be soup! The soup will be vegan and gluten-free. If you'd like it to be something else, please let Liene or Nathan know. (You are welcome to bring gluten if you'd like to have some alongside.) You can bring one of your books; you can read one of ours. Maybe we'll put somethin' on the record player.
 
 ## Monday morning
-* Quiet Dread in the pre-dawn hours
+* Quiet _Dread_ in the pre-dawn hours
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
 * _choose your own breakfast adventure_ @ various places
 
 ## Other events from our affiliates:
 * Portland Nursery's 32nd annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> starts the weekend of Horace Phair (10/11-13), then continues the following weekend (10/18-20). Maybe we could eat some apples together?
 
-# <a name="slack"></a>Slacklining 
-This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together. If you want to know where the people are at, etc., ask to be added to the slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. http://horacephair.slack.com
+# <a name="https://horacephair.slack.com">Slacklining</a> 
+This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together.
+
+Also it's turned into a sort of distributed asynchronous year-round HP, in that "talkin' with yer friends, wherever they may be" sort of way. If you want to know where the people are at, etc., ask to be added to the Slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. Friends, we are winning at emoji.
 
 # Accommodations are being made
 <img src="http://4.bp.blogspot.com/-Abu8Gw5fkdA/Vl91hqaR86I/AAAAAAAAKss/HVHb9_Pmk40/s1600/rowan-and-paul-animation.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! (Or we haven't figured out how to edit this dealy yet.) If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
@@ -64,14 +66,26 @@ The guest room is now upstairs.
 
 * Guest room: Iris, Ashley, and Christopher
 * Book loft: 
-* Good ol' velvety sofa: ?
+* New very large corduroy sofa: ?
 * Basement hammock: ?
 
 ### Master Plan (Monica's place)
-* Room for 1 :
+* Room for 1:
 
 ### Longlawn
-* MediumChase & Sugarbaker live here with 1 other roomie. Space for 1 quiet guest available in the finished basement on a large, comfier-than-average sofa:
+<em>MediumChase & Sugarbaker live here with 1 other roomie.</em>
+
+* Space for 1 quiet guest available in the finished basement on a large, comfier-than-average sofa:
+
+### Monster Palace
+<em>Chase, Megan, Martin, Am, maybe other humans? And one smol snek. And some guinea pigs</em>
+
+* Guest room: Manuel
+
+### BSA
+<em>Kim and Ed (and sometimes the kids), plus cat Harley</em>
+
+* Guest space in the bunk-bed room: 
 
 ### Other Houses
 * Us???
