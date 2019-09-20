@@ -87,6 +87,11 @@ The guest room is now upstairs.
 
 * Guest space in the bunk-bed room: 
 
+### Incottagnito
+<em>Alexis and cat Hazel</em>
+
+* Spare bedroom with comfy bed:
+
 ### Other Houses
 * Us???
 
