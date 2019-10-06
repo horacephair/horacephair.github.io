@@ -13,15 +13,16 @@ Will occur on
 
 So, like, it's a party, right? And it started with... <a href="https://opensource.com/article/19/9/geeks-cyberspace">a website</a>? That some of us did research for or made jokes on and logged our dreams on and wrote poetry and recipes on, <a href="https://everything2.com/title/HipBone+Games">played games on</a>, and had arguments about whether <a href="https://everything2.com/title/Getting+to+Know+You">GTKY stuff</a> was really a useful addition to the knowledgebase of Everything. We made soft links and hardlinks and oh no i have to say it <small>we made friends</small>
 
-And i think some people are still on that site, they can tell you what it's like now. This party took its own course. It accreted people from Free Geek and friends of friends, and i'm not sure where those other people came from. Anyway, if you think you might feel comfortable with us, you are at the right place. Have you been here before? If you have questions, ask the person who invited you! They probably have a good reason.
+And i think some people are still on that site, they can tell you what it's like now. This party took its own course. It accreted people from Free Geek and friends of friends, and i'm not sure where some of these other people came from. Anyway, if you think you might feel comfortable with us, you are at the right place. Have you been here before? If you have questions, ask the person who invited you! They probably have a good reason.
 
 <strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
 Which we thought would be useful when there were a lot of people coming from out of town who did not already know the lay of this land. They might want to do their own beer runs or have breakfast someplace hip.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/377877176/in/album-72157622839840281/" title="finishing up"><img src="https://live.staticflickr.com/125/377877176_d246d33ab8_z.jpg" width="320" height="240" alt="finishing up" align="right"></a>
 
 <a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/377877176/in/album-72157622839840281/" title="finishing up"><img src="https://live.staticflickr.com/125/377877176_d246d33ab8_z.jpg" width="320" height="240" alt="finishing up" align="right"></a>
 
 # Things that don't need times
 * porch sitting
