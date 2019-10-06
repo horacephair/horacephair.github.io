@@ -2,7 +2,7 @@
 title: Horace Phair 2019
 ---
 
-<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
+<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif" align="right">here is the link to edit this page</a>
 
 ### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
@@ -14,27 +14,36 @@ So, like, it's a party, right? And it started with... <a href="https://opensourc
 
 And i think some people are still on that site, they can tell you what it's like now. This party took its own course. It accreted people from Free Geek and friends of friends, and i'm not sure where those other people came from. Anyway, if you think you might feel comfortable with us, you are at the right place. Have you been here before? If you have questions, ask the person who invited you! They probably have a good reason.
 
-<strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
+<center><strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong></center>
 
 Which we thought would be useful when there were a lot of people coming from out of town who did not already know the lay of this land. They might want to do their own beer runs or have breakfast someplace hip.
 
+# Things that don't need times
+* porch sitting
+* catching up
+* walking around
+* telling stories
+* GTKY
+
 # Times of Things that have Times
-<em>check back later for more details</em>
 
 <small>what was so great about tabular format anyways</small>
-
 
 ## Friday evening, and night
 * People get to Portland! Or they already live here and they are already here. Already.
 * Pizza with newlyweds at BSA.
 
 ## Saturday
-* There could be brunch!
-* There will probably be soaking at Common Ground from 1:30-3pm, talk to Kim if you want exchange money for certainty that this will happen.
+* People like to eat breakfast, together with each other. The #horacephair channel on <a href="#slack">our Slack</a> may help with determining who is awake, alive, alert, enthusiastic for food when you are.
 * There will probably be the THIRD ANNUAL LITTLES GROUP PHOTO for the small folks that are related to us, even if they haven't started breathing air yet (people who haven't been born are indeed quite little). Let's aim for 10:00am at Salut and then we can all head to Irving park for playground fun times. 
+* Soaking at <a href="https://g.page/commongroundwellnessco-op?share">Common Ground</a> from 1:30-3pm, talk to Kim if you want to join in this endeavor. There are borrowable towels at Saluthaus.
+* Afternoon games time at Saluthaus: EPYC? Taboo? Monster Cards? Dominion? Euchre? There are so many options. 
+* Did you bring an instrument? REALLY? Will you play us a song? You didn't? Well, do you know any poems or good jokes? Do you want to read us a story? 
+* THE MORALS are our new music crush, they'll play in the evening in the basement when they are ready, and we will do our best to only be awkward in the charming way.
+* It is not impossible that we'll do some reading. Saluthaus has multiple scripts for <u>Antony and Cleopatra</u>, an abridged <u>Romeo and Juliet</u>, <u>Rosencrantz and Guildenstern are Dead</u>, and <u>Who's Afraid of Virginia Woolf?</u>. We might also have multiple copies of <u>Under Milk Wood</u>, if that seems like the way to go.
 
 ## Sunday
-* Brunch and friendship bracelet making at Salut. If you have resources for the latter, bring 'em. If not, don't worry about it.
+* Brunch and friendship bracelet making at Salut. If you have resources for the latter, bring 'em. If not, don't worry about it. Brunch will include hot applesauce with homemade granola and vegan ice cream for vegans and others; hot dutch babies with caramelized onions and/or cheese and/or applesauce for others. 
 * Quiet Reading at the Vērzemniekses, 5p til oh 9p or so. There will be soup! The soup will be vegan and gluten-free. If you'd like it to be something else, please let Liene or Nathan know. (You are welcome to bring gluten if you'd like to have some alongside.) You can bring one of your books; you can read one of ours. Maybe we'll put somethin' on the record player.
 
 ## Monday morning
@@ -62,7 +71,7 @@ Also it's turned into a sort of distributed asynchronous year-round HP, in that 
 ### Saluthaus
 <em>Hoyt, Griffin, and Audrey II (who is a cat)(none of our plants consume live humans)</em>
 
-The guest room is now upstairs.
+The guest room is now upstairs. Griffin will, sadly, be in Hermiston for his birthday, which coincides with this party.
 
 * Guest room: Iris, Ashley, and Christopher
 * Book loft: 
