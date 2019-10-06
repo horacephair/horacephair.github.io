@@ -2,11 +2,12 @@
 title: Horace Phair 2019
 ---
 
-<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif" align="right">here is the link to edit this page</a>
+<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
 
-### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/4007176704/in/album-72157622839840281/" title="couchness at PMF"><img src="https://live.staticflickr.com/2523/4007176704_16cca51be0_z.jpg" width="320" height="240" alt="couchness at PMF" align="right"></a>
+
+Relationships take work. Work is worship. Welcome, you are already here.
 
 # Horace Phair XVIII
 Will occur on
@@ -16,7 +17,7 @@ So, like, it's a party, right? And it started with... <a href="https://opensourc
 
 And i think some people are still on that site, they can tell you what it's like now. This party took its own course. It accreted people from Free Geek and friends of friends, and i'm not sure where those other people came from. Anyway, if you think you might feel comfortable with us, you are at the right place. Have you been here before? If you have questions, ask the person who invited you! They probably have a good reason.
 
-<center><strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong></center>
+<strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
 Which we thought would be useful when there were a lot of people coming from out of town who did not already know the lay of this land. They might want to do their own beer runs or have breakfast someplace hip.
 
