@@ -2,8 +2,6 @@
 title: Horace Phair 2019
 ---
 
-<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
-
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/4007176704/in/album-72157622839840281/" title="couchness at PMF"><img src="https://live.staticflickr.com/2523/4007176704_16cca51be0_z.jpg" width="320" height="240" alt="couchness at PMF" align="right"></a>
 
@@ -22,6 +20,8 @@ And i think some people are still on that site, they can tell you what it's like
 Which we thought would be useful when there were a lot of people coming from out of town who did not already know the lay of this land. They might want to do their own beer runs or have breakfast someplace hip.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/377877176/in/album-72157622839840281/" title="finishing up"><img src="https://live.staticflickr.com/125/377877176_d246d33ab8_z.jpg" width="320" height="240" alt="finishing up" align="right"></a>
+
+<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
 
 # Things that don't need times
 * porch sitting
