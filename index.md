@@ -2,7 +2,7 @@
 title: Horace Phair 2019
 ---
 
-<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif"></a>
+<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
 
 ### <a class="anchor" href="#look-at-me" name="look-at-me">Relationships take work. Work is worship. Welcome, you are already here.</a>
 
@@ -10,13 +10,13 @@ title: Horace Phair 2019
 Will occur on
 ## October 11-14, 2019
 
-You are at the right place. You were probably pretty sure. Have you been here before? Maybe <a href="https://horacephair.slack.com">talk to us</a><sup><small><a href="#slack">*</a></small></sup> about it if you're still feeling unsure.
+So, like, it's a party, right? And it started with... <a href="https://opensource.com/article/19/9/geeks-cyberspace">a website</a>? That some of us did research for or made jokes on and logged our dreams on and wrote poetry and recipes on, <a href="https://everything2.com/title/HipBone+Games">played games on</a>, and had arguments about whether <a href="https://everything2.com/title/Getting+to+Know+You">GTKY stuff</a> was really a useful addition to the knowledgebase of Everything. We made soft links and hardlinks and oh no i have to say it <small>we made friends</small>
 
-<a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md">here is the link to edit this page</a>
+And i think some people are still on that site, they can tell you what it's like now. This party took its own course. It accreted people from Free Geek and friends of friends, and i'm not sure where those other people came from. Anyway, if you think you might feel comfortable with us, you are at the right place. Have you been here before? If you have questions, ask the person who invited you! They probably have a good reason.
 
 <strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
-Really.
+Which we thought would be useful when there were a lot of people coming from out of town who did not already know the lay of this land. They might want to do their own beer runs or have breakfast someplace hip.
 
 # Times of Things that have Times
 <em>check back later for more details</em>
