@@ -100,7 +100,7 @@ The guest room is now upstairs. Griffin will, sadly, be in Hermiston for his bir
 ### BSA
 <em>Kim and Ed (and sometimes the kids), plus cat Harley</em>
 
-* Guest space in the bunk-bed room: 
+* Guest space in the bunk-bed room: Danne
 
 ### Incottagnito
 <em>Alexis and cat Hazel</em>
