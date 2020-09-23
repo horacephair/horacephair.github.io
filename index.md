@@ -7,6 +7,10 @@ title: Horace Phair 2019
 
 Relationships take work. Work is worship. Welcome, you are already here.
 
+# Horace Phair XIX
+Probably some things will happen in various locations
+## October 9-12, 2020
+
 # Horace Phair XVIII
 Will occur on
 ## October 11-14, 2019
