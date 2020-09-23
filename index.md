@@ -1,5 +1,5 @@
 ---
-title: Horace Phair 2019
+title: Horace Phair 2020
 ---
 
 
@@ -11,9 +11,13 @@ Relationships take work. Work is worship. Welcome, you are already here.
 Probably some things will happen in various locations
 ## October 9-12, 2020
 
-# Horace Phair XVIII
-Will occur on
-## October 11-14, 2019
+Let's all mostly stay home and not share germs, yes? But what if we do some fun things in different locations at the same times?
+
+Requested funs:
+* Variety Show - Vera will host
+* Think Again My Friend life recording - only if folks want to!
+* PowerPoint Party - who will host?
+* Rowan makes some music - Rowan will host
 
 So, like, it's a party, right? And it started with... <a href="https://opensource.com/article/19/9/geeks-cyberspace">a website</a>? That some of us did research for or made jokes on and logged our dreams on and wrote poetry and recipes on, <a href="https://everything2.com/title/HipBone+Games">played games on</a>, and had arguments about whether <a href="https://everything2.com/title/Getting+to+Know+You">GTKY stuff</a> was really a useful addition to the knowledgebase of Everything. We made soft links and hardlinks and oh no i have to say it <small>we made friends</small>
 
@@ -22,7 +26,6 @@ And i think some people are still on that site, they can tell you what it's like
 <strong><a href="http://goo.gl/maps/OFoWI">This is the link to a horace p. hair maaaaap.</a></strong>
 
 Which we thought would be useful when there were a lot of people coming from out of town who did not already know the lay of this land. They might want to do their own beer runs or have breakfast someplace hip.
-
 
 <a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
 
@@ -40,24 +43,16 @@ Which we thought would be useful when there were a lot of people coming from out
 <small>what was so great about tabular format anyways</small>
 
 ## Friday evening, and night
-* People get to Portland! Or they already live here and they are already here. Already.
-* Pizza with newlyweds at BSA.
+???
 
 ## Saturday
-* X AM: People like to eat breakfast, together with each other. The #horacephair channel on <a href="#slack">our Slack</a> may help with determining who is awake, alive, alert, enthusiastic for food when you are.
-* 10-ish AM: There will probably be the THIRD ANNUAL LITTLES GROUP PHOTO for the small folks that are related to us, even if they haven't started breathing air yet (people who haven't been born are indeed quite little). Let's aim for 10:00am at Salut and then we can all head to Irving park for playground fun times. 
-* 1:30-3PM: Soaking at <a href="https://g.page/commongroundwellnessco-op?share">Common Ground</a>; talk to Kim if you want to join in this pleasure. There are borrowable towels at Saluthaus.
-* PM: Afternoon games time at Saluthaus: EPYC? Taboo? Monster Cards? Dominion? Euchre? There are so many options. 
-* PM: Did you bring an instrument? REALLY? Will you play us a song? You didn't? Well, do you know any poems or good jokes? Do you want to read us a story? 
-* ?9 PM?: THE MORALS are our new music crush, they'll play in the evening in the basement when they are ready, and we will do our best to only be awkward in the charming way.
-* LATE PM, UNLESS EARLIER: It is not impossible that we'll do some reading. Saluthaus has multiple scripts for <u>Antony and Cleopatra</u>, an abridged <u>Romeo and Juliet</u>, <u>Rosencrantz and Guildenstern are Dead</u>, and <u>Who's Afraid of Virginia Woolf?</u>. We might also have multiple copies of <u>Under Milk Wood</u>, if that seems like the way to go.
+???
 
 ## Sunday
-* 9 AM: Brunch and friendship bracelet making at Salut. If you have resources for the latter, bring 'em. If not, don't worry about it. Brunch will include coffee, hot applesauce with gf granola and vegan ice cream for vegans and others; hot dutch babies with caramelized onions and/or cheese and/or applesauce for others. 
-* 5 PM til oh 9 PM or so: Quiet Reading at the Vērzemniekses, 5p til oh 9p or so. There will be soup! The soup will be vegan and gluten-free. If you'd like it to be something else, please let Liene or Nathan know. (You are welcome to bring gluten if you'd like to have some alongside.) You can bring one of your books; you can read one of ours. Maybe we'll put somethin' on the record player.
+???
 
 ## Monday morning
-* Quiet _Dread_ in the pre-dawn hours
+* Quiet _Dread_ in the pre-dawn hours (let's face it, this is timeless)
 <a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
 * _choose your own breakfast adventure_ @ various places
 
@@ -249,5 +244,13 @@ The guest room is now upstairs. Griffin will, sadly, be in Hermiston for his bir
 * Apples conspired to keep themselves from us
 * The littles are getting less little. There was a whole kid brunch!
 * more things, oh no, what have I forgotten
+
+## XVIII
+<em>October 11-14, 2019</em>
+* Brunch and friendship bracelets
+* Third annual littles time?!?!
+* Celebrating recent marriages
+* Reading things, both quietly and out loud
+* Actually I mostly wasn't there, what did you do that you want to have remembered in bullet form on this website?
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/71637995/in/album-72157622839840281/" title="scariest picture i&#x27;ve ever taken"><img src="https://live.staticflickr.com/35/71637995_d6cb43c9c7_z.jpg" width="480" height="640" alt="scariest picture i&#x27;ve ever taken"></a>
