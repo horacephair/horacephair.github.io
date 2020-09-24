@@ -13,7 +13,7 @@ Probably some things will happen in various locations
 
 Let's all mostly stay home and not share germs, yes? But what if we do some fun things in different locations at the same times?
 
-Requested funs:
+<em>Requested funs:</em>
 * Variety Show - Vera will host
 * Think Again My Friend life recording - only if folks want to!
 * PowerPoint Party - who will host?
@@ -28,6 +28,11 @@ And i think some people are still on that site, they can tell you what it's like
 Which we thought would be useful when there were a lot of people coming from out of town who did not already know the lay of this land. They might want to do their own beer runs or have breakfast someplace hip.
 
 <a href="https://github.com/horacephair/horacephair.github.io/edit/master/index.md"><img src="http://www.textfiles.com/underconstruction/Capsule3915construction.gif">here is the link to edit this page</a>
+
+# <a name="slack" href="https://horacephair.slack.com">Slacklining</a> 
+This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together.
+
+Also it's turned into a sort of distributed asynchronous year-round HP, in that "talkin' with yer friends, wherever they may be" sort of way. If you want to know where the people are at, etc., ask to be added to the Slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. Friends, we are winning at emoji.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/377877176/in/album-72157622839840281/" title="finishing up"><img src="https://live.staticflickr.com/125/377877176_d246d33ab8_z.jpg" width="320" height="240" alt="finishing up" align="right"></a>
 
@@ -57,64 +62,10 @@ Which we thought would be useful when there were a lot of people coming from out
 * _choose your own breakfast adventure_ @ various places
 
 ## Other events from our affiliates:
-* Portland Nursery's 32nd annual <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> starts the weekend of Horace Phair (10/11-13), then continues the following weekend (10/18-20). Maybe we could eat some apples together?
+* Portland Nursery's <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> is not happening. But you can purchase and taste apples at home as much as you'd like!
 
-# <a name="slack" href="https://horacephair.slack.com">Slacklining</a> 
-This is like IRC, which will be comforting if you remember IRC and entirely unilluminating if you don't. It's a chatty thing where we're working out the details of the plans because we're all planning this party together.
-
-Also it's turned into a sort of distributed asynchronous year-round HP, in that "talkin' with yer friends, wherever they may be" sort of way. If you want to know where the people are at, etc., ask to be added to the Slack and then we can play together on the Internet like we're back in the early oughts, except with emoji instead of emoticons. Friends, we are winning at emoji.
-
-# Accommodations are being made
-<img src="http://4.bp.blogspot.com/-Abu8Gw5fkdA/Vl91hqaR86I/AAAAAAAAKss/HVHb9_Pmk40/s1600/rowan-and-paul-animation.gif" align="right" hspace="20">Here are arrangements. If you don't see your name here, we don't know you're planning on staying at our house! (Or we haven't figured out how to edit this dealy yet.) If arrangements confuse or alarm or don't meet your standards, please alert the hosts.
-
-## Guests that need hosts
-
-* You???
-
-## Hosts that need guests
-
-### Saluthaus
-<em>Hoyt, Griffin, and Audrey II (who is a cat)(none of our plants consume live humans)</em>
-
-The guest room is now upstairs. Griffin will, sadly, be in Hermiston for his birthday, which coincides with this party.
-
-* Guest room: Iris, Ashley, and Christopher
-* Book loft: 
-* New very large corduroy sofa: ?
-* Basement hammock: ?
-
-### Master Plan (Monica's place)
-* Room for 1:
-
-### Longlawn
-<em>MediumChase & Sugarbaker live here with 1 other roomie.</em>
-
-* Space for 1 quiet guest available in the finished basement on a large, comfier-than-average sofa:
-
-### Monster Palace
-<em>Chase, Megan, Martin, Am, maybe other humans? And one smol snek. And some guinea pigs</em>
-
-* Guest room: Manuel
-
-### BSA
-<em>Kim and Ed (and sometimes the kids), plus cat Harley</em>
-
-* Guest space in the bunk-bed room: Danne
-
-### Incottagnito
-<em>Alexis and cat Hazel</em>
-
-* Spare bedroom with comfy bed:
-
-### Other Houses
-* Us???
-
-# What to Bring 
-* Bring your goldang toothbrush. You think teeth grow on trees? We're grownups now.
-* Weather clothes. Seriously, we can't predict. Might be gorgeous. Might be normal (damp). Might pour. Your shoes will probably get wet.
-* Bring a spoon or fork. Sometimes we run short.
-* Bring your blanky, because there is none other like it.
-* A camera or other d-vice for capturing things to put <a href="http://www.flickr.com/groups/542035@N21/">here</a>.
+# Accommodations
+<img src="http://4.bp.blogspot.com/-Abu8Gw5fkdA/Vl91hqaR86I/AAAAAAAAKss/HVHb9_Pmk40/s1600/rowan-and-paul-animation.gif" align="right" hspace="20"> STAY HOME don't come here
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the Past</span>
 
