@@ -18,6 +18,7 @@ Let's all mostly stay home and not share germs, yes? But what if we do some fun 
 * Think Again My Friend life recording - only if folks want to!
 * PowerPoint Party - who will host?
 * Rowan makes some music - Rowan will host
+* Jackbox Party - who will host?
 
 So, like, it's a party, right? And it started with... <a href="https://opensource.com/article/19/9/geeks-cyberspace">a website</a>? That some of us did research for or made jokes on and logged our dreams on and wrote poetry and recipes on, <a href="https://everything2.com/title/HipBone+Games">played games on</a>, and had arguments about whether <a href="https://everything2.com/title/Getting+to+Know+You">GTKY stuff</a> was really a useful addition to the knowledgebase of Everything. We made soft links and hardlinks and oh no i have to say it <small>we made friends</small>
 
