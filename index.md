@@ -56,7 +56,7 @@ Vera's variety show thingy - 7:30 pm - Contact Vera to participate. Zoom link wi
 ???
 
 ## Sunday
-???
+8pm Pacific: Show and tell! Bring something to show off. Maybe it's something you made, maybe it's something you have. We'll open the Zoom-doors at 7pm. Put a 1 on the end of this link, or grab the normal version from Slack: https://circleci.zoom.us/j/823562875
 
 ## Monday morning
 * Quiet _Dread_ in the pre-dawn hours (let's face it, this is timeless)
