@@ -57,7 +57,7 @@ Also it's turned into a sort of distributed asynchronous year-round HP, in that 
 * Portland Nursery's <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> is not happening. But you can purchase and taste apples at home as much as you'd like!
 
 # Accommodations
-<img src="http://4.bp.blogspot.com/-Abu8Gw5fkdA/Vl91hqaR86I/AAAAAAAAKss/HVHb9_Pmk40/s1600/rowan-and-paul-animation.gif" align="right" hspace="20"> STAY HOME don't come here
+<img src="http://4.bp.blogspot.com/-Abu8Gw5fkdA/Vl91hqaR86I/AAAAAAAAKss/HVHb9_Pmk40/s1600/rowan-and-paul-animation.gif" align="right" hspace="20"> 
 
 # <a name="will_happen"></a><span title="something witty">Phairs of the Past</span>
 
