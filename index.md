@@ -1,5 +1,5 @@
 ---
-title: Horace Phair 2020
+title: Horace Phair 2021
 ---
 
 
@@ -7,19 +7,9 @@ title: Horace Phair 2020
 
 Relationships take work. Work is worship. Welcome, you are already here.
 
-# Horace Phair XIX
+# Horace Phair XX
 Probably some things will happen in various locations
-## October 9-12, 2020
-
-Let's all mostly stay home and not share germs, yes? But what if we do some fun things in different locations at the same times?
-
-<em>Requested funs:</em>
-* Variety Show - Vera will host
-* Think Again My Friend life recording - only if folks want to!
-* PowerPoint Party - who will host?
-* Rowan makes some music - Rowan will host
-* Jackbox Party - who will host?
-* Littles Photo - Contact Megan to particpate in the distributed littles photo.
+## October 8-11, 2021
 
 So, like, it's a party, right? And it started with... <a href="https://opensource.com/article/19/9/geeks-cyberspace">a website</a>? That some of us did research for or made jokes on and logged our dreams on and wrote poetry and recipes on, <a href="https://everything2.com/title/HipBone+Games">played games on</a>, and had arguments about whether <a href="https://everything2.com/title/Getting+to+Know+You">GTKY stuff</a> was really a useful addition to the knowledgebase of Everything. We made soft links and hardlinks and oh no i have to say it <small>we made friends</small>
 
@@ -50,13 +40,13 @@ Also it's turned into a sort of distributed asynchronous year-round HP, in that 
 <small>what was so great about tabular format anyways</small>
 
 ## Friday evening, and night
-Vera's variety show thingy - 7:30 pm - Contact Vera to participate. Zoom link will be posted in Slack.
+???
 
 ## Saturday
 ???
 
 ## Sunday
-8pm Pacific: Show and tell! Bring something to show off. Maybe it's something you made, maybe it's something you have. We'll open the Zoom-doors at 7pm. Link in Slack for historical purposes.
+2-4 pm Vera's little trio is rehearsing in Happy Valley. Open to audience if you want to hear us practice our folk and Americana music! DM Vera on Slack to RSVP as parking is limited.
 
 ## Monday morning
 * Quiet _Dread_ in the pre-dawn hours (let's face it, this is timeless)
@@ -205,5 +195,10 @@ Vera's variety show thingy - 7:30 pm - Contact Vera to participate. Zoom link wi
 * Celebrating recent marriages
 * Reading things, both quietly and out loud
 * Actually I mostly wasn't there, what did you do that you want to have remembered in bullet form on this website?
+
+## XIX
+<em>October 9-12, 2020</em>
+* The Plague really put a damper on things, eh?
+* There were some Zoom events with talents and showing and telling.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/71637995/in/album-72157622839840281/" title="scariest picture i&#x27;ve ever taken"><img src="https://live.staticflickr.com/35/71637995_d6cb43c9c7_z.jpg" width="480" height="640" alt="scariest picture i&#x27;ve ever taken"></a>
