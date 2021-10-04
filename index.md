@@ -40,7 +40,11 @@ Also it's turned into a sort of distributed asynchronous year-round HP, in that 
 <small>what was so great about tabular format anyways</small>
 
 ## Friday evening, and night
-???
+Pizza Night
+16:00(4pm)-??:??
+The return of the traditional HP friday night pizza celebration. Please join Kim and Ed at their new home, BirdHouse (3264 N Farragut), for a variety of local delivery pizza and socializing. Vegan and veggie options will be available. Please forward any additional dietary requests. Non-alcoholic beverages will be avalable, and you may want to byob. Children are welcome. Vaccinated guests only (children under 12 exempted). 
+
+
 
 ## Saturday
 ???
