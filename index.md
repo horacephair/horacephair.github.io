@@ -43,10 +43,10 @@ Also it's turned into a sort of distributed asynchronous year-round HP, in that 
 ???
 
 ## Saturday
-???
+2-4 pm Vera's little trio is rehearsing in Happy Valley. Open to audience if you want to hear us practice our folk and Americana music! DM Vera on Slack to RSVP as parking is limited.
 
 ## Sunday
-2-4 pm Vera's little trio is rehearsing in Happy Valley. Open to audience if you want to hear us practice our folk and Americana music! DM Vera on Slack to RSVP as parking is limited.
+???
 
 ## Monday morning
 * Quiet _Dread_ in the pre-dawn hours (let's face it, this is timeless)
