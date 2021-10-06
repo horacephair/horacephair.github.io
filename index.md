@@ -47,7 +47,25 @@ The return of the traditional HP friday night pizza celebration. Please join Kim
 
 
 ## Saturday
+### 1:30 pm **Random Trade Journal Reading**
+* Where: Backyard of Master Plan (contact Monica for address)
+* Alcohol: No
+* Food: Light snacks
+* Kid friendly: Yes
+
+Come read aloud from random industry trade journals together! Since we didn't do this over the pandemic, there is a WIDE assortment to choose from, and you will be invited to pick one to take home with you! A few examples: PI (professional investigator magazine), Genii (the conjurer's magazine), and HAUNTWORLD ("the only magazine for professional haunted house and escape room owners").
+
+### Trio Rehearsal in Happy Valley
 2-4 pm Vera's little trio is rehearsing in Happy Valley. Open to audience if you want to hear us practice our folk and Americana music! DM Vera on Slack to RSVP as parking is limited.
+
+### 5 - 7pm PowerPoint Karaoke
+* _Notice:_ This was previously scheduled to begin at 7pm, but has been bumped earlier so as not to conflict with other evening events
+* Where: NedSpace, 707 SW Washington St., 11th floor (the elevator code will be turned off)
+* Kid friendly: ... Possibly, for the right kid! There's not much room to run around.
+* Alcohol: Yes
+* Food: Light snacks
+
+No, we don't have time to prepare for a full PowerPoint Party, so let's just have the afterparty instead. Come present a slideshow made from an artfully random collage of slides on the internet, none of which you've seen before! Yes, you _will_ be taking questions afterward.
 
 ## Sunday
 ???
