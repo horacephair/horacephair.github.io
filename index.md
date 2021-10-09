@@ -37,46 +37,9 @@ Also it's turned into a sort of distributed asynchronous year-round HP, in that 
 
 # Times of Things that have Times
 
-<small>what was so great about tabular format anyways</small>
+### DON'T LOOK FOR A SCHEDULE HERE!
 
-## Friday evening, and night
-Pizza Night
-16:00(4pm)-??:??
-The return of the traditional HP friday night pizza celebration. Please join Kim and Ed at their new home, BirdHouse (3264 N Farragut), for a variety of local delivery pizza and socializing. Vegan and veggie options will be available. Please forward any additional dietary requests. Non-alcoholic beverages will be avalable, and you may want to byob. Children are welcome. Vaccinated guests only (children under 12 exempted). 
-
-
-
-## Saturday
-### 1:30 pm **Random Trade Journal Reading**
-* Where: Backyard of Master Plan (contact Monica for address)
-* Alcohol: No
-* Food: Light snacks
-* Kid friendly: Yes
-
-Come read aloud from random industry trade journals together! Since we didn't do this over the pandemic, there is a WIDE assortment to choose from, and you will be invited to pick one to take home with you! A few examples: PI (professional investigator magazine), Genii (the conjurer's magazine), and HAUNTWORLD ("the only magazine for professional haunted house and escape room owners").
-
-### Trio Rehearsal in Happy Valley
-2-4 pm Vera's little trio is rehearsing in Happy Valley. Open to audience if you want to hear us practice our folk and Americana music! DM Vera on Slack to RSVP as parking is limited.
-
-### 5 - 7pm PowerPoint Karaoke
-* _Notice:_ This was previously scheduled to begin at 7pm, but has been bumped earlier so as not to conflict with other evening events
-* Where: NedSpace, 707 SW Washington St., 11th floor (the elevator code will be turned off)
-* Kid friendly: ... Possibly, for the right kid! There's not much room to run around.
-* Alcohol: Yes
-* Food: Light snacks
-
-No, we don't have time to prepare for a full PowerPoint Party, so let's just have the afterparty instead. Come present a slideshow made from an artfully random collage of slides on the internet, none of which you've seen before! Yes, you _will_ be taking questions afterward.
-
-## Sunday
-???
-
-## Monday morning
-* Quiet _Dread_ in the pre-dawn hours (let's face it, this is timeless)
-<a href="http://www.grandronde.org/news/smoke-signals/2015/10/14/oregon-cities-adopt-indigenous-peoples-day/#sthash.uGAG80Md.dpbs">Indigenous Peoples' Day</a>
-* _choose your own breakfast adventure_ @ various places
-
-## Other events from our affiliates:
-* Portland Nursery's <a href="http://www.portlandnursery.com/events/appletasting.shtml">apple tasting festival</a> is not happening. But you can purchase and taste apples at home as much as you'd like!
+Due to difficulties making this document editable by every stakeholder, the schedule has been moved to a shared google doc. We will not be keeping this website in sync. The link to said document is in the title of slack#horacephair, or you can ask someone if slack is too much.
 
 # Accommodations
 <img src="http://4.bp.blogspot.com/-Abu8Gw5fkdA/Vl91hqaR86I/AAAAAAAAKss/HVHb9_Pmk40/s1600/rowan-and-paul-animation.gif" align="right" hspace="20"> 
