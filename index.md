@@ -6,6 +6,8 @@ title: Horace Phair 2021
 
 <img src="https://i.imgflip.com/1sy849.jpg" height="100%">
 
+<h1><a href="https://docs.google.com/document/d/1iTeKdri1-Z4jct6r_6jMrdWWdgj_K1epWtYqdpUf3GI/edit?usp=sharing">HOLY SHIT USE THIS LINK INSTEAD</a></h1>
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ideath/4007176704/in/album-72157622839840281/" title="couchness at PMF"><img src="https://live.staticflickr.com/2523/4007176704_16cca51be0_z.jpg" width="320" height="240" alt="couchness at PMF" align="right"></a>
 
 Relationships take work. Work is worship. Welcome, you are already here.
