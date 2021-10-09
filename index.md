@@ -44,6 +44,8 @@ Also it's turned into a sort of distributed asynchronous year-round HP, in that 
 
 ### DON'T LOOK FOR A SCHEDULE HERE!
 
+<h1><a href="https://docs.google.com/document/d/1iTeKdri1-Z4jct6r_6jMrdWWdgj_K1epWtYqdpUf3GI/edit?usp=sharing">HOLY SHIT USE THIS LINK INSTEAD</a></h1>
+
 Due to difficulties making this document editable by every stakeholder, the schedule has been moved to a shared google doc. We will not be keeping this website in sync. The link to said document is in the title of slack#horacephair, or you can ask someone if slack is too much.
 
 # Accommodations
